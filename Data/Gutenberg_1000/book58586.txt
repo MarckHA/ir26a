@@ -1,0 +1,1533 @@
+﻿The Project Gutenberg EBook of Bird Houses, Baths and Feeding Shelters, by 
+Edmond Joseph Sawyer
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Bird Houses, Baths and Feeding Shelters
+       How to Make and Where to Place Them
+
+Author: Edmond Joseph Sawyer
+
+Release Date: January 1, 2019 [EBook #58586]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK BIRD HOUSES, BATHS, FEEDING SHELTERS ***
+
+
+
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+                              BIRD HOUSES
+                       BATHS AND FEEDING SHELTERS
+                            HOW TO MAKE AND
+                          WHERE TO PLACE THEM
+
+
+                            EDMUND J. SAWYER
+
+    [Illustration: Wren]
+
+                     CRANBROOK INSTITUTE OF SCIENCE
+                     Bulletin No. 1, Fifth Edition
+
+                             Fifth Edition
+                             Copyright 1955
+                 by The Cranbrook Institute of Science
+                       Bloomfield Hills, Michigan
+
+                     First printed as “Bird Houses”
+                First Edition, March, 1931, 2000 copies
+              Second Edition, February, 1938, 1500 copies
+
+  Revised and enlarged to include western species, baths, and shelters
+               Third Edition, December, 1940, 3000 copies
+                Fourth Edition, June, 1944, 5000 copies
+                        June, 1951, 4000 copies
+                 Fifth Edition, July, 1955, 6000 copies
+                      September, 1963, 5000 copies
+
+      Printed by Litho-Art, Inc., from type set and printed by the
+                            Cranbrook Press
+
+
+
+
+                           TABLE OF CONTENTS
+
+
+  Foreword                                                              5
+  Bird Houses and Common Sense                                          7
+      Some Current Notions Corrected                                    7
+  General and Miscellaneous                                            11
+      Material                                                         11
+      Entrance                                                         11
+      Nails                                                            13
+      Slabs                                                            13
+      Facilities for House Cleaning                                    13
+      Position of Boxes                                                13
+      Undesired Tenants                                                14
+      Thickets                                                         15
+  Dimensions for Various Houses                                        16
+  House Wren                                                           18
+      Other Wrens                                                      18
+  Black-capped Chickadee                                               18
+      Other Chickadees                                                 19
+  White-breasted Nuthatch                                              20
+      Other Nuthatches                                                 20
+  Tufted Titmouse                                                      20
+  Tree Swallow                                                         21
+      Other Swallows                                                   21
+  Eastern Bluebird                                                     21
+      Other Bluebirds                                                  22
+  Crested Flycatcher                                                   22
+  Flickers                                                             23
+  Purple Martin                                                        25
+  Tree-nesting Ducks                                                   27
+  Hawks and Owls                                                       28
+  Common House Finch                                                   29
+  Robin and Phoebe                                                     29
+  Bird Baths                                                           33
+  Food Stations                                                        35
+
+
+
+
+                            _ILLUSTRATIONS_
+
+
+  Bluebirds                                                             4
+  Nesting Sites, Natural and Artificial                                 9
+  The Best and Most Simple Form of Artificial Nesting Site             12
+  Discouraging the Uninvited Guest                                     14
+  A Simple and Effective Box Bird House                                17
+  A Chickadee Family                                                   19
+  The Martin House                                                     24
+  Nesting House for Ducks                                              26
+  An Easy-to-make Box                                                  27
+  Nest Boxes for the House Finch                                       30
+  Nesting Shelves for Robins and Phoebes                           30, 31
+  Bird Baths                                                           32
+  Types of Feeding Stations                                            34
+  Drinking and Bathing Station for Winter Use                          36
+  Wood Ducks                                                   Back Cover
+
+    [Illustration: Bluebirds]
+
+
+
+
+                                Foreword
+
+
+Most species of the smaller birds which nest in hollow trees, and
+therefore in bird houses, suffer seriously from intrusion by English
+Sparrows and European Starlings. These two species, nesting in similar
+locations and being prolific, tend to take up all available nesting
+cavities, even ejecting native birds which have built or begun to build.
+This condition, already serious, may become far more baneful than we are
+as yet able to realize. It may even contribute to the eventual
+extinction of Bluebirds, Crested Flycatchers, and Purple Martins unless
+we provide nesting sites sufficient in number and suitable in kind for
+all. The number of natural nesting sites is already far below that
+required by these birds, and yet the Starlings in particular are
+increasing alarmingly. There is no way to determine when a final
+adjustment or balance will be reached or what the numerical status of
+our native bird-house dwellers will be when such balance shall have been
+attained.
+
+In the case of the native species named above, we can at least help by
+providing proper nesting boxes which will induce the birds to
+concentrate about our houses, where the European Starling and the
+English Sparrow menace may be more easily and effectively met than
+elsewhere. The reader should note that the imported English Sparrow,
+which is in reality a weaver finch and unrelated to our tuneful native
+sparrows, is the only “sparrow” east of the Rocky Mountains that nests
+in holes or bird houses. The shyer, more desirable, native species are
+invariably harmless and should be both protected and encouraged.
+
+The smaller of the bird-house species, such as the House Wren, Tree
+Swallow, Black-capped Chickadee, White-breasted Nuthatch, and Tufted
+Titmouse are less affected by the intruders. These smaller birds can
+use, and usually select, cavities with openings too small for either
+Starling or English Sparrow to enter. However, there is still a distinct
+practical advantage in providing proper boxes for House Wrens and other
+small species. In many instances these birds fail to find places safe
+from the ubiquitous English Sparrow and European Starling, which then
+proceed in their well-known manner to work destruction. A properly made
+wren house, chickadee house, or swallow house can be absolutely safe
+from the foreign invaders.
+
+More nesting sites, properly made and situated, are desirable, owing to
+the destruction of birds’ traditional nesting sites over wide acreages
+about cities and other settled areas, but the providing of suitable bird
+houses needs no defense or excuse. Whether it be the beautiful and
+demure bluebird, “bird of happiness,” the sleek and immaculate swallow,
+the songful wren, “saucy and impudent,” the bustling and industrious
+chickadee, or the alert and noisy flycatcher, the native tenant of the
+bird house will be an interesting and entertaining neighbor, always
+prompt to pay his rent in one form or another or in many forms and with
+interest. Does one need any special excuse for offering hospitality to
+such a neighbor? When birds nest on our home grounds, their destruction
+of garden pests, mosquitos, gnats, and other undesirable insects is
+concentrated where we can most directly profit from the results—our own
+greater comfort and safety, better gardens, more productive orchards,
+more verdure in shade trees and in ornamental trees and shrubs.
+
+
+
+
+                      Bird Houses and Common Sense
+
+
+    [Illustration: Illustrated capital A]
+
+Although there are a number of points which should be considered in the
+proper designing and placing of a bird house, there is one simple idea
+which practically covers the whole subject. Every species of our small
+native birds that nests in a bird house nested originally in a hollow
+tree, by preference in a hollow of one unvarying type—the burrow made by
+a woodpecker. Thus we need only know what the burrow of a woodpecker is
+like and we have automatically solved in a general way the questions of
+material; size and shape of entrance; diameter, depth and form of
+cavity; height above ground; and situation. The nature of nesting
+material and its whereabouts should play absolutely no part in human
+plans for the prospective tenants. “Unfurnished” rooms are the only kind
+for which birds are looking.
+
+There is solid ground for assuming a woodpecker’s burrow to be the ideal
+pattern for a bird house. The woodpecker, whatever its species, free to
+excavate any form of chamber that it might wish, invariably uses _one_
+type of burrow. The birds which by preference habitually adopt for their
+own use the woodpecker’s abandoned home have likewise thus placed their
+own age-old stamp of approval on that type. It is logical to assume,
+therefore, that the artificial bird house should follow at least the
+general plan of that long-tried and preeminently successful nesting
+site. Since a theory may be plausible while yet utterly untenable in
+actual application, it remains to add that abundance of experience in
+building and placing bird houses all goes to prove the foregoing basic
+principle soundly correct in practice. With or without benefit of the
+plans and specifications in such a bulletin as this, a person who takes
+his cue from a woodpecker will not go far wrong. In planning a bird
+house, we must continually hark back to the idea of the woodpecker’s
+burrow—or rather, we should never quite lose sight of it.
+
+
+                    _Some Current Notions Corrected_
+
+Attention should be called to some common misconceptions. The colony
+bird house, or any bird house with more than one compartment, is always
+a mistake unless it has been designed for Purple Martins. Yet certain
+firms have for years been advertising “wren houses” of four or more
+chambers. One who knows this pugnacious little bird tries in vain to
+imagine two pairs of wrens living peaceably under one small roof! Every
+bird house should consist of one, and only one, chamber—with the single
+exception of a house intended for the Purple Martin, which nests in
+colonies.
+
+The cubic capacity of the bird houses one sees is nearly always much too
+great—often several times too great. Builders seem to believe that the
+diameter of the nesting chamber should at least equal the total length
+of the bird—a theory as erroneous as it is plausible. Plate I
+illustrates the fact that the sitting bird normally occupies a space
+measuring much less from side to side than the outstretched length of
+the bird. Figure No. 4, Plate I, shows how much work is often made for
+the House Wren, while figure No. 5, on the same plate, shows how greatly
+this work may be reduced—with the greater inducement to the prospective
+occupant.
+
+The square or rectangular door is another frequent mistake—a projection
+of the designer’s own plantigrade and vertical personality.
+
+To place the entrance at or near floor level is also an error. Remember
+that birds close no doors against drafts, that their “beds” are laid on
+the floor and consist of light straws, feathers, or other flimsy
+materials.
+
+Many a wren house with entrance (as it should be) too small for any
+English Sparrow to enter, is hung _swinging from a branch_ as a further
+protection against the unwanted sparrow. That is like beheading a
+criminal and then, “just to be on the safe side,” shooting him into the
+bargain! It is said that wrens do not hesitate to use these swinging
+nesting sites, but we have our serious doubts. We have personally seen
+one instance of a wren nesting in the pensile home of a Baltimore
+Oriole, but it is significant that in this case we failed to find any
+better site nearby. Some persons report success with this type of house
+and prefer it because of the ease of putting it up and taking it down
+without injury to a living tree.
+
+Two doors, presumably entrance and exit, to a bird house of one
+compartment is nearly as ridiculous an innovation as the two doors said
+to have been provided by a famous scientist for the use of his old cat
+and her kittens, respectively.
+
+    [Illustration: Plate I. Nesting Sites, Natural and Artificial
+
+    1, 2, 3, A nesting woodpecker, a Chickadee, and a pair of bluebirds,
+    respectively. Compare length of bird with diameter of nesting
+    chamber. 4, A wren house, as frequently made, of eight to ten times
+    the necessary cubic capacity. 5, A wren house of proper and ample
+    size.]
+
+Overcrowding is a prevalent fault. On an area insufficient properly to
+harbor two pairs of wrens or bluebirds there will often be a half-dozen
+or more bird houses. Tree Swallows are social birds and will occupy
+boxes placed near to one another, but ordinarily, birds, especially
+those of the same species, do not build near each other. It is a large
+town lot which will properly accommodate more than one pair of nesting
+wrens. Even the demure bluebirds do not like to build within a stone’s
+throw of each other. While the martin colony may number upward of a
+dozen pairs in the same house, there may not be other martins within a
+mile. There is many a small village whose single martin house
+accommodates all the martins to be found within a radius of several
+miles.
+
+The size of entrance seems often to be a stumbling block. One sees wren
+houses with perfect bluebird entrances, and bluebird houses with
+doorways best suited to wrens or chickadees or, at the other extreme, to
+doves!
+
+Although arguments, supported by some experience, have been advanced for
+larger entrances, we nevertheless suggest entrances of nearly minimum
+size—a suggestion based on personal experience and long familiarity with
+the preferences shown by the species concerned. Apparently John
+Burroughs was first to point out that when birds hesitate to enter a
+small opening it is evidently because their bodies, completely filling
+the entrance, render the cavity totally dark and therefore alarming. Cut
+a few small auger holes to admit light, and the bird enters the now
+somewhat less mysterious chamber. The holes also provide needed
+ventilation, but they should be small and well above the entrance-level,
+for drafts must be avoided. The entrance to the house for wren,
+chickadee, or Tree Swallow should be, since it easily may be, too small
+to admit English Sparrows. It is not possible to exclude English
+Sparrows from houses of other birds in that way.
+
+Finally, the mistake is often made of providing simply _a_ bird house
+instead of a _martin_ house, a _wren_ house, a _bluebird_ house, or a
+house for some other definite species. The result is that such houses
+usually go unoccupied or else are promptly claimed by the first English
+Sparrows that spy them. Any bird house will suit the English Sparrow if
+only he can get into it, and he usually can get into _a_ bird house. So
+avoid type _a_—the too common variety.
+
+
+
+
+                       General and Miscellaneous
+
+
+                               _Material_
+
+    [Illustration: Illustrated capital W]
+
+Wood is the material par excellence for the bird house, the only
+material which can be unreservedly recommended. Substitutes have been
+used with varying degrees of success or failure. What glass is for the
+window, wood is for the bird house. First, the birds are habituated to
+it. It is a good nonconductor of heat, it resists rain and extremes of
+temperature, and it can be made to harmonize with its setting. Over a
+long period of time it improves, rather than suffers, from exposure to
+the weather.
+
+Soft wood with straight grain, such as pine or spruce, is preferable. It
+is easily worked, may be nailed with little danger of serious splitting,
+and is sufficiently durable. Slab wood, with or without the bark, and
+old fence-boards make the most generally effective bird houses. If new
+lumber is used, it should be rough, not planed; whether rough or planed,
+it should be treated with gray, olive, or dull brown stain of a medium
+shade. There are numbers of suitable oil stains on the market. The stain
+should permeate the grain of the wood, without actually coating it as
+paint does. Thickness of the boards should not be far from 1 inch. If
+slab wood is used, it may be anywhere from ⅜ inch at the edge, up to
+about 2 inches in the thickest part.
+
+Leave the matter of materials for the nest itself entirely to the birds.
+Not only is it quite unnecessary to place twigs, straws, strings, or
+even choice feathers or other fluffy bits on or near the bird house, but
+such action tends actually to defeat its own purpose. The prospective
+tenants often seem to regard these well-meant efforts as evidence of a
+competitor who has the advantage of priority. This is especially apt to
+be the case when the materials are placed inside the house. Birds will
+sometimes steal nesting sites and even the raw materials of others but
+may choose to avoid the clash which such piracy entails, provided there
+are other sites and materials not too far to seek.
+
+
+                               _Entrance_
+
+There is always danger of the wood splitting when too large an auger
+hole is attempted. Before assembling the bird house, make an entrance in
+the front board. Start by drawing a circle the exact size of the
+doorway-to-be. Then, just inside this circle, bore four holes at equal
+intervals, using a bit not larger than ⅜ inch for the smaller entrances;
+not larger than ¾ inch for the larger entrances. It will now be not too
+difficult, by use of a keyhole saw or pocketknife and wood-rasp, to
+remove the wood still remaining inside the drawn circle. Placing the
+board horizontally in a vice will further insure against splitting while
+the holes are being bored.
+
+    [Illustration: Plate II. The Best and Most Simple Form of Artificial
+    Nesting Site
+
+    With dimensions appropriate to the species, this is the most
+    generally attractive type of house for all species excepting the
+    Purple Martin. It is the type especially suited for the chickadee,
+    nuthatch, and Tufted Titmouse.]
+
+  1 THE BLOCK SAWED AROUND (TO DOTTED LINE) AND SPLIT IN TWO.
+  2 HOLLOWED OUT HOLES DRILLED FOR ENTRANCE AND FOR FASTENING PEGS.
+  3, 4, AND 5 SHOW THAT A NEST IS NOT DISTURBED BY OPENING HOUSE TO
+          INSPECT.
+  6 THE “ARTIFICIAL WOODPECKER HOLE” IN PLACE. NOTE FASTENINGS FOR
+          FRONT,—WOOD PEGS.
+  7 TOOLS FOR OBTAINING AND WORKING THE MATERIAL.
+
+
+                                _Nails_
+
+When a bird house is fastened to a support by the “toe-nail” method (by
+driving nails at a slant through the sides and bottom), it is a good
+point first to drill holes of the right diameter to fit the nails
+tightly; otherwise splitting of the sides or bottom of the house may
+result. Use flat-headed nails.
+
+
+                                _Slabs_
+
+When slabs are used in house-building, the upright pieces may be
+fastened to each other, at intervals of several inches, with a wire
+staple having ¾-inch prongs one inch apart. These should be on the
+outside of the house, where rust will color them to conform with the
+rustic wood.
+
+
+                    _Facilities for House Cleaning_
+
+For inspecting the nest and, at the end of the season, for cleaning out
+the old nest material, the top or some other section of the house should
+always be easily removable. Exceptions to this rule are houses for ducks
+and other larger birds, for which the entrance may be large enough and
+the depth not too great for all such purposes. Do not open a house in
+the owner’s presence. The more brief and infrequent your inspections,
+the less they will disturb the birds.
+
+
+                          _Position of Boxes_
+
+Bird houses erected on poles are safer from predators than those placed
+in trees. Houses for Purple Martins, in particular, need to be at a
+distance from trees and buildings, and if possible near water.
+
+Place your bird house where the sun will reach it during part of the
+day, and turn the entrance away from the prevailing winds.
+
+It seems hardly necessary to emphasize that, if possible, the bird
+house, as well as the bird bath and feeding station, should be placed in
+full view of a convenient window. To watch birds in their building and
+other activities will prove a fascinating pleasure.
+
+
+                          _Undesired Tenants_
+
+The author once with complete success contrived and operated a
+mechanical “bouncer” to meet a particular and aggravated instance of
+bird trespassers. In case of interference with any desired tenant or
+prospective tenant by rivals for the same bird house, the interfering
+birds may be driven away by this device.
+
+    [Illustration: Figure 1. Discouraging the Uninvited Guest.]
+
+One end of a stout cord is attached at some point close below the bird
+house. To this cord a rag or a piece of waxed paper about
+man’s-handkerchief size is tied as conspicuously as possible at a
+distance from the fastened end of the cord about equal to the height of
+the bird house. The cord’s free end is then carried through a window of
+your own house from which there is a convenient view of the bird box.
+The end of the cord is fastened inside the window where it can be easily
+reached and jerked, enough slack being allowed to let the rag at the
+other end hang down. If the unwanted birds appear on or too close to the
+bird house, the cord is given a sharp pull which will cause the rag to
+jerk upward and frighten the intruder away. Repeat as often as occasion
+requires.
+
+Care should be taken to work the bouncer when only the undesired birds
+are within effective distance. However, should the contending birds
+actually come to bodily grips on or beside the nesting site, the fight
+may be broken up by vigorous operation of the alarm. The author found
+that this device, exercised as occasion required, in two days ended a
+week-old continuous struggle between a Bluebird and a pair of Tree
+Swallows in which the Bluebird had entirely defeated the daily efforts
+of the Swallows to start a nest. The Swallows were left in possession,
+quickly built their nest, and duly raised their brood.
+
+Obviously, this device and procedure may be applied against Starlings,
+English Sparrows, or other birds, regardless of species, which for any
+reason one desires to discourage from building in a given bird house or
+other nesting-site.
+
+The use of a rag or similar object, instead of a bell or other
+noisemaker, is advised because the range of alarm is thereby limited to
+the immediate location of the bird house, so that the desired tenants
+will not be frightened by the operation of the alarm when they are
+within hearing.
+
+
+                               _Thickets_
+
+“Reserves” of the favorite environment are as much a need for some
+species as bird houses are for others. Widespread “improvement” and
+“beautification” along roadsides is destroying the thicket, the favored
+haunt of Song Sparrows, Catbirds, certain warblers, quail, and other
+desirable species. A “reserve” thicket may be located in a secluded part
+of the home grounds, hidden by a hedge if considered unsightly. It may
+be almost any shape, but not less than 20 feet in average diameter or
+much less than 400 square feet in area. Here weeds, tall grass, briars,
+and dense bushes are allowed to grow wild, forming a tangle as they
+will. If the bushes include such kinds as hackberry, hawthorn, sumac,
+elderberry, and chokecherry, the thicket’s annual period of usefulness
+will be extended. Including such a winter food tree as the mountain ash
+will invite Purple Finches, Pine Siskins, grosbeaks, waxwings, and
+perhaps crossbills.
+
+
+
+
+                     Dimensions for Various Houses
+
+
+    [Illustration: Illustrated capital F]
+
+Following are specifications and remarks on the housing requirements of
+the birds by species. For related forms not included in the table see
+text.
+
+                                _Table I_
+                               Diameter    Depth   Diameter   Distance
+                                  of       from       of        from
+                               interior  entrance  entrance  ground to
+                               (inches)  (inches)  (inches)   entrance
+                                                               (feet)
+
+  House Wren                     4¼-5½      7-9        1        8-18
+  Black-capped Chickadee         3¼-4       7-9       1⅛        8-15
+  White-breasted Nuthatch,       3¾-4½     8-10       1½       12-25
+      Tufted Titmouse
+  Tree Swallow                   4-5½       6-8       1⅜        8-30
+  Eastern Bluebird                4-5      8-10       1⅝        8-20
+  Crested Flycatcher             5½-6½     9-12       2⅛       15-40
+  Flicker                        6½-7½     12-16      2½       10-35
+  Purple Martin                  6-7½       6-8      2⅛-2½     12-14
+  Wood Duck, Hooded Merganser     7½       12-15       4       10-20
+  Sparrow Hawk                   6½-7      14-16       3       20-50
+  Saw-whet Owl                   6-7½      14-16      2⅞       15-45
+  Screech Owl                     7-8      14-16      3¼       15-30
+
+                              _Nesting Box_
+
+  Common House Finch             4½-6                Open      10-30
+
+                            _Nesting Shelves_
+                                           Width    Length     Height
+                                         (inches)  (inches)     from
+                                                               ground
+                                                               (feet)
+
+  Robin                                     5-6    8 or more    8-30
+  Phoebe                                   3½-4½   7 or more    8-20
+
+    [Illustration: Plate III. A Simple and Effective Box Bird House
+
+    For House Wrens, Bluebirds, and Tree Swallows, especially. For these
+    the house may be of weathered fence-boards or even, if need be, of
+    new lumber stained some dull tint. For chickadees, nuthatches, and
+    Tufted Titmice, rough “slab” material is preferable. Dimensions
+    given are for the House Wren. For other species, see Table I.]
+
+  TOP (INSIDE): 7¼^IN. × 7¼^IN.
+  EDGE: ¾^IN. × 9^IN.
+  SIDE: × 4¼^IN.
+  FRONT (INSIDE): × 5¾^IN.
+  {HOLE DIAMETER}: ¾^IN.
+  BACK (OUTSIDE): 7^IN. × 5¾^IN.
+  BOTTOM: 4¼^IN. × 4¼^IN.
+  CONSTRUCTION
+    THE FASTENING ON FRONT OF LID
+    THE HINGE ON BACK OF LID
+
+
+
+
+                             The House Wren
+
+
+    [Illustration: Illustrated capital N]
+
+Nesting in all sorts of nooks and crannies, the House Wren is easily
+satisfied. Moreover, this is often the only desirable species which can
+be induced to build in so civilized and restricted a place as a small
+city lot. Slab construction may be employed or old weathered boards
+used, but new lumber seems nearly or quite as welcome to the wren.
+
+Plate III illustrates a wren house and gives directions for building.
+Distance from the ground to the entrance of the house should be from 8
+to 18 feet. The place safest from cats is on the side of a building. If
+the box is on a tree or wooden post, protection is afforded by a band of
+smooth sheet metal such as zinc, 2½ feet high, starting not less than 4
+feet from the ground or other point that is within reach of cats.
+
+Two or three wren houses spaced as far apart as the yard or garden
+allows will provide for the duplicate, unused, nests which these birds
+often build, or for a possible second brood.
+
+
+                             _Other Wrens_
+
+For the Bewick’s Wren, which commonly nests around gardens, barns, and
+dwellings, the building directions are the same as for the House Wren.
+
+The Carolina Wren of the south, more inclined to seek woods and thickets
+than to court man’s society, is not ordinarily a bird house tenant.
+Still, a home like that described for the House Wren, but with the
+entrance having a diameter of 1¼ inch, is not unlikely to be selected by
+the Carolina if placed in a brushy area frequented by him and not much
+frequented by humans.
+
+
+
+
+                       The Black-capped Chickadee
+
+
+    [Illustration: Illustrated capital L]
+
+Lacking the semi-domestic status of wren and martin, the Black-capped
+Chickadee is not a regular bird-house addict. He prefers the seclusion
+of some unfrequented wood. Yet, not uncommonly, he is enticed by a bird
+house. The specifications and illustrations for the wren house will do
+for the chickadee. However, a cylindrical and smaller chamber with
+somewhat larger entrance (1⅛ inch) is more likely to appeal to his
+uneducated taste. He is still a bird “with the bark on,” and his house
+should be quite literally in keeping. The author personally much prefers
+to select a hollow branch, from which he cuts a foot-long section. He
+then drills an entrance hole near one end, nails a piece of slab in
+place for the bottom, provides a removable lid of the same material, and
+thus constitutes himself a proxy for the Downy Woodpecker in providing
+the chickadee with a home. (See Plate II.)
+
+    [Illustration: Figure 2. A Chickadee Family.]
+
+A wood lot or a neglected old orchard bordering a wood is the place for
+the chickadee house. See Table I for measurements.
+
+
+                           _Other Chickadees_
+
+The Mountain and other chickadees share the natural nesting habits of
+the Black-cap. Since this group is composed of birds of practically
+uniform size, a house for any species should be the same as that
+described for the Black-cap.
+
+However, chickadees are in general birds of the woods. Few or none come
+so near to being birds of “home grounds” as do the Black-caps. Houses
+for them, therefore, will be appropriate chiefly about woods homes or
+camps.
+
+
+
+
+                      The White-breasted Nuthatch
+
+
+    [Illustration: Illustrated capital A]
+
+All that has been written of the chickadee and his housing problem
+applies also in a general way to the Nuthatch, except that a slightly
+larger entrance is needed for the latter bird (see measurements in Table
+I). The Nuthatch, somewhat more than his second cousins, the chickadees,
+is given to natural knot-holes in living trees. This propensity may well
+be humored by giving him a house of the hollowed-out trunk variety. If
+the trunk or branch so hollowed out has a knot which can be made of
+proper size to serve for the entrance, then that is to add the ultimate
+artistic finish, the final delicate “touch of nature.” See Plate II.
+
+
+                           _Other Nuthatches_
+
+The western subspecies of the White-breasted Nuthatch occur chiefly in
+less settled or more restricted ranges, and they are apt to be less
+accustomed to, as well as less accessible for, bird houses.
+
+The Red-breasted, Brown-headed, and other small nuthatches share the
+hollow-tree nesting habit common to the family. They prefer locations of
+the wilder kind, so that the usual bird house is not likely to entice
+them away from less sophisticated haunts. Yet it appears likely that any
+of the species might select an imitation of its natural nesting site.
+Build as for the White-breasted, except that the entrance should be but
+1¼ inch in diameter.
+
+
+
+
+                          The Tufted Titmouse
+
+
+    [Illustration: Illustrated capital T]
+
+The Tufted Titmouse is common in the south, where its distribution is
+also much more uniform than in the north. In some places it has pushed
+far toward our northern border, but there it is inclined to be of only
+local and irregular occurrence. In general it becomes more and more a
+bird of the wilder areas as it advances northward. Usually a wood or
+woodside location will be the one most likely to entice this species to
+a bird house. When and where the bird is found to linger about
+residences toward the nesting season, the houses may be placed much as
+for the bluebird or wren, but in a very quiet corner of the yard.
+Dimensions are given in Table I (page 16). See also Plates II and III.
+
+
+
+
+                            The Tree Swallow
+
+
+    [Illustration: Illustrated capital T]
+
+The Tree Swallow is often a bird of the small city, but may be expected
+more dependably in the country or in the rural community. He is easily
+satisfied as to a nesting place but it is sometimes difficult or
+impossible for him to find a nook about our dwellings which is safe from
+the English Sparrow’s intrusion. When nesting about inhabited buildings
+he cannot well afford to dispense with the vigilance of his human
+landlords. Small, quiet, and peace-loving, he is a particularly poor
+match for the pugnacious sparrow. Specifications for the Tree Swallow
+house are given in Table I. See also Plate III. The inner wall, between
+floor and entrance, must be rough or provided with cleats, in order to
+give the young a sure foothold. Several pairs of Tree Swallows will
+willingly nest near one another.
+
+
+                            _Other Swallows_
+
+For the beautiful Violet-green Swallow build exactly as for the Tree
+Swallow. Where, in the west, both species occur, there is the chance
+that a house intended for the Violet-green will be taken by the Tree
+Swallow. This chance, otherwise more than an even one, may be lessened
+by catering to the Violet-green’s observed choice of local haunts. Barn
+Swallows will sometimes use ledges, such as those described for the
+Robin (page 29), when these are sheltered.
+
+
+
+
+                          The Eastern Bluebird
+
+
+    [Illustration: Illustrated capital B]
+
+Beautiful, cheerful, demure, raising two or more broods in the season,
+always a picture of “content in a cottage,” the Bluebird is the
+all-round ideal tenant for the simple bird house. He is, however, not a
+bird of the city, nor always a bird of the village garden. The suburbs,
+especially the more secluded spots therein, suit him much better. He
+tends, and that with ample reason, to shrink from the society of English
+Sparrows whose rough, aggressive manners and harsh notes introduce
+discord into his naturally calm and peaceful existence. By all means
+provide a house for this peerless tenant; also be prepared to lend him
+all possible assistance in policing his property until the eggs are
+laid. Once the precious eggs are deposited, trust the prospective
+parents to defend their treasure; for even the Bluebird is no exception
+to the general rule that a brooding bird will readily put an erstwhile
+successful bully to speedy and inglorious flight. See Plate III and
+Table I for housing the Bluebird.
+
+To provide for a second nesting and possibly a third, the procedure
+should be the same as that described for the House Wren. See, therefore,
+directions given for that species.
+
+
+                           _Other Bluebirds_
+
+The Western Bluebird fills the same role on the ranges and ranches that
+is taken on the smaller farms of the east by his eastern namesake. Build
+and place the house for the one precisely as for the other. The western
+bird seems much more inclined than the eastern to adopt nesting sites in
+or close to human dwellings.
+
+The Mountain Bluebird will use the same type of house; its location, of
+course, should correspond with the local haunts of the species.
+
+
+
+
+                         The Crested Flycatcher
+
+
+    [Illustration: Illustrated capital T]
+
+There is a peculiar satisfaction in successfully providing a house for
+those species, such as the Crested Flycatcher, which do not ordinarily
+resort to artificial nesting sites. It is something of a “feather in the
+cap.” Select a dilapidated orchard or an out-of-the-way woodside as a
+location for the Flycatcher’s house; place the house and await the
+results with expectations not too sanguine. Should fortune favor you
+with an opportunity to watch these birds building, remember to look for
+the famous dried snake skin almost invariably worked into the nest by
+this species, not forgetting that the reason for its use is still one of
+the mysteries. Measurements for the Flycatcher’s house will be found in
+Table I. See Plates Plate II and Plate III for styles of house
+recommended.
+
+
+
+
+                              The Flicker
+
+
+    [Illustration: Illustrated capital I]
+
+In general the woodpeckers choose to build their own houses. But as the
+Flicker is so unlike other woodpeckers in appearance and in certain of
+his well-known ways, it is not surprising to learn that he will readily
+take possession of an artificial bird house. Naturally, a woodpecker
+(and the Flicker is that) is scarcely an exception to the rule that
+bird-house tenants prefer something along the general lines of a
+woodpecker’s work. A section of a hollow trunk or branch of the proper
+dimensions inside may easily be transformed into an ideal Flicker house.
+Next best is the dugout type illustrated in Plate II. Finally, the
+semi-cylindrical or even rectangular house will do very well if the
+other specifications are about those given in Table I. The country or
+the suburbs, not too near to a residence, is the right environment for
+the Flicker.
+
+A Flicker which took possession of a house I had placed for Crested
+Flycatchers spent days in audibly widening the rectangular chamber until
+a soft bed of chips was provided to receive the eggs. The moral is—make
+the sides of thick, soft wood, and let even a woodpecker furnish his own
+bedding. However, one or two handfuls of coarse sawdust thrown into the
+Flicker house will be quite welcome to this bird.
+
+    [Illustration: Plate IV. Martin House
+
+    The foundation, each story, and the roof are built as units of
+    uniform lateral dimensions. This permits adding more stories as the
+    colony grows, and allows for easy cleaning. The central air shaft
+    and elevated roof provide cooling by air circulation. A molding
+    attached to the under side of the roof section and to the floor of
+    each other section holds the section in place, aided by hooks and
+    screw eyes as shown. A, Roof and upper stories assembled. B,
+    Interior of one story. The bottom is cut out of the central chamber
+    for the air shaft. C, Foundation or base. Its central cross-pieces
+    are double thicknesses of ¾-inch oak; the rest of the frame is of
+    pine ¾ inch thick. Four heavy angle irons (as shown) attach the base
+    to the pole. D, Interior of roof section exposed to show outlet of
+    air shaft and the screen-covered gable-end air vents (⅛- to ¼-inch
+    mesh screen). E, F, G, Details of porches and railings. The railings
+    and their supporting posts are of standard hardwood dowel stock.]
+
+
+
+
+                           The Purple Martin
+
+
+    [Illustration: Illustrated capital T]
+
+This is the only desirable colony-forming bird-house tenant. Therefore
+the apartment type of house is a waste of material unless intended for
+Purple Martins and designed accordingly. Of the desirable bird-house
+clientele, none is quite so sophisticated as the Martins in the matter
+of a satisfactory location. If it is only so much as a biscuit-toss from
+the ground, the martin house may grace a bandstand, a village railroad
+station, or a busy village square. The house itself may be one of those
+adapted doll houses, complete with chimneys, windows, fancy doorways,
+and whatnots, ornate in fluted columns, bizarre in lightning rods and
+weathercocks, pretentious with elaborate porches and other gewgaws, and
+gaudy with rainbow tints. Go as far as you like, the Martin will pace
+you. However, for those who would consider the bird’s point of view to
+be of greater importance than their own, appropriate suggestions are
+offered in Table I and in Plate IV. If painted white the house will be
+cooler and may be preferred by the birds. The reader should be advised
+that Martins are temperamental and will sometimes refuse to occupy a
+suitable house because of some dislike for its situation. Furthermore,
+Martins sometimes inexplicably abandon a locality where they have
+previously been abundant.
+
+    [Illustration: Plate V. Nesting House for Ducks
+
+    The Wood Duck and (in proper places) the Hooded Merganser and
+    Golden-eye are the duck species for which we may provide these
+    houses. The location should be secluded and near the water; the
+    exact site, 10 to 20 feet up on a stub or tree. Build preferably of
+    rough slab material. See text.]
+
+
+
+
+                         The Tree-nesting Ducks
+
+
+    [Illustration: Illustrated capital I]
+
+In suitable locations artificial sites may be provided for any of the
+several wild ducks which ordinarily nest in hollow trees. These ducks,
+as breeding species, are mostly northern, the Wood Duck being almost the
+only one which regularly nests, except at the higher elevations, very
+much south of the northern United States border. The Hooded Merganser
+may appropriate the house intended for the Wood Duck, and vice versa.
+
+    [Illustration: Figure 3. An easy-to-make box, especially suitable
+    for ducks. Front and top are slab wood, the rest weathered boards. A
+    close-fitting cleat screwed to under side of top, as shown, keeps
+    top in place with help of one easily removable 2½-inch screw. See
+    Table I, page 16, for dimensions.]
+
+The location is of first importance. This should be a secluded wooded
+stream or body of water. The stump or tree which is to form the support
+for the house, and also the entrance to the house itself, should be in
+plain sight from the water. It may be a hundred feet from the nearest
+shore, but the nearer the shore the better. A lone trunk, or one of
+several on the edge of a wood, will do. Avoid placing the house too near
+the ground. Further specifications are given in Table I and Plate V.
+
+
+
+
+                             Hawks and Owls
+
+
+    [Illustration: Illustrated capital W]
+
+We have alluded to undesirable tenants, meaning usually, or in
+particular, the English Sparrow and European Starling. There is also
+another class of possible bird-house occupants to be dealt with—the owls
+and the Sparrow Hawk. The owls and the hawks are usually considered
+taboo on account of their fondness for the smaller birds which most
+persons wish to encourage. One does not ordinarily keep cats and
+canaries in the same restricted and common area and expect pleasing
+results. Yet, it may be quite another thing if an estate is large enough
+to provide sufficient wild cover. Owls and hawks are as interesting as
+other birds, and a wood, suitable in size and character, which lacks the
+quota of owls or hawks natural to it will always be lacking in one of
+its most proper assets and characteristics. To the true nature lover a
+great wild forest from which owls are excluded might seem, at best, an
+arboretum where there might as well be a name tag on each tree-trunk.
+
+An occasional nesting site for owls in a wood of many acres, an
+appropriate box or two for Sparrow Hawks in a waste tract or along a few
+hundred yards of woodside will invite us to visit these places more
+often and will provide a new zest to the visits. At the same time, we
+are but following nature’s way of balancing the wildlife. Nor will the
+smaller birds be seriously affected; there may be a tendency for many of
+them to move in a little closer toward our dwellings for increased
+safety.
+
+A house for small owls and the Sparrow Hawk should follow the lines of
+the house illustrated in Plate V, size of entrance and other dimensions
+being given in Table I.
+
+
+
+
+                         The Common House Finch
+
+
+    [Illustration: Illustrated capital T]
+
+The several western and extreme southwestern forms of the native House
+Finch may, for our present purposes, be grouped with birds like the
+Robin and Phoebe which find such a number and variety of chance but
+suitable nesting sites that to provide still others may seem superfluous
+effort. And yet, to see the bright red of the Common House Finch and to
+hear his cheery song, say, in the heart of a city like Denver where one
+looks only for English Sparrows, is to be tempted to offer this citizen
+a more “desirable property” than the water-spout or other chance nook or
+cranny in which he may otherwise elect to build. The most successful is
+the open or semi-open type of nesting box, as shown in Plate VI, Nos. 1
+and 2.
+
+
+
+
+                            Robin and Phoebe
+
+
+    [Illustration: Illustrated capital T]
+
+These birds are not classed as bird-house tenants. When they nest in a
+building, it is nearly always a deserted human dwelling or some other
+structure made originally for man’s own use. In other words, the only
+sort of bird house at all likely to attract Robin or Phoebe would be one
+of cavern-like proportions in keeping with one type of natural site
+which both species favor, especially the Phoebe.
+
+The architecture of most human dwellings is such that either Robin or
+Phoebe would find nesting-sites, as they often do, over windows, under
+porches, or about eaves. But birds are not very considerate of the human
+liking for cleanliness, and their nests therefore are often placed where
+we least desire them. To lessen that chance and to furnish nesting-sites
+when they do not otherwise occur on a given dwelling or outbuilding, the
+following suggestions for nesting shelves are offered. The idea of
+nesting shelves is not a new one, and experience shows that an effective
+nesting shelf may be of almost any description.
+
+    [Illustration: Plate VI. For the House Finch, Robin, and Phoebe
+
+    1 and 2, Nest box for House Finch. The front is left entirely open,
+    except for a cleat to hold the nest in place. Drainage holes may be
+    bored in the bottom of the cleat, or the cleat may be raised a
+    quarter of an inch above the floor level. 3, Nesting shelves for
+    Robin and Phoebe. See text for directions. The raised rim shown here
+    is not always essential, but it may aid the birds to get a start,
+    since high winds are inclined to blow away the first straws from
+    exposed sites.]
+
+The accompanying illustrations will fully explain themselves. However,
+it is well to emphasize here that the simplest possible shelf, if only a
+mere cleat, is all that is really required—5 to 6 inches wide for the
+Robin, 3½ to 4½ inches wide for the Phoebe; any length of 8 inches or
+over for either bird.
+
+The Robin often nests more than 25 feet up, the Phoebe seldom so high.
+Place the Phoebe’s shelf 8 to 20 feet up, the Robin’s 8 to 30 feet.
+Should the locality be in the country, one must chance a Phoebe claiming
+a shelf intended for Robins; either species should prove desirable as a
+tenant. Certainly cultivators of cherries, currants, and other small
+fruits may well console themselves should Phoebes become their uninvited
+guests! The Phoebe is a true flycatcher and has none of the Robin’s
+special fondness for garden fruits.
+
+    [Illustration: Figure 4. A roofed nesting-shelf for Robins and
+    Phoebes. Length may be 8, or any multiple of 8, inches. Several ¼-
+    or ⅜-inch holes may be bored through the floor for drainage, instead
+    of in the rim as shown here.]
+
+    [Illustration: Plate VII. Bird Baths
+
+    1, Natural boulder bath; 2, natural flat stone bath; 3, cement bath
+    on a stone foundation; 4, a ground-pool bath of cement with a border
+    of small boulders.]
+
+
+
+
+                               Bird Baths
+
+
+    [Illustration: Illustrated capital B]
+
+Birds are inveterate bathers. Bathing is the daily habit of Robins,
+Catbirds, goldfinches, Song Sparrows, and most other small species,
+whenever facilities are available. Artificial baths are most important
+where other bathing places are distant or inadequate. In times of
+drought, birds will resort so eagerly to baths as to form an almost
+continuous daily procession.
+
+The bird bath lends itself to endless variations in size, shape, style,
+material, and cost. Often one may find a large boulder which, at the
+expense of moving to the desired spot, will prove a ready-made bath if
+it has a shallowly concave side. Or such a water basin may be chipped
+out of a rock by a stone mason. Smaller stones, flattened and more or
+less scooped, are common along many streams. One of these stone slabs,
+mounted on a pile of supporting stones, makes an excellent bath. Failing
+that or as a matter of taste, a massive shallow basin may be cast in
+cement to take the place of the natural slab. A pool may be provided by
+lining with cement and surrounding with stones a prepared spot in lawn
+or garden. See illustrations. If desired, running water may be piped to
+any style of bath. Whatever type the bath may be, the following rules
+strictly apply.
+
+  1. Depth of water should be graduated from nothing at the edge of bath
+  or pool to not more than 2½ inches at its deepest; except that in the
+  case of the larger ground pools it may be graduated up to 5 inches.
+
+  2. The bath must be swept or sponged out daily or as often as it
+  becomes much befouled.
+
+  3. Inside of bath should be rough to allow the birds a sure foothold.
+
+  4. If the bath is on or near the ground, no shrubbery or other
+  possible concealment for cats should be within 25 feet of it. It is
+  well also to have a branchy tree within a few yards of the bath or
+  pool, so that the bathers when alarmed, may easily reach a place of
+  safety, for their wet plumage will prove a handicap in longer flights.
+
+    [Illustration: Plate VIII. Types of Feeding Stations
+
+    Trays may be partitioned for different foods. Suet is sometimes tied
+    to the supporting post. The swinging station, shown at the right,
+    always faces away from the wind, but must be carefully balanced at
+    the point of pivoting.]
+
+  A—WOODEN PEG, HOLDING FOOD TRAY
+    PIVOT (SECTION OF WATER-PIPE)
+  B—FOOD TRAY
+  C—CLEAT, SUPPORTING FOOD TRAY
+  D—ROUND PERCH (ONE AT EACH END), SERVING TO HOLD ROOF BOARDS APART
+  E—ROUND POST
+
+
+
+
+                             Food Stations
+
+
+    [Illustration: Illustrated capital F]
+
+Food is the chief problem of winter birds. Cold alone is scarcely a
+menace, while snow and sleet are chiefly harmful only when they cover up
+the food. Given proper food, the only real requirement for a feeding
+station from the birds’ point of view is that it shall keep the food
+available, as by providing a roof to shed snow and ice. Among the wide
+variety of birds which frequently patronize food stations, various
+members of the sparrow and finch family, which includes the grosbeaks,
+juncos, and crossbills, vie with nuthatches, chickadees, woodpeckers,
+and blue jays as the most dependable boarders.
+
+For winter birds in the northern states, it is well to have the station
+in place and stocked with food as early as the first of November. These
+birds are then beginning to establish hunting grounds and routes, from
+which they will not stray all winter. Earlier in the fall, as again in
+spring, ground feeding is the better method. In this, scatter the food
+(millet, hemp seed, and so on) in the back yard, along the fence line or
+at the edge of shrubbery or thicket. Juncos, Towhees, Song, Fox, and
+Tree Sparrows, and many others will benefit. Eagerly devoured by the
+waxwings are dried currants and dried raisins. Nearly all birds are fond
+of suet. Tie sizable chunks of suet to trees and to posts of food
+stations; this appeals especially to woodpeckers, nuthatches, and
+chickadees. Other standard foods are millet, hemp seed, sunflower seed,
+cracked corn, and bread crumbs. In addition, chaff and oats may be
+scattered on the ground for quail, grouse, pheasants, Horned Larks, Snow
+Buntings, longspurs, and others in localities wild enough for these
+birds. Such feeding is particularly desirable when the snow is covered
+by an icy crust. The food may be scattered under brush shelters, made of
+branchy tree limbs loosely and irregularly stacked and roughly thatched
+with pine, fir, spruce, or other conifer to keep out excess snow.
+
+The care of a food station consists mostly in keeping up a supply of the
+proper foods and cleaning out the food trays as often as the condition
+suggests. A small separate tray of coarse sand will provide the grit
+many birds require. A hopper arrangement for feeding grains aids in
+keeping the food supply clean and it helps prevent the scattering of
+seeds.
+
+    [Illustration: Figure 5. Cross-section of a drinking and bathing
+    station for winter use. A flower pot of 8-inch diameter at the top
+    is recommended. If a much larger pot is to be used, a more powerful
+    light bulb may be required to keep the water free of ice in sub-zero
+    weather. If the water is found to be overheated, its temperature may
+    be reduced by placing wedges between the rims of the flower pot and
+    dish or between the rims of flower pot and box.]
+
+
+_Our publications include many useful manuals concerning birds and other
+       wildlife. A descriptive list will be mailed upon request._
+
+                     Cranbrook Institute of Science
+                       BLOOMFIELD HILLS, MICHIGAN
+
+    [Illustration: Wood Ducks]
+
+
+
+
+                          Transcriber’s Notes
+
+
+—Retained publication information from the printed edition: this eBook
+  is public-domain in the country of publication.
+
+—Corrected a few palpable typos.
+
+—Included a transcription of the text within some images.
+
+—In the text versions only, text in italics is delimited by
+  _underscores_.
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Bird Houses, Baths and Feeding Shelters, by 
+Edmond Joseph Sawyer
+
+*** END OF THIS PROJECT GUTENBERG EBOOK BIRD HOUSES, BATHS, FEEDING SHELTERS ***
+
+***** This file should be named 58586-0.txt or 58586-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/8/5/8/58586/
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

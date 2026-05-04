@@ -1,0 +1,4514 @@
+*** START OF THE PROJECT GUTENBERG EBOOK 54705 ***
+
+THE SORCERESS
+
+A Drama in Five Acts
+BY
+VICTORIEN SARDOU
+
+Authorized Translation from the French by
+CHARLES A. WEISSERT
+With an Introduction by the Translator
+
+
+BOSTON: RICHARD G. BADGER
+TORONTO: THE COPP CLARK CO., LIMITED
+
+COPYRIGHT, 1917, BY RICHARD G. BADGER
+All Rights, including those of Presentation, Reserved
+
+The Gorham Press, Boston, U.S.A.
+Printed in the United States of America
+
+
+PREPARER'S NOTES
+
+This book was originally digitized by Google and is intended for
+personal, non-commercial use only.
+
+Alterations from the original text:
+-Rename Act Four/Scene 8 to "Scene 7".
+-Spelling correction: change "Calabazos" to "Calabazas".
+
+
+DEDICATION
+
+TO THE MEMORY
+OF
+GEORGE WASHINGTON SOUTH, JR.
+
+
+SARDOU AND HIS WORK
+
+I
+
+Victorien Sardou was born in Paris on September 7, 1831. His father,
+a native of the vicinity of Cannes on the Mediterranean, came to Paris
+in 1819 and followed a variety of scholastic pursuits. His mother was
+a resident of the ancient city of Troyes. Victorien's father finally
+engaged in literary work, edited text books and taught in schools.
+His interesting personality made for him many friends. He never became
+well-to-do; on the contrary, he became so entangled in indebtedness
+that he gave up Paris and returned to his olive groves in the south
+with the hope of being able to satisfy his creditors. He left behind
+him Victorien, aged twenty-two, who was struggling to displace with
+studies in surgery and medicine his dreams of becoming a poet and
+dramatist. But he could not change his gods. A youth who had read
+before he was twelve years old the works of Molière, who had
+enthusiastically studied archæology and important periods of the
+world's history and who had delved deeply into all literature,
+especially into the works of master poets and playwrights, was not
+made of stuff moldable into something other than his true self.
+Saddened by the death of two sisters and left alone by his father,
+Sardou continued his medical studies, meanwhile residing in a garret.
+His existence would have been extremely miserable had he not been
+able to see an occasional play by Hugo, and to satisfy infrequently
+his great passion for the opera. In referring to those days of
+struggle, he said:
+
+"Ah, don't talk to me of music; that is one of my passions. I remember
+a long time ago when I went to the opera--not in a box of stalls, but
+right up in the gallery--to hear '_Les Huguenots_' or '_Le Prophèté_'
+--I delighted in Meyerbeer--the seats were four francs apiece. I had
+probably pawned my best coat to get there; but there I was, and I
+never think of those costly evenings without remembering how I enjoyed
+them, and felt a certain sense of gratification that I have never
+experienced since."
+
+Sardou's inspiration to follow literature began with an incident which
+has often been related. In a mood of wretchedness caused by poverty
+and the caging of his ambitious soul in a bleak garret, he stood in a
+doorway near the College of Medicine to escape the rain and his
+thoughts turned to suicide. Obsessed with this desire, he walked into
+the storm. A water-carrier, who instantly took his place of shelter,
+exclaimed:
+
+"Ah, my friend, you do not know when you are well off."
+
+An instant later a block of granite fell from the building--which was
+under construction--and killed the water carrier. Sardou accepted his
+escape from death as an omen that he was destined to live and to
+become great. Immediately he began those several years of desperately
+hard work in which he served apprenticeship for his future career.
+
+Of this period of Sardou's life a writer who knew him well said:
+
+"Only those who have known the sting of bitter want can fully
+appreciate the agony of the intellectual student's career. The eager
+brain, the famished body, the long night-watches and hideous
+nightmares, the struggle to make both ends meet, to keep body and soul
+together, the continual battle with poverty, pride, ambition, hope and
+despair. Sardou's young life was such a struggle. He possessed a
+valiant soul, and he did not give way; the more he had to work against,
+the harder he worked, and every new trial fell like a pointless dart
+against the steel armor of his resistance. He determined to become
+some one, and he realized that the bridge which spans greatness and
+nothingness is knowledge."
+
+Desperate but enthusiastic, Sardou toiled with his pen upon articles
+for a great variety of publications, receiving poor pay, which he
+supplemented with fees received for tutoring. He was a tireless
+student. When he wrote upon topics pertaining to history or to
+literature, he spoke with authority. The Middle Ages, the Reformation
+and the great events of the past which made and unmade nations and
+their policies appealed to his poetic temperament. He toiled day and
+night, and amassed an amount of erudition seldom possessed by any but
+scholars of renown. In the meantime he was working upon his first
+plays.
+
+"These were the occasions when I could not afford sardines and dry
+bread," said Sardou, "and I had to go to bed supperless."
+
+On April 1, 1854, the manager of the Odéon Théâtre attempted to
+produce Sardou's play _Le Taverne des Étudients_, which the crowd
+hissed from the stage without witnessing it, and brought
+disappointment and sorrow to the young author. With the year 1857
+came the earliest rewards for Sardou's long years of labor: marriage
+and the route to success. Poverty, lonesomeness, the cramped quarters
+of a gloomy garret and the accompanying misery and hopelessness of an
+unrealized ambition were not enough: an illness of typhoid fever must
+bring despair as a climax. On another floor in the house resided
+Mlle. de Brécourt, an actress, and her mother. When the young woman
+heard that the quiet, studious young man whom she had often seen was
+likely to die, her pity was roused and she became his faithful nurse.
+In addition to saving Sardou's life, she was the means of introducing
+him to Madame Déjazet, who established the Théâtre-Déjazet. In 1858
+Sardou and Mlle. de Brécourt were married. Sardou's plays found favor
+with Déjazet, whose talents proved adaptable for portraying his
+characters, and success followed success. In 1861 he was decorated
+with the Legion of Honor. Nine years after she had married Sardou--
+during which time she had seen her husband attain fame and wealth--
+Madame Sardou died. Sardou continued to work and his fame became
+international. Europe's greatest theaters were producing his plays.
+In 1872 he was united in marriage with Mlle. Anna Soulié, daughter of
+the curator of the museum in Versailles. The marriage was extremely
+happy and the dramatist's success continued. In 1877 Sardou was
+elected a member of the French Academy. Though immensely wealthy,
+Sardou resided simply at his villa in Marley-le-Roi near Versailles.
+He also had two country homes near Cannes, where his forefathers
+lived, and a residence in Paris, which he occupied principally for
+business purposes. Like Scott, Sardou had a great passion for books
+upon every subject, and his home at Marley, like Abbotsford,
+contained thousands of volumes. Honors from literary and art societies
+throughout Europe came to him. In making appointments to posts in
+which a knowledge of literature and the fine arts were important
+qualifications, the French government consulted with Sardou, who was
+considered an authority. The productive years of his life were serene
+ones. He was very generous, always ready to encourage the aspirant,
+and had no jealousies. His was a remarkable personality. The late
+Edmondo de Amicis thus describes him:
+
+"Sardou looked a little like Napoleon, a little like Voltaire and a
+little like the smiling portrait of a malicious actress which I had
+seen in a shop window on the previous day. He wore a large black
+velvet cap, below which fell long waving gray locks. He had a silk
+hankerchief round his neck and was wrapped in a wide dark-colored
+jacket, which looked like a demi-dressing gown. My attention was
+riveted by his strange face, without beard and colorless, with a long
+nose and pointed chin and irregular and strongly marked features,
+lighted up by two keenly sparkling gray eyes, full of thought, the
+glances of which correspond with the rapid motion of the thin and
+flexible lips, and the acute yet kindly expression of the whole face,
+sometimes illumined by a bright, slightly mocking smile, like that of
+a quite young man. He did not look more than 70 years of age, and when
+he spoke he seemed still younger. He spoke with the fluency of an
+actor who abuses that power. It was not necessary to question Sardou.
+He began to converse with a fluency, an ease and a vivacity of accent
+and gesture which forestalled all my questions and satisfied my
+curiosity with such an appearance of intimacy and confidence that I
+was at first quite stunned, uncertain whether I was in the presence
+of the most expansive and frankest man I had ever met or of the
+profoundest and cleverest actor that the human mind can imagine."
+
+In his seventy-eighth year, at the time when he received the news of
+the success of his last play, _L'Affaire des Poisons_, Sardou, who
+had been convalescing from an illness of pulmonary congestion, became
+suddenly worse and died in Paris on November 8, 1908. His funeral was
+held on November 11 in the Church of St. François de Sales. The
+obsequies were national in character. Like all those who had received
+the Grand Cross of the Legion of Honor, Sardou was given a military
+burial. Previous to the removal of the body from the house to the
+church, eulogies were delivered before Sardou's intimate friends and
+members of the Academy. Those present were Frenchmen distinguished
+in art, literature, science and politics. Thousands of persons
+representing every class of Parisian life--for Sardou's name was known
+alike in mansion and tenement--stood with lifted hats as the funeral
+procession passed on its way to Marley, and thousands followed the
+hearse to the family burial place. From all parts of the world
+telegrams of condolence were received by M. Sardou's family. From
+Cairo Madame Sarah Bernhardt, whose fame resulted from her
+interpretations of the characters in Sardou's plays, cabled: "France
+loses one of its glories, Paris a friend, all the unhappy a protector,
+and we artists our beloved master, Victorien Sardou."
+
+II
+
+Among those who discuss the drama there is a tendency to depreciate
+Sardou's work. Such an attitude is probably only natural during a time
+when homage is so universally directed to such realists and dissectors
+of modern social life as Ibsen, Pinero, Brieux, Hervieu and Shaw. The
+principal complaint brought against Sardou is the charge that he made
+mechanical plays in which all material was subordinated to the plot,
+that his characters are like marionettes made vocal and that he
+"manufactured" theatrical pieces to portray the talents of certain
+histrionic "stars." If these qualities alone are the basis for
+condemnation of Sardou's plays, something more must be offered to
+convince the public that he is not fit to stand among the modern
+master dramatists. If they are requirements necessary for a playwright
+to attain a world-wide reputation, to become a member of the
+celebrated Academy and of numerous other societies in which high
+scholarship is demanded for admission, one questions the consistency
+of the statements of the critics; if plays containing these qualities,
+presented by actors and actresses of international fame in the world's
+principal centers of culture--where a play by Sardou was an important
+public event--realized for their creator during several decades the
+goal of every playrwright: success, fame and the accompanying
+financial reward, then one not only questions the consistency of the
+critics but also their qualifications for posing as "authorities" on
+the drama.
+
+It is popular to depreciate Sardou, but much of this depreciation
+would become admiration were it not for the fact that for those who do
+not read French only a few of his plays are available in translations.
+Students of the drama, therefore, are compelled to accept the opinions
+of others instead of basing their knowledge upon a first-hand
+acquaintance with Sardou's work. His high position among the
+dramatists of France alone would demand an explanation of the reasons
+why his productions appealed to cultured and cosmopolitan audiences,
+which included scholars, diplomats, royalty--persons not likely to
+waste time in flocking to see the work of a mediocrist.
+
+No one in the world ever understood better the technique of
+playwriting than did Sardou. Both he and Ibsen recognized Scribe's
+genius for technique: Sardou acquired Scribe's craftsmanship,
+developed it and improved upon it; Ibsen used of it what he could
+in his clinical excursions into the whys and wherefores of Life--the
+one reflected the French spirit, the heritage of the epic and romantic
+past, the social life preceding the fall of the Second Empire and the
+national life since then; the other, grimly Teutonic in temperament,
+mined to the roots of human life and ironically upheld the mirror to
+all classes revealing the secrets of their souls. Into lighted
+streets, into halls and mansions, into courts and capitols, into
+palaces and into throne-rooms, Sardou passed studying minutely the
+movements of his personages; Ibsen, with the attentive scrutiny of a
+hospital aide seeking the wounded, turned his flash-light--a
+flash-light with microscopic power--into dark corners, into alleys,
+into humanity's every haunt. The great Frenchman and the great
+Norwegian both studied medicine and gave it up before becoming
+playwrights. Their selections of working materials were truly
+characteristic of their national temperaments. Both have had an
+inestimable influence upon the drama of all nations.
+
+Sardou was structural in his craftsmanship in the sense that he
+created his plays with the skill of an artisan working with steel and
+stone, and eliminated everything unnecessary in making his production
+symmetrical. He was a realist in the sense that he never hesitated to
+portray what he thought would convey his idea complete to the
+audience. If a thrill of horror would effectively drive home a point,
+he used it. In his satirical plays he was merciless in handling the
+vanities and vagaries of society. While Sardou aspired to become a
+playwright, he studied Shakespeare and regarded verse as the best
+medium for presenting lofty themes, but after he studied the stage he
+changed this view and wrote his principal plays in prose, though the
+material is often admirably adapted for metrical expression. Sardou's
+historical dramas are lofty in theme. They are true to their times,
+and appeal universally to those interested in life outcropping from
+mighty changes of conditions in the past. His deep knowledge of
+history, art and archæology is evident in historical dramas in which
+costumes, decorations, interior details, furniture and other
+properties used for the setting compositely reproduce the atmosphere
+of the period depicted by the action. None knew better than Sardou
+the life about him. He studied personalities in their intricate
+relationship in society. He never preached. He never sacrificed plot
+in order to prove a thesis, thereby escaping the prolixity of which
+some of the "realists" are often guilty. His plays have morals, but
+they are skillfully hidden behind his technique, which supplements a
+natural gift of analysis and an intuitive power for recognizing and
+selecting subject matter pleasing to cosmopolitan Parisian audiences.
+His comedies portraying contemporary life were, with a few exceptions,
+enthusiastically received, and were the stepping stones by which
+actors and actresses rose to world-wide celebrity. For impressive
+compositions Verdi and Offenbach found inspiration in Sardou's
+creations.
+
+The result of Sardou's long years of hard work was a prolific
+production of comedies and dramas. The principal ones and the dates
+of their production were as follows:
+
+_La Taverne des Étudiants, 1854; Les Premières Armes de Figaro, 1859;
+Les Pattes de Mouche, 1860; Nos Intimes, 1861; La Papillonne, 1862;
+Les Vieux Garçons, 1865; Patrie!, 1869; Fernande, 1870; Andréa, 1873;
+La Haine, 1874; Daniel Rochat, 1880; Divorçons, 1880; Theodora, 1884;
+La Tosca, 1887; Cléopâtre, 1890; Thermidor, 1891; Madame Sans-Gene,
+1893; Gismonda, 1894; Paméla, 1898; Robespierre, 1899; Dante, 1903;
+La Sorcière, 1903; L'Affaire des Poisons, 1907._
+
+III
+
+Sardou's marvelous theatrical technique is nowhere better exemplified
+than in _La Sorcière_, one of his last tragedies. Bigotry, love,
+superstition and persecution are the predominating elements of the
+action, which is laid in Granada immediately after the conquest by the
+Spaniards. What better material for romance? The principal figures are
+a Castilian officer and a cultured Moorish woman, who, ignoring an
+edict of the Inquisition inflicting the death penalty upon alliances
+between Christians and unconverted Moslems, have the strength to
+assert their rights as normal human beings--and to suffer the
+inevitable consequences. It is the depiction of a struggle for
+individual freedom in which the common truths of the human heart beat
+hopelessly for expression against the bigotry of the masses and the
+bigotry of those who not only know better but who also use it as an
+agency in strengthening their own power. The result is the old
+struggle between knowledge and ignorance, between love for one's
+religion and country and for the satisfaction of the soul's desire
+regardless of traditions discarded and of idols knocked down in the
+accomplishment of that desire. In this process of emerging, of
+transition, in this sudden seizure by unknown forces upon new
+combinations of circumstances, in this bidding farewell to the old
+while hailing with allegiance that of which we are unaware until the
+clarifying moment arrives, lies the essence of tragedy. "It is
+possible," said the late William James, "that Being may be a great
+sea of consciousness, some of the fag ends of which are human minds."
+It is in the interplay, in the constant weaving and raveling of that
+cosmic pattern which we call life that the dramatist finds the few
+wisps of experience suitable for interpreting his own understanding
+of a certain phase of existence. "The representation of a great
+misfortune alone is essential to tragedy," declared Schopenhauer.
+"Characters of ordinary morality, under circumstances such as often
+occur, are so situated with regard to each other that their position
+compels them, knowingly and with their eyes open, to do each other
+the greatest injury without any of them being entirely in the wrong."
+Under this definition, _La Socrière_ qualifies exactly as a tragedy.
+
+In creating his plays Sardou did not attempt to conform to any
+particular definition. He was independent in choice of materials and
+in method of handling: the purpose justified the treatment. In _La
+Sorcière_ he showed his hatred of tyranny, and he puts into the mouth
+of Zoraya, the Moorish woman, in that powerful seventh scene of Act
+IV, one of the bitterest denunciations of the Inquisition ever made
+through the drama. Sardou studied historic events with the eyes of a
+scientist. He was interested in hypnotism and in spiritualism. While
+studying the Middle Ages he concluded that the so-called sorcery of
+that time was nothing else but hypnotism, long known to the Orientals
+and introduced by them among the Moors. It was only natural that an
+age, so reeking with superstition that it persecuted the man who
+declared that the earth revolves around the sun, should brand as an
+agent of the devil any one familiar with hypnotic power. Through a
+feminine character in whom were combined the best qualities of
+Mohammedanism and the gift of healing, Sardou was able to throw the
+strongest light upon superstition in the Middle Ages.
+
+The plot of _La Sorcière_ is the work of a master craftsman. In
+motivation and in development of situation the play is so well rounded
+that no part can be removed without spoiling the whole. The action
+opens with a humorous scene in which a petty officer vested with
+authority is bullying a crowd of peasants, among whom is supposed to
+be the culprit who stole the corpse of an executed criminal publicly
+exposed--the body being that of an unconverted Moor who had loved a
+Christian girl. In this scene Sardou begins to draw his background of
+superstition by means of the words of the ignorant natives, who jump
+at a suggestion of one of their number, and denounce as the thief
+Zoraya, the "Sorceress." In a scene poetic with romance and beauty Don
+Enrique and Zoraya, whom he wishes to arrest, drift into the same
+relation which resulted in the death of the young Moor, whose body
+had been stolen. This act is the great corner-stone of the drama.
+Sardou's skillful motivation prepares the reader for developments in
+the coming four acts, but this craftsmanship is so carefully hidden
+that the relations of incidents are so natural that they come in the
+form of surprises. The sequence of the events is perfect. The
+transition from the first to the second act, in which develop Don
+Enrique's dangerous secret relationship with Zoraya and his
+inexplicable reason for discontinuing his visits to her, is perfectly
+natural, and the last scene of the act, consisting of only a few
+phrases of explanation, suddenly reveals such an astonishing
+complication that the effect is nothing short of tremendous. With a
+climax so effective the entire foundation of the action is laid. We
+have learned that the Christian girl whom Zoraya has begun to cure
+with hypnotic power is to become the bride of Don Enrique, a fact
+which she did not know before the girl was taken away happy with the
+thought that she should now be more acceptable to her lover.
+
+In the third act Don Enrique's character is tested in a struggle
+which he loses with overpowering circumstances. Gossips open the
+action with a frivolous discussion of the marriage of Don Enrique and
+the governor's daughter. They satisfactorily explain that the parents
+of the couple years before had arranged the marriage. They also
+gossip about sorcerers and sorceresses. From suggestions we learn that
+Zoraya is in danger, and that her relations with Enrique are known.
+Close by the nuptial chamber begins the clash of fateful
+circumstances, which decide within a short time the destinies of
+Don Enrique and Zoraya. Near the conclusion of this act we have the
+purest essence of tragedy, if we accept Aristotle's statement that
+tragedy is an imitation of actions which are terrible and piteous.
+Enrique, after nobly refusing to renounce his country and his religion
+and to flee with Zoraya to Morocco, is forced to become with her a
+fugitive after he unintentionally kills an agent of the Inquisition
+who suddenly detects them and attempts to arrest Zoraya. Flight and
+pursuit of Don Enrique and Zoraya close the act. This scene is one of
+gripping intensity.
+
+The merciless execution of power, the intolerance and tyranny of the
+Holy Inquisition are portrayed in an exemplification of a session of
+that body in the fourth act. Again the action to be developed is
+disclosed by the conversation of monks waiting for the council to
+convene. We learn that Zoraya and Don Enrique have been captured. We
+know the penalty likely to be pronounced upon them, but we remember
+that it is Zoraya alone who has the power of restoring to
+consciousness the daughter of the governor and bride of Enrique, who
+is deeply sleeping on her nuptial night. The unrelenting cruelty used
+by the Inquisition in making the captive hag and the unfortunate young
+girl testify against Zoraya, from whom they wring a confession to
+sorcery in order to free Don Enrique, rouses pity and indignation,
+which increase to highest pitch when her lover, who stands at the side
+unobserved by her until she has told all, is deceived into believing
+that she is a sorceress and that he has been victimized. But this has
+not been done without bringing upon the members of the Inquisition
+Zoraya's storm of righteous denunciation. There is anguish unutterable
+when Don Enrique, who does not know that Zoraya has made the greatest
+sacrifice that a human being can make, accuses her of being false. To
+this injustice is added the climax of the act which closes with this
+awful sentence: "We shall burn her after vespers."
+
+The final act is short and intense. Zoraya has been sentenced to
+death, but we know that she still holds the possible price of her
+freedom. The final setting of the play is magnificent: it is
+characteristic of Sardou. Here is a street scene in front of a great
+cathedral near which is a pyre ready for burning Zoraya. Into this act
+are packed all of the color, the pomp and the pageantry of the church
+and chivalry of the heroic age in Spain. There is a wonderful
+procession, a stirring mob scene, intensified with the solemn sounds
+of religious chanting, the roll of organ music and the resonant boom
+of tower bells. Don Enrique learns of Zoraya's sacrifice. As we
+expected, she is given her liberty on condition that she restore to
+consciousness the governor's daughter, a performance that causes the
+mob, already incensed by fanatical monks, to demand her death
+immediately after receiving the liberty which she deserves. Don
+Enrique nobly chooses death with her.
+
+The conclusion of the action shows Sardou's wonderful technique at
+its best. The sequence of events is natural and the transition from
+situation to situation is motivated so realistically that the threads
+of the structure cannot be detected. Wide passages cross and recross
+until they become intricately involved in mazes which ultimately lead
+to the foot of an unscalable blind-arcade. Then suddenly there come
+from an unexpected place a glimmer of light, a swift opening of doors,
+and all is seen at a flash. This is not ordinary stagecraft--it is
+the necromancy of stagecraft!
+
+* * * * * * *
+
+The translator has endeavored to follow as closely as possible _La
+Sorcière_ as Sardou wrote it, remembering that Browning said in the
+introduction to his translation of the _Agememnon_ of Æschylus: "I
+should require him [the translator] to be literal at every cost save
+that of absolute violence of our language."
+
+Charles A. Weissert.
+
+
+CHARACTERS.
+
+Cardinal Ximénès, Archbishop of Toledo and Grand Inquisitor.
+
+Don Enrique de Palacios.
+
+Lopez de Padilla, Governor of Toledo.
+
+Cardenos, an agent of the Holy-Office.
+
+Cleofas, physician of the Holy-Office.
+
+Oliveira, surgeon of the Holy-Office.
+
+Ramiro, esquire of Palacios.
+
+Fray Eugenio Calabazas, Fray Teofilo Ibarra, Fray Miguel Molina,
+Fray Hernando Albornos, Inquisitors.
+
+Farez, a Moorish muleteer.
+
+D'Aguilar, notary, and recorder of the Tribunal.
+
+Torillo, an executioner.
+
+Don Antonio, Rioubos, Velasco, Cristobol, Gentlemen.
+
+A Goatherd.
+
+Gil Andrès, Guard.
+
+Ginès.
+
+A Friar.
+
+First Peasant.
+
+Second Peasant.
+
+Zoraya, a Moorish woman.
+
+Afrida, an aged peasant woman.
+
+Manuela, a young peasant woman.
+
+Fatoum, a converted Moorish woman and governess of Joana.
+
+Aisha, one of Zoraya's servants.
+
+Joana, daughter of Padilla.
+
+Zaguir, a young boy in Zoraya's service.
+
+Doña Rufina.
+
+Doña Syrena.
+
+Doña Serafina.
+
+Doña Fabia.
+
+A Peasant Woman.
+
+
+Peasant men and women, archers, people of all classes, gaolers, monks,
+etc.
+
+The action takes place in Toledo in 1507.
+
+
+THE SORCERESS
+was presented
+for the first time in the Théâtre Sarah-Bernhardt, in Paris,
+on December 15, 1903
+
+
+THE SORCERESS
+
+
+ACT ONE
+
+Scene.--On the heights overlooking the left bank of the River Tagus.
+In the foreground is a road. Flinty rocks, plants and shrubs rise
+from right to left towards higher rocks above which they disappear
+in a gap. From the gap to the foreground a stony pathway descends in
+a curve. At the foot of the scene, below, is the Tagus lying deep
+between its banks, and the Bridge of San Martino. On the heights
+beyond are the city, the Mirador and the cathedral of San Juan del
+Rey in construction. The night is clear and starry. A crescent-shaped
+moon gradually disappears to the right behind the rocks near the end
+of the act.
+
+
+Scene One
+
+[Ramiro, Arias, Farez, peasant men and women, three archers]
+
+[Arias and the Archers are clutching and dragging towards the right
+peasant men and women, whom they have come to arrest. All of the
+prisoners are loudly protesting, except Farez, who is silent all the
+time.]
+
+RAMIRO. Go, march on, there! (To the archers) Arrest those laggards
+and keep them for me! (The peasants protest) Silence, there! You will
+explain to the governor in Toledo.
+
+[The archers again begin to drive before them the prisoners, who renew
+their protests and lamentations.]
+
+ENRIQUE. (In a loud voice at the right behind the scene) Hold on!
+Wait! What is that noise?
+
+[All stop and listen. Arias goes to the right of the declivity and
+looks down.]
+
+RAMIRO. (To Arias) Those shouts! Go and see who is uttering them.
+
+ARIAS. Some cavaliers passing along the road.
+
+ENRIQUE. (Behind the scene) Do you hear me? Who is there?
+
+ARIAS. (To Ramiro) It is our commander, Don Enrique Palacios, who is
+returning home from the chase.
+
+RAMIRO. (Running to the right) He arrives opportunely. (Addressing
+respectfully, hat in hand, Enrique behind the scene.) My lord, it is
+I, your esquire, Ramiro.
+
+ENRIQUE. (Behind the scene) What are you doing there?
+
+RAMIRO. Making arrests, my lord. And, may I venture to pray Your Honor
+to dismount and climb up this rough path? We have warrants which are
+very important.
+
+ENRIQUE. (Outside) Very good!--I will come. (Murmurs of satisfaction
+from the captives.)
+
+RAMIRO. Here is our general, Don Enrique Palacios, commander of the
+archers and cross-bowmen of the city. He will examine you on the spot.
+
+THE PEASANTS. (Together, each saying a phrase) Good!--Good!--He is a
+good man!--He will listen to us and set us at liberty!
+
+RAMIRO. (He goes to meet Enrique at right) Up this side, my lord, if
+you please!
+
+
+Scene Two
+
+[Those in the preceding scene, Enrique, two valets of the hunt]
+
+ENRIQUE. (Looking at the captives) Oh, ho! This is a fine catch with
+one stroke of the hand!
+
+RAMIRO. I was going to conduct these people to Toledo to be examined.
+Your Honor may spare me the pain.
+
+THE PEASANTS. (All speaking at the same time) Mercy, Excellency!--
+Pity!--Pity!--We are innocent!--We did not do it!
+
+RAMIRO. (Exasperated) Peace! Keep quiet, there, brawlers! Do not
+bewilder his lordship with your croakings!
+
+ENRIQUE. Be considerate, Ramiro. They have the right to speak in their
+own defence. (He is assisted in stepping upon a piece of rock at the
+right of the scene. He seats himself on a boulder after giving his
+cross-bow to Arias.) What has caused this disturbance?
+
+RAMIRO. Your lordship has not forgotten a young Moorish armourer
+employed on his estate, named Kalem?
+
+ENRIQUE. Kalem? Yes! a clever artisan and also a handsome lad, who
+worked for me.
+
+RAMIRO. Unfortunately one of those black, obstinate rebels, who will
+not admit since the conquest of Granada by our glorious sire (he
+uncovers his head and bows) that the dominion of the Moors and the
+cult of their great devil Mohammed have ended in Spain.
+
+ENRIQUE. Yes. Whenever I urged Kalem to become converted he always
+refused.
+
+RAMIRO. He went from bad to worse--defying a royal edict, which
+forbids all intimacy between an unconverted Moor and a Christian, he
+betrayed the daughter of a neighbor, a good Catholic. For that offence
+the two culprits, in conformance with the law, have been punished
+during your lordship's absence: the girl thrown into solitude for life
+in the convent of Mercy!--and Kalem, stoned to death!
+
+ENRIQUE. Ah! the poor boy!
+
+RAMIRO. Yesterday at sunset, up there at the foot of an elm!--After
+which I left the body fastened to the tree-trunk, according to custom,
+to serve as a warning to these accursed heathen. But, no! They are
+enraged! The body has disappeared!
+
+ENRIQUE. When was it removed?
+
+RAMIRO. Last night.
+
+ENRIQUE. By whom?
+
+RAMIRO. I do not know. The news was slow in coming and I was ordered
+to go out during the night and surprise the residents of this vicinity
+in their beds and bring them to an inquest.
+
+ENRIQUE. And the result?
+
+ARIAS. Nothing!--They have nothing to say!
+
+THE PEASANTS. (All together) We know nothing, your lordship, nothing!
+So truly as there is a God, we are innocent. (Arias hushes them with
+a gesture.)
+
+ENRIQUE. Is there among them a relative or friend of Kalem?
+
+ALL. Not one, your lordship.
+
+A PEASANT. None, my lord!
+
+ENRIQUE. No one who would have a reason for stealing his body?
+
+ALL. (All at the same time) Not one, my lord!--Far from here!--A dog
+of a Mussulman!--We are good Christians!
+
+A WOMAN. We should have stoned him to death a second time! (They hear
+voices outside, at left.)
+
+RAMIRO. Keep quiet, there!--Listen!
+
+ARIAS. (Looking) Here is something more to please us.
+
+
+Scene Three
+
+[The same, the goatherd, an archer. They enter at left]
+
+AN ARCHER. (Dragging the goatherd) Go in! you beggar!
+
+THE GOATHERD. (Obeying) Lord! have mercy!
+
+THE ARCHER. (To Arias, out of breath) He attempted to flee, the fool!
+He ran faster than his goats.
+
+ENRIQUE. Is he a goatherd?
+
+THE ARCHER. So he says.
+
+RAMIRO. (Taking the goatherd by the collar and compelling him to fall
+upon his knees before Enrique) Answer, villain, Don Enrique Palacios!
+
+ENRIQUE. It is you, then, who stole the body?
+
+THE GOATHERD. Me! my Sweet Deliverer!--touch a corpse!
+
+ENRIQUE. Then why did you run?
+
+THE GOATHERD. (Lowering his voice) For not speaking--and for fear she
+would revenge herself upon me for exposing her!
+
+ENRIQUE. And who--is she?
+
+THE GOATHERD. (Looking nervously about) She who took the body.
+
+ENRIQUE. A woman?
+
+THE GOATHERD. (Half aloud) The Moorish woman!
+
+THE OTHERS. (Seconding him) The Sorceress!--Yes!--Yes!--It was
+she!--It was she!
+
+ENRIQUE. The Sorceress?
+
+THE GOATHERD. Certainly, my lord. I have often seen her at night
+wandering on the heights and making conjurations to the moon, so
+I was not surprised to see her up there at daybreak this morning
+making curious gestures, in this way--I hurried my flock to avoid
+her--when two nigger devils approached her along that path! I was
+seized with a foolish fancy to know what these three were charming,
+and I clambered and crawled over the rocks toward them. But she
+pricked up her ears, the magician, and scrutinized the slope where I
+was lying with such a terrible gaze that I rolled down and scampered
+away, saying to myself: "I hope that her eyes have not changed me
+into a brown owl, or into a bad beast!"
+
+ENRIQUE. Then she is the guilty one?
+
+THE PEASANTS. (Eagerly) It is she, your lordship; it is the Sorceress,
+without a doubt.
+
+ENRIQUE. And who among you believe she is a sorceress?
+
+THE PEASANTS. Oh, all!
+
+FIRST MAN. It is believed everywhere.
+
+A WOMAN. She has caused enough misfortune with her deviltries!
+
+SECOND MAN. It has been proved that words from her will give rot to
+the sheep.
+
+A PEASANT. And sickness to men. (Murmurs of approbation.)
+
+THE WOMAN. Listen to the testimony of the wife of Zuniga, a
+wet-nurse, whose milk supply she caused to go dry.
+
+FIRST MAN. And to José Barilla on whose barn she caused lightning to
+descend.
+
+THE WOMAN. Oh! the wicked she-goat!
+
+ANOTHER WOMAN. She is the plague of this community!
+
+SECOND MAN. Arrest her, my lord!--It is she who stole the body!
+
+THE GOATHERD. To make magic powders of the bones!
+
+ALL. Yes! Yes!
+
+THE GOATHERD. (To Farez, who shrugs his shoulders) It is well for you
+to shrug your shoulders, you!
+
+FAREZ. (Coldly) Me?
+
+THE GOATHERD. Yes. You who act so cunningly.
+
+THE WOMAN. Yes. He laughs at all we say.
+
+FAREZ. At all of your stupidities! (All protest)
+
+ENRIQUE. Come forward. Pay no attention to them. What is your name?
+
+FAREZ. Farez.
+
+ENRIQUE. A Moor?
+
+THE GOATHERD. (Maliciously) But converted.
+
+ENRIQUE. What is your trade?
+
+FAREZ. Muleteer.
+
+ENRIQUE. Then, according to your opinion, these people are wrong?
+
+FAREZ. This is all idle talk, my lord--the ravings of old women.
+(Cries from the peasants, whom Ramiro silences.)
+
+ENRIQUE. Do you know this Moorish woman?
+
+FAREZ. Zoraya?
+
+ENRIQUE. Is her name Zoraya?
+
+FAREZ. Yes, my lord; that is to say, in the Arabic tongue, "The Star
+of the Morning." I have long known her. I was in Granada before the
+conquest, employed as a servant by her father, Abou-Abassa, a scholar
+and physician of the last King Boabdil.
+
+ENRIQUE. Maiden, woman or widow--this Zoraya?
+
+FAREZ. Widow, my lord!--Sometime before the siege she was married to
+a very valiant Moor, who was killed in a sortie.
+
+ENRIQUE. Being now a Granadan, does she reside in Toledo?
+
+FAREZ. After the capture of Toledo, the wise Bishop Talavera, Governor
+of our city, took a strong fancy to Abou-Abassa because of his great
+knowledge and made him come here to reside. The daughter, of course,
+lived with him. The mother is no longer of this earth.
+
+ENRIQUE. Does she reside in Toledo?
+
+FAREZ. No, my lord; but near here on this mountain-slope in a house
+built by her father, who died in the past year. She lives there alone
+with her old servants and her few surviving friends. Her door is
+always open to those of her race and her religion who appeal to her
+in need or in sickness.
+
+ENRIQUE. Ah! She likewise practises healing?
+
+FAREZ. Free of charge! Her father left her great wealth and the
+knowledge of his art. Those of her own race are not the only ones who
+have sought her aid. (Addressing the peasants) More than one Christian
+who has secretly begged gold and medicines from her now shows his
+ingratitude by accusing her of causing hail to fall upon the fields.
+(The peasants protest.)
+
+ENRIQUE. (Silencing them) That is enough! (To Ramiro) Keep the
+muleteer. Release the others. (Exclamations of joy.)
+
+THE PEASANTS. Ah, thanks! your lordship! God will reward you! Long
+live His Excellency!
+
+ARIAS. (Pushing them along) Go! Go! Disperse without noise! (They
+leave from both sides of the scene.)
+
+
+Scene Four
+
+[Enrique, Ramiro, Arias, Farez, later Zoraya]
+
+ENRIQUE. (To Farez, rising) You say that she resides near here?
+
+FAREZ. (Pointing to the left, below) On this hillside--a white house,
+half way up the slope, with beautiful gardens and a terrace mirrored
+in the waters of the Tagus.
+
+ENRIQUE. You may conduct me there. (To the archers and valets) Go!
+(They go out.)
+
+FAREZ. If Your Grace will follow me--But she is not far--There she is!
+
+ENRIQUE. The Moorish woman?
+
+FAREZ. It is she herself--I see her coming up the slope.
+
+ENRIQUE. (To Farez) You may return home. (To Ramiro and Arias) You,
+here, step to one side and keep quiet. And observe her practicing her
+black art.
+
+[Farez disappears at right, Enrique and Arias going to the left,
+where, screened by rocks and bushes from Zoraya's view, they watch
+her. Zoraya appears near the gap, coming slowly up the path into the
+clear moonlight as she reaches the summit. She carries a silver
+sickle in her hand; on her arm a sheaf of wild flowers. She descends
+the pathway slowly, gathering flowers as she passes.]
+
+ENRIQUE. (To Ramiro behind him) That is a strange task!
+
+ARIAS. (Behind Enrique and Ramiro, rising to see) See, my lord, in her
+hand?
+
+ENRIQUE. (In a low voice) That silver sickle?
+
+ARIAS. Which shines like the crescent moon.
+
+RAMIRO. The crescent of Mohammed--the moon is a Saracen and a
+sorceress!
+
+ENRIQUE. Speak lower!--What curious harvest brings her into the midst
+of these rocks?
+
+RAMIRO. She is gathering bad herbs for her philters and poisons.
+
+ENRIQUE. A beautiful creature, truly. See the grace and suppleness in
+her movements.
+
+RAMIRO. One might say as much of a serpent.
+
+ENRIQUE. For shame!
+
+RAMIRO. Your Honor should be careful or this she-devil may throw over
+him the same charm that Circe of yore threw over Ulysses.
+
+ENRIQUE. (Joking) Am I like the goatherd to believe that she will
+change me into a beast?
+
+RAMIRO. No! But through love--it is the same!
+
+ENRIQUE. (Quickly) Enough!--I must speak to her! (He advances into
+the full moonlight.) Zoraya!
+
+ZORAYA. Who is calling me?
+
+ENRIQUE. I, Enrique Palacios, commander of the archers of the city.
+
+ZORAYA. What does his lordship desire?
+
+ENRIQUE. The truth!--It was you and two accomplices who took down and
+carried away Kalem's body?
+
+ZORAYA. It was, my lord.
+
+ENRIQUE. For use in some conjurations--for you are a magician, it
+appears?
+
+ZORAYA. (Quickly) Me?
+
+ENRIQUE. So it is said.
+
+ZORAYA. By those who hate me because I am Moorish and faithful to the
+law of the Koran. (Murmurs from Arias and Ramiro.)
+
+ENRIQUE. Peace, there. (To Zoraya) So you have not come here to work
+some magic in the moonlight, or to meet an accomplice in your
+sorceries?
+
+ZORAYA. I come to gather herbs in the night and to be alone; and in
+moonlight because it is easier to recognize them.
+
+ENRIQUE. What do you do with them?
+
+ZORAYA. From the hearts of these flowers, my lord, I extract essences
+and perfumes for myself and ointments, elixirs and powders for curing
+diseases.
+
+ENRIQUE. Are these remedies, these poisonous herbs?
+
+ZORAYA. Yes; wholesome and healing. The vermilion fruit of the black
+henbane and that of the deadly nightshade or belladonna cure delirium
+and insanity. They also put sufferers to sleep. Also these others.
+They are like all things of the world, in love the same: according to
+the case and the dose, cure or kill.
+
+ENRIQUE. Oh! by that I understand that you deal in love philters.
+
+ZORAYA. What need of them, my dear lord?--Love is born of a smile,
+rather than of a philter.
+
+ENRIQUE. (Jesting) Do you often make that test?
+
+ZORAYA. Never!
+
+ENRIQUE. (The same) Oh!--so chaste--in spite of those eyes, there?
+
+ZORAYA. Through pride! It is not necessary to search for dignity in
+me!
+
+ENRIQUE. Bless me! the beautiful! You are very difficult.--But let
+that pass!--If it were not for some evil work why did you steal
+Kalem's body?
+
+ZORAYA. The human flesh is not made to feed ravens and wolves.
+
+ENRIQUE. You have buried it?
+
+ZORAYA. In a crevice in the rocks--you may assure yourself.
+
+ENRIQUE. A criminal.
+
+ZORAYA. To me he was not a criminal, whose only crime was to have
+loved.
+
+ENRIQUE. A Christian!--in spite of the law which forbids love between
+your race and mine.
+
+ZORAYA. It is love, however, which will reconcile them in the long
+run.
+
+ENRIQUE. Ah, well! to justify that you shall explain to His Eminence
+the Cardinal Ximénès.
+
+ZORAYA. (Frightened) The Inquisitor!
+
+ENRIQUE. It is to him that I must take you.
+
+ZORAYA. (The same) Oh, no, my dear lord! No! You must not say that.
+
+ENRIQUE. Why not?
+
+ZORAYA. You know that the high priest detests us and persecutes us.
+You do not want to injure me; for you are good----
+
+ENRIQUE. How do you know that?
+
+ZORAYA. Oh, I see it!
+
+ENRIQUE. In truth, what indications do you see?
+
+ZORAYA. Those which my father revealed to me.
+
+ENRIQUE. Of the nature of men?
+
+ZORAYA. And their destinies.
+
+ENRIQUE. Do you read this in the stars?
+
+ZORAYA. My knowledge does not come from them.--But through the
+crystal, the mirror, the silver disc and the lines of the hands.
+
+ENRIQUE. Ah! By God!--I am curious to see what you read in mine!--Come
+here!
+
+(He seats himself on a large stone at the foot of the path, Zoraya
+goes down to him after putting down her bouquet of flowers and
+plants.)
+
+RAMIRO. (Low to Arias during this part of the scene) Ah! the
+bewitcher!--See how she takes him little by little into her coils in
+order to escape punishment.
+
+ZORAYA. (Stands near Enrique, who holds out his left hand for her
+inspection) You are loyal, my lord, and brave--but your will is
+feeble and unsteady.
+
+ENRIQUE. Where do you see that?
+
+ZORAYA. In the shape of your head and the first phalange of your
+thumb, which is short--I see here that you are subject to sudden
+and terrible bursts of anger.
+
+ENRIQUE. (Smiling) It is true! (To Ramiro, without turning round)
+Is it not, Ramiro?
+
+RAMIRO. (Grumbling in a low voice) Rain of Heaven! Why has he not
+strangled this accursed woman?
+
+ZORAYA. (In the same vein) The life-line, beautiful at the
+beginning--stops short--danger of death--struck as with lightning!
+
+ENRIQUE. (Gaily) A soldier's death--so much the better! Seat
+yourself; you will be more at ease. (He makes room for her to sit on
+the stone.)
+
+ZORAYA. (Seating herself, continues in the same vein) These wrinkles
+which cross at the base of the thumb show an inclination very--very
+amorous!
+
+ENRIQUE. Oh! as to that--Yes!
+
+ZORAYA. This deep red line, which connects the thumb with the
+life-line--a passion! Oh!--that! Like she who possesses you!--It will
+end only with your life!
+
+ENRIQUE. Then it is to be returned?
+
+ZORAYA. I do not know--why should one be troubled about that?
+
+[While looking at his hand, Zoraya leans more and more against
+Enrique, who is intoxicated by the nearness of their persons, by the
+Arabian perfume on her hair and by the warmth of her hand.]
+
+ENRIQUE. (Rising in order to lean over Zoraya's neck) What flower
+have you robbed of this perfume?
+
+ZORAYA. The golden cassie!
+
+ENRIQUE. It is exquisite!--You who read the future so well in the
+hand--(She attempts to withdraw her hand) No! No! Do not take away
+your hand!--do you also know how to read the present in my thoughts?
+(He turns Zoraya's face gently towards his own.)
+
+ZORAYA. (Returning his ardent gaze) Yes! (In a low voice) You think
+that I am beautiful and desirable!
+
+ENRIQUE. (Quickly) Yes.
+
+ZORAYA. (The same) But I am a Saracen, a pagan, an outcast! I am one
+whom you have not the right to love!
+
+ENRIQUE. Therefore, you are more desirable!
+
+ZORAYA. (The same) Don't you find the royal edict which would punish
+us very severe: I thrown into the oubliette--you sent to the galleys
+or to the stake?
+
+ENRIQUE. Too severe--certainly!
+
+ZORAYA. Wasn't Kalem excusable for risking such a cruel fate?
+
+ENRIQUE. Yes.
+
+ZORAYA. And doesn't she, this unfortunate girl who had not the
+strength to resist the madness of a similar love, deserve pity?
+
+ENRIQUE. The Christian girl!
+
+ZORAYA. Ah! I understand why she forgot that she was a Spaniard and
+a Catholic and became only a woman, simply a woman!--O Nature! the
+victory was thine!--I envy her for having been given a body to be
+loved and adored without fear of the torture which menaces this
+world--and the damnation promised in the next!
+
+ENRIQUE. You could be so brave as she?
+
+ZORAYA. (Rising) Ah! certainly, yes!--who could be braver than
+she!--Can your race produce a Kalem? If so, he is worthy of me! I
+promise hours of beauty and rapture to him who does not fear the
+executioner and who will brave the flames at the stake for that which
+the sun of Africa has set burning in my veins!----
+
+ENRIQUE. (Taking her in his arms) I shall be that man! (She pushes
+him gently away. He recovers his presence of mind and quickly
+withdraws) Ah! demon! You have intoxicated me! Go away from me!
+
+ZORAYA. Adieu, then, my dear lord.
+
+ENRIQUE. (Turning) Adieu!--Yes, adieu!--It is better so! (To Ramiro
+and Arias) Let that woman go! (Picking up her flowers, she slowly
+reascends the slope) What creature is that!--her hand burned in mine
+and her gaze set my brain awhirl!
+
+RAMIRO. I have a remedy, my lord! Say a pater quickly and repeat an
+ave twice to break the charm!
+
+ARIAS. (Preparing to shoot an arrow from his cross-bow at Zoraya) I
+have a better one!--Kill the beast, kill----
+
+ENRIQUE. (Seizing his arm) Ah! brute!--Stop! (He passes the cross-bow
+to Ramiro, then crosses the scene to the right to Zoraya, who has
+returned on hearing the disturbance) Go! Go! He will not make another
+attempt. But, I want never again to find you in my path!
+
+ZORAYA. (Standing in the middle of the path) "No one," says an Arabic
+proverb,--"no one in the world today has seen the dawn of tomorrow."
+
+ENRIQUE. (To his men, who have rejoined him at right, while he still
+watches Zoraya) Let us hasten away from here!
+
+(Curtain)
+
+
+ACT TWO
+
+Scene--A Moorish chamber with three arches. Beyond is seen a garden
+similar to that of the Generalife of Granada, with a fountain and a
+narrow canal bordered with trimmed yew trees and pots of red sandstone
+containing flowers. The arch at the right gives access to a terrace
+beyond which Toledo rises in the distance beneath a burning sunlight.
+At the right of the arcade is the entrance to Zoraya's sleeping
+chamber. On the same side is a small door. In contrast with the
+spreading blue of the heavens and the great heat on the fields and
+garden, the room conveys an impression of coolness. On the floor are
+tiles laid in mosaic. In the center of the scene is an elaborate
+fountain basin surrounded with cushions. On the ceiling are beams and
+panels of cedar. To a height of about six feet, an ivory-colored
+border surmounted with a blue earthenware moulding extends about the
+room. The three arches are closed at will with heavy and rich
+portières. To the right is a little low table inlaid with ivory and
+nacre. There are several cushions on it. Against the wall stands an
+Arabian coffer. Here and there are large Moresque vases containing
+palms and bouquets of flowers. It is morning. There are sounds of
+distant bells, which shortly cease to ring.
+
+
+Scene One
+
+[Aisha, Zaguir]
+
+[Aisha draws open the curtains in the right arch. Zaguir appears at
+the foot in the garden and cautiously calls Aisha.]
+
+ZAGUIR. My aunt!--My aunt!
+
+AISHA. (In an undertone, turning) What?--Who?--Who is calling me out
+there?
+
+ZAGUIR. (In the same voice) I have something important to tell you
+while the mistress is still here.
+
+AISHA. Something serious?
+
+ZAGUIR. Yes.
+
+AISHA. Then come in and speak quickly. (Zaguir goes toward her) What
+is it?
+
+ZAGUIR. Here!--last night at sunset, I saw sitting and conversing
+near the path which leads down toward the bridge of San Martino,
+perhaps a hundred paces or more from this house, two men who were not
+mere passers-by, or residents of this neighborhood. When the sun rose
+this morning they were still there, lying behind some fig trees, as
+if they had passed the night in watching.
+
+AISHA. (Disturbed) The same!--you are positive?
+
+ZAGUIR. Positive!--They are still there. You can see them. (They
+cautiously go to the terrace at right) Stop! they are standing at
+present.
+
+AISHA. There are three of them!
+
+ZAGUIR. Yes!--the one with the grizzled beard was not there. He has
+just arrived.
+
+AISHA. Be careful in returning. (She returns to the center of the
+scene.)
+
+ZAGUIR. (The same) As they have been there since last evening, it must
+be that they are lying in wait for some one.
+
+AISHA. And whom?
+
+ZAGUIR. (With embarrassment) Perhaps those who come at night and
+return at dawn.
+
+AISHA. (Severely) What did you say?
+
+ZAGUIR. (Quickly) Don't be angry--I am only warning you! Otherwise, I
+should have said nothing.
+
+AISHA. And what do you know, naughty boy?
+
+ZAGUIR. Only the worst of things. For example, that he comes down the
+slope and enters through the orchard gate, which has a key; that he
+steals along in the shadow of the arcades until he reaches here and
+that he goes away in a similar manner--on foot as he comes, without
+entrusting to us his horse.
+
+AISHA. Above all you have not mentioned this?
+
+ZAGUIR. Indeed to no person!--it is serious!
+
+AISHA. He is a Moor, a refugee in the Sierra, a rebel who comes
+secretly to obtain medicine for his wife who is ill.
+
+ZAGUIR. Poor woman!--to consume all the remedies which he has
+obtained every night during two months!
+
+AISHA. You presumptuous boy!
+
+ZAGUIR. Do not call me after all kinds of beasts, auntie dear! I don't
+ask you who this unknown is; he concerns me not. But I know truly that
+I should be cut in pieces before I would whisper a word. You may tell
+your mistress that!
+
+AISHA. Allah protect me! I shall not tell her that you know.
+
+ZAGUIR. As you wish! But whisper to her that they are watching her
+house. (The bells again begin to ring.)
+
+AISHA. And in vain for two days.
+
+ZAGUIR. Yes, fortunately!--He did not come last night, or the night
+before.
+
+AISHA. And Zoraya is worried enough!--Go, thou!--Quickly!--I hear her!
+
+[Zaguir is going out when Zoraya appears, parting the portières at
+the left.]
+
+
+Scene Two
+
+[The same persons, Zoraya]
+
+ZORAYA. (Without seeing Zaguir, to Aisha) Who is here with you?
+
+AISHA. Zaguir, who has no right to be here!--but he has a good
+excuse--since yesterday he has seen men prowling round the house. (She
+points to the right, Zoraya crosses the scene and goes to the window.)
+
+ZAGUIR. They have passed the night under the fig trees.
+
+AISHA. (To Zoraya) On the hillside--look! Ah! They are going away--do
+you see them?
+
+ZORAYA. Yes!--They are going down to the bridge. (To Zaguir) Follow
+them!
+
+ZAGUIR. As far as the city?
+
+ZORAYA. All about the city--and see where they stop.
+
+ZAGUIR. Yes, mistress!
+
+ZORAYA. Go! Go!
+
+[Zaguir leaves, running.]
+
+
+Scene Three
+
+[Zoraya, Aisha]
+
+ZORAYA. (At the window, constantly looking out) Why are those bells
+ringing on this beautiful morning?--Is there some Christian festival
+today?
+
+AISHA. I know of none.
+
+ZORAYA. (Reëntering the scene) After waiting for him all night I
+finally fell asleep. They awakened me and I heard your voice. I
+believed he was there, and I nearly betrayed myself by calling his
+name in the boy's presence.
+
+AISHA. We must continue hoping that Don Enrique will come tonight.
+
+ZORAYA. Two nights without seeing him!--And no word from him--what
+torture! And those bad dreams! Give me the spotted cards.
+
+[Aisha brings a pack of cards which she lays out on the little
+table. The sound of the bells gradually dies out.]
+
+AISHA. He has probably been warned of the presence of those men.
+
+ZORAYA. Last night, yes--But the night before--did Zaguir see them
+then?
+
+AISHA. No.
+
+ZORAYA. (Constantly occupied in arranging the cards) Then it was
+something else.
+
+AISHA. Perhaps some sudden duty?
+
+ZORAYA. Doubtful! He is free! He has no father, no mother, no wife,
+no children!
+
+AISHA. He commands the archers, the blunderbuss men and the
+cross-bowmen of the city. He may be detained by the service.
+
+ZORAYA. For two days?
+
+AISHA. He is a member of the Council of Castile, which may have been
+summoned to Aranjuez where the king is sojourning.
+
+ZORAYA. Yes, possibly that is so!--Ah! if only we had some means of
+secretly writing to each other!
+
+AISHA. Allah protect us! That would be a quicker way of losing
+ourselves!--we are threatened often enough, now!
+
+ZORAYA. Ah! (She raises a card.)
+
+AISHA. What?
+
+ZORAYA. The Cavalier of the Sword--now I am beginning to detect the
+cause!
+
+AISHA. You see!--I thought until this minute that we should not be
+left long in security! You had decided to do as the others advised
+and flee to the coast of Africa to escape the persecutions of the
+Nazarenes! Then, it was necessary to meet this man! Ah! misery upon
+us! Ever since the time when he unexpectedly appeared while we were
+breathing the evening breeze on the hill and when you so foolishly
+threw yourself into his arms, I have believed that I hear the black
+wings of Azrael, the angel of death, brushing the roof of our house!
+
+ZORAYA. "Our Destiny," says the Prophet, "is suspended from our
+necks"--If it is written that I shall die for Enrique, then I may
+likewise wish that it should be in his arms!
+
+AISHA. Oh! my daughter, you who were so chaste in your widowhood, why
+are you enamored with this infidel, this enemy of the true God?
+
+ZORAYA. Do you know how and why I love him? I was at his mercy! A
+word, and he could have thrown me into the dungeons of the
+Inquisition. It was good of him to save my honor, a price which they
+always extort from our other women. I will risk anything for him.
+Those men were there to act as my safeguards during the night. I
+shall wait for an opportune time and flee to Toledo before evening!
+
+AISHA. Rain of Heaven!
+
+ZORAYA. But what weakness is ours! He is young, he is generous in his
+love, his gaze is tender!--when he liberated me, I could dream no
+more of fleeing.
+
+AISHA. Alas!
+
+ZORAYA. (Returning to the cards) Ah! "The King!"--A powerful enemy!
+
+AISHA. You see! You see!
+
+ZORAYA. Sh----.
+
+AISHA. What?
+
+ZORAYA. I believe I hear him.
+
+AISHA. No!
+
+ZORAYA. Besides, he would not come before night!
+
+AISHA. Ah! I hope he will not come this evening--and never again!
+
+ZORAYA. Silence! You wretch! Do you want me to die of sorrow?
+
+AISHA. That would be better than being buried alive in an oubliette
+as poor Kalem's accomplice and for a crime similar to his!
+
+ZORAYA. I should die first!
+
+AISHA. Allah! Allah! listen to her--Where is there a love that has
+made any one reasonable! All these nights I have been there, I,
+cowering on my couch waiting and listening and trembling at the least
+noise. And you can be happy--you--with such a menace hanging over
+you!--What folly!
+
+ZORAYA. (Rising and putting away the cards) You do not understand
+anything, poor Aisha! To love without peril is beautiful--it is the
+common kind of love. But the kind that is outlawed, accursed and
+condemned at its beginning--the love that braves all perils, that
+defies death, that brings the bitter-sweet of forbidden kisses and
+maddening embraces during which it is said, "This may be the
+last!"--that is love!--that is love!
+
+AISHA. (Groaning) Ah!
+
+ZORAYA. Be silent! This time it is his step. (She runs to the door
+at the left and opens it) It is he!--Ah! it is he!--It is he!
+
+[Enrique appears on the threshold of the little door.]
+
+ZORAYA. Finally--Ah! God!--At last! at last! (To Aisha as she passes
+Enrique to fasten the little door) Watch carefully. (After fastening
+the draperies, Aisha goes into the garden.)
+
+
+Scene Four
+
+[Zoraya, Enrique]
+
+ZORAYA. (To Enrique) Your heart beats!--You have been running?
+
+ENRIQUE. Yes!
+
+ZORAYA. They have pursued you?
+
+ENRIQUE. (Removing his mantle) No!
+
+ZORAYA. And on the road, did you see no one?
+
+ENRIQUE. Not one person! (He places on the stool his mantle, his hat
+and his sword.) I did not come by way of the bridge, but by the path
+up the hillside after crossing the river in a boat.
+
+ZORAYA. (Seated on the cushions) In daylight! What imprudence! And
+instead of coming last night when I waited so anxiously for you!
+
+ENRIQUE. I, too, have had occasion to think of that!--When I left you
+at dawn the day before yesterday I saw standing at the end of the
+bridge a man whom I knew had no ordinary reason for being there at
+that hour. I passed him quickly, covering myself closely with my
+cloak. He followed me, but I reached my residence after throwing him
+off my trail in an alley.
+
+ZORAYA. He followed you?--You are certain?
+
+ENRIQUE. Absolutely certain. It was to baffle him that I forced myself
+to remain away from you last night and the night before and that I
+crossed the river in a boat, below the Mirador.
+
+ZORAYA. Yes! (Rising) Oh! it is clear now! It is well for you that
+they watched only at night.
+
+ENRIQUE. And why?
+
+ZORAYA. The men watched there behind those fig trees. (He goes toward
+the terrace.) No!--they have gone away, thinking it useless to watch
+for you in the daytime.
+
+ENRIQUE. How many?
+
+ZORAYA. Three. One of them seemed to be the chief.
+
+ENRIQUE. Did he have a small, grizzly beard?
+
+ZORAYA. Yes.
+
+ENRIQUE. (Eagerly) It was he who spied upon me. I believe I recognize
+him! (Seats himself at right on the fountain basin.) It is Cardenos,
+one of my father's old soldiers, but now an agent of the Holy Office
+and a religious bigot!
+
+ZORAYA. (At his right, standing) Then! he has recognized you!
+
+ENRIQUE. I doubt it. He would hardly wait one day. He knows only that
+you are receiving some unknown person in the night. If I were
+suspected they would prowl round my house and I have seen nothing of
+them--At least, whatever there is in this, we must be on guard.
+
+ZORAYA. Oh, yes!
+
+ENRIQUE. And for the sake of prudence give up seeing each other.
+
+ZORAYA. For several days--surely.
+
+ENRIQUE. Say--some weeks.
+
+ZORAYA. (Protesting) Several weeks?
+
+ENRIQUE. It is the only way to stop them from spying upon us.
+
+ZORAYA. Several weeks!--without seeing each other?
+
+ENRIQUE. My Zoraya, you must resign yourself to it.
+
+ZORAYA. Resign myself!--Oh, resignation is easy for you! Our love is
+not the only affair of your life!--But I!--I cannot conquer my
+loneliness after you depart with the thought that you will return
+when the first star flowers in the heavens. I shall no more, during
+the great heat of the day, dream of the night's divine joys, which
+live again in thoughts of you. I shall feel lonely enough in this
+house during the coolness of evening when alone I shall hear the soft
+wind in the branches, the songs of my birds, the purling of my
+streams--then all that charms me at other times will bring in your
+absence only sorrow and tears!--Those two nights without you, how
+long they seemed!--and you speak of weeks!--several weeks, you say.
+"Where is he? What is he doing? Does he think of me? If he should
+never return!" (Enrique makes a quick movement.) Ah! perhaps that is
+what you wish to say and dare not tell me!
+
+ENRIQUE. I!
+
+ZORAYA. If you fear those men?--If you wish to see me no more?
+
+ENRIQUE. (Protesting) You believe me cowardly!--When I have risked
+myself in plain day to see you for an instant!
+
+ZORAYA. That is true!--But you seem so preoccupied, so troubled--
+
+ENRIQUE. Like yourself--by this danger.
+
+ZORAYA. Yes, but I am more tender than you--While you--they say that
+your heart is always far away--far away from me!--Look at me!--I want
+you to look at me!--Quickly!--without taking time to invent a lie!
+(She turns Enrique's face toward her.) Your gaze seems to tell me
+that your love has been stolen from me!
+
+ENRIQUE. Ah! My charmer! What a long time until then!--Since the hour
+when we first met, they have followed me everywhere, those eyes,
+there--they call to me day and night!--Ramiro had said to me, "Take
+care, my lord, that the magician does not throw over you some kind of
+a love charm!"
+
+ZORAYA. Ramiro is a silly fellow. There has been neither a magician
+nor magic. "Life," said my father, "is a combat, where, like flights
+of arrows, contrary minds strive among themselves for a victory,
+which finally rests with the fallen." I desired ardently to be loved
+by you. You did not know how to defend yourself. I have shot my arrow
+into your heart--in that lies all of my sorcery.
+
+ENRIQUE. And why did you so fervently desire me to love you?
+
+ZORAYA. (Passing Enrique, to the left) First, because of cowardice,
+my dear lord!--to extort from you my pardon--and later on, if I
+conquered you, to flee from Toledo!
+
+ENRIQUE. Ingrate!
+
+ZORAYA. (Sitting) It is bold of me to tell you now--and next--for
+bravado, malice and revenge!
+
+ENRIQUE. Revenge?
+
+ZORAYA. Yes, yes, revenge! I wanted to have the pleasure of
+humiliating in you the Spaniard, the Christian, the conqueror of my
+people, the enemy of my race, which you declare impure! I wanted to
+make you renounce your faith like the heroes of that book of love
+(she points to the book on the table), "Celastine," which you have
+given me to read--like Calixte, who said to his dear Melibee: "I am
+no more Christian or pagan. I am Melibee! I believe in no one but
+Melibee, I adore no one but Melibee!" And, after all!--after all!--I
+wanted to be loved--for the sake of love! Leaning against you, nearly
+in your arms, as I am now, with your cheek brushing my cheek--I felt
+little by little the chaste coldness of my widowhood, which Aisha
+always glorified, melting like snow in the glowing warmth of our
+clasped hands, in the burning breath from our hot lips--This fever of
+love which I believe will never be cured has crept stealthily into my
+blood. I am like one intoxicated. And when you say to me: "Go away,
+you are free!" I shall take with me in leaving the hope, the dear
+hope, that you will come to me very soon on some dark night and
+demand a ransom for my freedom. Ah! my adored conqueror, you are well
+avenged! She who would rule is no more than an humble slave at your
+feet, subdued and tender as a tamed gazelle! (Sounds of the distant
+bells. Enrique starts. Zoraya does not move.) What disturbs you?
+
+ENRIQUE. Those bells!
+
+ZORAYA. Well, they are ringing. What is that to us?
+
+ENRIQUE. It means that they are calling me and that it is time for us
+to part.
+
+ZORAYA. (Rising) So soon? What for? You may remain here until the
+hour of the siesta when the streets are deserted.
+
+ENRIQUE. Oh, no! That is impossible! (He rises.)
+
+ZORAYA. Impossible!
+
+ENRIQUE. There is to be a great feast in the palace and a great
+ceremony in the cathedral. All of my men are under arms and I must
+be at their head. I have scarcely time to return to the city in the
+same way that I came.
+
+ZORAYA. By boat?
+
+ENRIQUE. Yes. (He takes up his hat, mantle and sword.)
+
+ZORAYA. And if they should watch for you on the other side of the
+river?
+
+ENRIQUE. Do not dream of that!--Fear nothing!
+
+ZORAYA. Oh! I fear everything just now, those men--and for you!
+
+ENRIQUE. For me?
+
+ZORAYA. Yes! Yes! For either of us, who knows? Last night I had a
+menacing dream! You entered by that door! I ran to you! You were
+nothing but a shadow, a vapor which dissolved in my arms!
+
+ENRIQUE. What folly!--A dream!
+
+ZORAYA. All dreams are not lies! If this one should be true, what
+then?--Do assure me that you are not going away to forsake me!
+
+ENRIQUE. Oh!
+
+ZORAYA. For another!
+
+ENRIQUE. Hush! Hush!
+
+ZORAYA. I would kill you first!--No, no! Do not believe that! Pardon
+me for saying that--I have suffered so much during these last two
+days. And such bad omens! When do we meet again?
+
+ENRIQUE. God knows when! So soon as we can without danger.
+
+ZORAYA. Here?
+
+ENRIQUE. Oh, no!
+
+ZORAYA. Where then?
+
+ENRIQUE. I shall advise you.
+
+ZORAYA. (In his arms) And how shall I know?
+
+ENRIQUE. That will be arranged!--And, until I come, my dear love,
+believe nothing, do you hear!--nothing, only in my love for you! (The
+bells begin to ring again.)
+
+ZORAYA. Ah! those bells which always take you from my arms!
+
+ENRIQUE. I hope to see you soon!
+
+ZORAYA. Watch carefully during your return to the city.
+
+ENRIQUE. Yes, yes!
+
+[She gazes at him until he disappears through the doorway.]
+
+
+Scene Five
+
+[Aisha opens the curtains in the left arch. Seeing that Zoraya is
+alone, she descends into the scene.]
+
+AISHA. He is gone?
+
+ZORAYA. (Going back to the right) Yes, and let us hope safely. He
+will not return until many days have passed.
+
+AISHA. I have turned away the poor men who came at their usual hour
+seeking aid from you.
+
+ZORAYA. Ah! I am in a fine state of mind to console others!
+
+AISHA. I have again given Al Mansour's wife that black liquor which
+lessens her husband's sufferings. I also gave a purse of gold to
+Farizade. Poor Saada is here again. She is discouraged. Her sister
+suffers more than ever from that malady.
+
+ZORAYA. Alas! And there is no remedy!
+
+AISHA. She begs you to have pity on this unfortunate woman, who asks
+that death relieve her and who implores you to send her a beverage
+which will put her into a sweet and everlasting sleep. (The bells
+stop ringing.)
+
+ZORAYA. Ah! that is the right kind of charity. They give that to a
+diseased dog, but they condemn human beings whom they love to suffer
+useless tortures--it is barbarous and stupid!
+
+AISHA. Saada will return tomorrow.
+
+ZORAYA. Prepare for her bitter almond essence in a covering of pure
+wax the size of a muscat grain. That will take away the poor girl in
+less time than one can say: "There is no other God but Allah!" If it
+is a crime to do this, I am ready to face the charge. Is that all?
+
+AISHA. (With hesitation) No!--there is another whom I did not want to
+send away. It is an urgent case, she said. She is anxiously waiting
+out there.
+
+ZORAYA. Do I know her?
+
+AISHA. (The same) She is an old friend of your mother's--Fatoum.
+
+ZORAYA. (Quickly) That wretched woman who was converted! I will not
+see her!
+
+AISHA. She assures me she has been faithful to the Prophet's law.
+
+ZORAYA. Well, what does she want?
+
+AISHA. She is accompanied by a young girl in a litter.
+
+ZORAYA. Ill?
+
+AISHA. Probably.
+
+ZORAYA. Let Fatoum alone enter.
+
+
+Scene Six
+
+[Zoraya, Aisha, Fatoum]
+
+[Aisha raises the portière at the left to admit Fatoum, an old
+Moorish woman, who has been converted.]
+
+ZORAYA. Come forward!
+
+FATOUM. (She goes to Zoraya, who is seated, kneels and kisses the hem
+of her skirt) May Allah be merciful to you and rain his gifts upon
+you!
+
+ZORAYA. (Severely) Dare you pronounce His sacred name, you who have
+renounced the God of your fathers! Take care that He does not hear
+you!
+
+FATOUM. He reads my heart and sees that I am converted only because I
+do not want to be separated from the child, whom I have brought here.
+
+ZORAYA. Your daughter?
+
+FATOUM. By birth, no, Zoraya; by affection, ah! certainly, yes! She
+was ten years old when her mother died, and I have reared her.
+
+ZORAYA. A Spaniard?
+
+FATOUM. Yes! You alone can heal her.
+
+ZORAYA. That is a case for the Christian physicians.
+
+FATOUM. They know little or nothing. I have come to you because your
+father--on him rested Allah's benediction--was their master in
+everything and taught you the secrets of his art.
+
+ZORAYA. Well, who is she?
+
+FATOUM. She consented to come only when I promised not to reveal her
+name.
+
+ZORAYA. Then she may go!
+
+FATOUM. Zoraya, have pity! This child's father is a hardened
+Catholic!--If he knew that I had taken his daughter to a Moor's home,
+I would be cruelly punished! Out of fondness for me, she keeps it a
+secret!
+
+ZORAYA. She need not know that you have betrayed it.
+
+FATOUM. If you promise me----
+
+ZORAYA. Yes, I promise!--Who is she?
+
+FATOUM. Doña Joana, daughter of the Governor of Toledo!
+
+ZORAYA. (Quickly rising) That madman who is hunting our refugees in
+the Sierra and killing them without pity!
+
+FATOUM. Allah, the Most High, rewards the faithful for their
+sufferings! This child is innocent of her father's cruelties. She is
+charitable and good, the same as we ourselves. Moreover, she is very
+pious. She has been out of the convent only four days and will be
+married today.
+
+ZORAYA. Ah! those bells!
+
+FATOUM. Her marriage! In order to have her visit you we have taken
+advantage of a journey to the convent of Mercy on this beautiful
+morning to ask the benediction of the abbess.
+
+ZORAYA. The convent of Mercy!--In it is confined the poor creature
+who loved Kalem, whom they stoned to death.
+
+FATOUM. I do not know.
+
+ZORAYA. I, myself, know it--and I shall tell Joana my price for
+healing her--Let her enter!
+
+[Aisha and Fatoum go out and return, bringing in Joana.]
+
+
+Scene Seven
+
+[The same persons and Doña Joana]
+
+[Joana enters, timid, frightened and supported in Fatoum's arms.]
+
+ZORAYA. (Kindly) Do you not fear, señorita, to come into a pagan's
+home?
+
+JOANA. Fatoum has told me that you are charitable. That is the law of
+the Gospel!
+
+ZORAYA. And also that of the Koran--In that our religions are the
+same!--Seat yourself, my daughter (she sits upon the cushions at her
+side)--and tell me your trouble.
+
+JOANA. (Timidly) Permit Fatoum to tell it instead of me.
+
+FATOUM. (Seated on a stool which Aisha has placed in the left of the
+scene) It is very strange--She rises in her sleep at night. Without
+seeing any one, she goes, comes, attends to her ordinary duties and
+returns to her bed--and during all that time she is in a dream.
+
+ZORAYA. (Taking Joana's hand, which relaxes) And she remembers
+nothing of it?
+
+JOANA. Oh, nothing!
+
+FATOUM. This also happened in the convent.
+
+ZORAYA. No, no! I prefer to have her tell me about it, herself.
+
+JOANA. While in the convent I was frequently seized at night by a
+desire which led me to walk barefoot through the corridors to the
+chapel where I lighted the altar candles, prayed and sang a
+canticle!--and the next day the candles were still burning and I
+would not believe that I had lighted them. I prayed in vain to God
+to deliver me from this infirmity. I decided to come to you this
+morning with Fatoum, who says you are so wise!--For I am to be
+married today. If my husband sees me get up in the night and
+promenade like a phantom, he will believe it is a punishment from
+Heaven!--He will abhor me and I will die of shame!
+
+ZORAYA. (Leaning towards her) And during the day when you pray you
+fall into a dream of ecstasy, do you not--and you make believe that
+you are no more on this earth?
+
+JOANA. (Feeling gradually the suggestions to sleep) Oh, yes--yes!--It
+is so beautiful! Ah, it is delicious! I see Heaven!--blue--all blue,
+encircled with a golden light!--I hear the songs of seraphim and
+archangels!----
+
+ZORAYA. And is all beautiful in this delicious slumber into which you
+are falling?
+
+JOANA. (Sleepily) Yes!--Yes, beautiful!
+
+ZORAYA. As this? (She closes Joana's eyes.)
+
+JOANA. Yes!--I see--I--I----
+
+ZORAYA. Sleep! I want you to!
+
+[Joana falls asleep with her head resting on Zoraya's shoulder.]
+
+FATOUM. (In a low voice) Is she asleep?
+
+ZORAYA. It is a sleep like that in which she walks at night.
+
+FATOUM. Joana!--Señorita!--My child!
+
+[Joana does not move.]
+
+ZORAYA. She does not hear your voice!--Does she also speak of taking
+the veil?
+
+FATOUM. Ah, God!--It is her only dream. But she is her father's only
+child. He will not consent to it and is obliging her to marry, which
+makes her disconsolate.
+
+ZORAYA. Does she object to the marriage, or to the man who is to be
+her husband? (Calling) Joana! (Joana moves. Zoraya continues.)
+Answer!--Do you feel tenderly for him whom you are to marry?
+
+JOANA. (Feebly) I do not love him.
+
+ZORAYA. Then, it is a feeling of aversion?
+
+JOANA. No! (Sadly) I do not want to marry!--I want to be a nun.
+
+FATOUM. Do you hear that!--To me, to her father, to the abbess and to
+the sisters at Mercy--she has nothing to say but: "I want to be a
+nun." Do you think that they have encouraged her with that idea in
+the convent and pictured marriage as something frightful? She is
+afraid that she will fall into one of those sleep-walking dreams
+tonight, which would cause a scandal!
+
+ZORAYA. Perhaps marriage would cure this malady.
+
+FATOUM. Oh! I implore you, Zoraya, to heal her yourself, at once----
+
+ZORAYA. In a day, it is impossible!--Can you not come later? I shall
+surely succeed in curing her by frequently placing her in the present
+state in which she thinks of nothing, feels nothing and moves only at
+my command.
+
+FATOUM. Is it possible?--It is magic!
+
+ZORAYA. No!--It is one of the mysterious laws of Nature that one will
+can fasten upon another, as mine has upon this child's, and cause it
+to submit. It is so, Fatoum, for good or bad. If my power over this
+weaker creature were better established, and not so recent, I could
+say to her at this moment: "On such a day, at such an hour, you shall
+sleep this same sleep." And unless she guarded herself while asleep,
+the least remembrance of that order on the stated day and hour would
+cause her to sleep unexpectedly in spite of her will, completely
+enslaved by mine. It is time to awaken her.
+
+FATOUM. Not yet, I pray you!--Your will is so powerful. Can you not
+give her some protection against this disease tonight?
+
+ZORAYA. I can attempt it with great hope of success.
+
+FATOUM. Oh! do it, Zoraya!--Do it! I shall forever bless you!
+
+ZORAYA. Joana! I tell you not to have the least fear that your trouble
+will return tonight. I have protected you. Do you understand?
+
+JOANA. (Feebly) Yes!--Yes!
+
+FATOUM. May Allah reward you!
+
+ZORAYA. I tell you to awaken.
+
+[She draws Joana to her, leans over her shoulder, places her hand on
+the top of her head, breathes on her eyes and opens her eyelids.
+Joana sighs, rouses herself, awakens and looks astonished.]
+
+JOANA. (Sadly) Ah! you see!--I have slept again.
+
+ZORAYA. No, señorita, no!--It is I who made you sleep.
+
+JOANA. You can do that!
+
+ZORAYA. And can also cure you.
+
+JOANA. (Quickly) God has guided you!
+
+ZORAYA. Be assured, your malady will not trouble you tonight. (Signs
+of joy from Joana. Zoraya continues.) All service, of course, is
+worthy of reward. Therefore, I put a price on your healing.
+
+JOANA. Ah! I promise to pay in advance.
+
+ZORAYA. You are going to the convent of Mercy?
+
+JOANA. Yes, to ask for the blessing of the Holy Abbess.
+
+ZORAYA. There is in that convent a Christian maid, who, for having
+loved Kalem, is confined in a dungeon where she never sees daylight,
+where she awaits death to deliver her, if she has not yet answered
+its call.
+
+JOANA. Yes, poor girl, I know--but her crime----
+
+ZORAYA. You should quickly judge her as being the least
+guilty.--Implore for that unfortunate girl the mercy of the abbess,
+who will refuse you nothing on this, your nuptial day--Ask that this
+miserable creature be brought out of her living tomb, that she be
+given a cell where she may see a ray of sunlight, and that she be fed
+with other nourishment than bread and water, which increase the
+sufferings to which she is condemned. As for this today--Too late, we
+fear.
+
+JOANA. I shall request this as a favor.
+
+ZORAYA. You swear that you will?
+
+JOANA. Before God!
+
+[The distant bells again ring.]
+
+ZORAYA. (Without rising) Those are your marriage bells, dear child.
+(Aisha assists Joana to rise) I hope that you will have good health,
+a happy and contented love and that your youth will be decked with
+flowers.
+
+[Joana leaves with Aisha, while Fatoum stops to kiss Zoraya's hand.]
+
+FATOUM. Allah's benediction upon you!
+
+[Fatoum goes out with Joana.]
+
+
+Scene Eight
+
+[Zoraya, Aisha, Zaguir]
+
+[At the instant that Fatoum and Joana disappear in the garden, Zaguir
+appears on the threshold of the little door.]
+
+ZORAYA. You followed those men?
+
+ZAGUIR. Yes, mistress!--Far into the city, but I lost them in the
+crowd. All of the world seems to be in the streets, for there is a
+great fête.
+
+ZORAYA. Yes, I know--the marriage.
+
+ZAGUIR. Of the Governor's daughter and Don Enrique Palacios!
+
+[Zoraya stifles a heartrending cry.]
+
+AISHA. (Running to Zoraya) Ah! unhappy child! (Zoraya clings fast to
+her, bewildered, swaying, choking. She finally falls on the cushions
+between Aisha and Zaguir, who rush to aid her.) My Zoraya!--My poor
+Zoraya!
+
+(Curtain)
+
+
+ACT THREE
+
+Scene--Evening in a Spanish patio in the governor's palace. It is
+seen obliquely. In the foreground and on the three other sides a
+portico of columns surrounds the central space which is open to the
+sky. The court is ornamented with flowers and shrubs and pomegranate,
+orange, myrtle and laurel trees in red earthen pots. Seats of all
+kinds are scattered about. At the foot, on the ground floor, is a
+large chamber with a door in the middle and windows on the sides. At
+the right, in the foreground, under the portico, a small stairway of
+five carpeted steps faces the audience and ends on a landing which
+gives access to a vestibule and the bridal chamber, where the
+outlines of dimly-lighted windows are seen. The columns of the
+portico are decorated with palms, foliage and flowers fastened with
+silk ribbons. Roses and jasmines climb on the walls. At the left,
+clearly in view, is a door opening on the street, which is brightly
+lighted by the moon when the door is open. The moon also shines
+intensely bright on the front and right side of the house. The rooms
+on the first floor have lighted windows. Lanterns hang from the
+pillars of the portico. Hung from a pillar at the left, a Madonna
+lamp lights the front of the scene. There are doors at the right, the
+left, the foot and at the extremities of the portico.
+
+Through the door and windows of the first floor is seen the great
+dining chamber containing a table. In the scene, cavaliers, women,
+bourgeoise and invited guests of all kinds are seated everywhere;
+valets are hurrying about passing basins of silver with fruits, cake,
+etc. The señoras, seated, fan themselves, chatter and gossip. There
+is a loud noise of talk and laughter. Music is heard in the banquet
+hall, interrupted with lively bursts of applause and exclamations of
+joy. Little Spanish airs are played sweetly on instruments like
+flutes, violins and hautebois.
+
+
+Scene One
+
+[Cardenos, Ramiro, Doña Rufina, Doña Serafina, Doña Syrena, Doña
+Fabia, Velasco, Don Ambrosio, Rioubos, Cristobol, Cavaliers, Women,
+etc.]
+
+[Ambrosio, Syrena, Serafina, Fabia, are seated in the foreground.
+Cristobol and Rioubos are outside.]
+
+DOÑA FABIA. Ah! here is Doña Rufina.
+
+[Doña Rufina enters with Ramiro into the foreground. Salutations.]
+
+RAMIRO. (To Doña Rufina) Then, Señora, you were not at the cathedral?
+
+DOÑA RUFINA. (Seating herself in a chair which Ramiro places at the
+left) No!--I have just arrived from Aranjuez, bringing the Queen's
+gift to the bride--a very costly girdle-buckle.
+
+CRISTOBOL. It was a beautiful ceremony, Señora.
+
+RIOUBOS. His Eminence Cardinal Ximénès himself pronounced the nuptial
+blessing.
+
+DOÑA SYRENA. Naturally! Doña Joana is his god-daughter.
+
+DOÑA RUFINA. The city seems to me very gay.
+
+DOÑA FABIA. Compared with it ordinarily.
+
+RAMIRO. Yes, all day they have had on the Plaza del Zocodover
+entertainments by jugglers, buffoons, dancers and monstrous African
+monkeys!
+
+DON AMBROSIO. (An old cavalier sitting in an arm-chair) Yes, at this
+moment there is singing and dancing in all the public places.
+
+DOÑA SYRENA. Among us, this marriage was a long time postponed.
+
+DOÑA FABIA. Yes--they were betrothed five years.
+
+RAMIRO. Pardon me, Señoras. When Don Enrique's father--the Lord
+Palacios--felt that he could not live much longer he decided to
+select a wife for his son's future marriage. He and the Governor
+made an arrangement whereby Don Enrique and Doña Joana were
+affianced. As Doña Joana was then only ten years old, her father made
+her go to the convent to grow up!
+
+DOÑA RUFINA. They say she became so devout they believed she would
+never come out.
+
+DOÑA SYRENA. She did not have a radiant air in the church--the bride!
+
+RIOUBOS. No more than did Enrique.
+
+CRISTOBOL. There was one radiant person--the Governor!
+
+VELASCO. (Unexpectedly) Undoubtedly because his daughter did not take
+the veil!
+
+RAMIRO. (To Velasco) What! are you here, Velasco?--I believed you
+were in Alpujarras, chasing the Moors.
+
+VELASCO. (Bowing to the women) I was, in a way; but I have returned
+for this fête.
+
+DON AMBROSIO. Have they not yet taught these rebels to be reasonable?
+
+VELASCO. They have retreated into inaccessible places where it is
+impossible to follow them.
+
+DON AMBROSIO. They are chasing these pagans too long.
+
+RAMIRO. Not now, Don Ambrosio. His Eminence and the Governor are
+after them with the hand of death.
+
+DON AMBROSIO. Then, Ramiro, you will see the advantages of severe
+treatment. Within six months thousands of Moors will be converted.
+
+[Murmurs of satisfaction. The music ceases.]
+
+CARDENOS. That is a mere farce, my Lord Ambrosio! (Gravely) These new
+Christians are liars--they go to mass, only to laugh when they come
+away. They themselves confess of avowing only to silly things. When
+their children are baptized, they wash them quickly to cleanse them
+of what they call the pollution of the blessed holy oil. (Murmurs of
+indignation) Their daughters are married at our altars, dressed as
+Christians, but when they reënter their homes they dress themselves
+as Moors--and celebrate their nuptials with dances and forbidden
+Arabian songs, such as the zambra, to the music of tambourines,
+trumpet-shells, cymbals and other instruments also forbidden!
+
+DOÑA RUFINA. For my part, I can overlook the zambra and the
+tambourine, but I strongly approve prohibiting Moorish women from
+dyeing their eyebrows and eyelashes. They are bold enough looking
+without that.
+
+DOÑA SYRENA. Oh, my! I think the most admirable royal edict is the
+one which provides the penalty of execution for any intimacy between
+a Spaniard and a Mooress--for there are truly beautiful girls in the
+homes of these Africans, and you are not too little inclined, my
+lords, to perceive them.
+
+RIOUBOS. And for my part, Señora, I strongly approve of the edict
+which punishes with solitary confinement in a dungeon any Spanish
+woman who loves one of these blacks to whose beauty you are not
+always indifferent.
+
+DOÑA SYRENA. (Quickly) Oh! but that is all the more excusable.
+
+[Laughter and exclamations.]
+
+DOÑA RUFINA. (Quickly) Ah, my dear, what did you say then?
+
+DOÑA SYRENA. (A little confused by her blunder) You see!--Yes!--The
+circumstances are very different.
+
+[The same sounds of laughter.]
+
+RAMIRO. Ah! see, I beg of you, Señora--see the difference!
+
+DOÑA SYRENA. What!--If the intrigue has results, is it not so?
+
+ALL. Yes!
+
+RAMIRO. A child!
+
+DOÑA SYRENA. In the first case, the mother being Moorish the child is
+a little Mussulman--in the second case, where the mother is Spanish,
+it is a little Christian!--Dear angel!--And there are never too many
+of those!
+
+ALL. (Laughing in approval) Oh! very good! Very ingenious! Charming!
+
+[Three trumpet calls are sounded in the banquet room.]
+
+DOÑA RUFINA. The banquet is ended. (She rises.)
+
+DOÑA SYRENA. They are going to drink to the healths of the newly
+married ones!
+
+[All rise. Shouts and acclamations in the hall, followed by very sweet
+music. All the guests come out, those in front turning to look into
+the banquet hall. Fatoum appears on the pavement, while valets
+distribute flowers among the assistants.]
+
+
+Scene Two
+
+[The same, Fatoum and Zoraya]
+
+[Zoraya, veiled, cautiously enters unnoticed from the street and goes
+to the middle of the foreground. While getting her bearings, she sees
+Fatoum on the landing-place and goes toward her, raising her veil.]
+
+ZORAYA. Fatoum!
+
+FATOUM. Ah! Zoraya!
+
+ZORAYA. (Imposing silence with a gesture) Yes!--I concluded that
+results would be surer if I repeated the mesmeric treatment which I
+gave Joana this morning.
+
+FATOUM. Oh! I am grateful to you! You have arrived at an opportune
+time! It is the end of the banquet. They are now offering
+congratulations. Joana is about to enter her apartment. You will pass
+for one of the new servant women whom I have chosen!
+
+[She points to the landing-place of the right stairway and leads her
+to it.]
+
+ZORAYA. Ah! it is there?
+
+FATOUM. Yes, where the windows are lighted.
+
+ZORAYA. (Looking about) And he!--Where is he?
+
+FATOUM. He?
+
+ZORAYA. The husband!
+
+FATOUM. In the large chamber waiting for the poor child to be put to
+bed.
+
+[Zoraya stops on the stairway an instant to turn towards the banquet
+hall, then follows Fatoum.]
+
+
+Scene Three
+
+[The same without Zoraya and Fatoum. Afterward Doña Joana and her
+women, Cleofas]
+
+[While dance music is being played, the great double door of the
+chamber is thrown open--the guests crowd to the windows. The women
+arrange themselves at the left of the patio, the men at the right.
+Doña Joana comes out of the chamber, followed by her female
+attendants. As she descends, she is saluted by the women, who make
+courtesies before her, and by the cavaliers, who bow. Each, at the
+moment she passes, throws a flower at her feet and murmurs a wish for
+happiness.]
+
+DOÑA SYRENA. Joy and health, Señora!
+
+DOÑA RUFINA. Be happy, Doña Joana!
+
+DOÑA SERAFINA. Everlasting happiness, Señora!
+
+THE CAVALIERS. Our best wishes, Señora!
+
+[Doña Joana thanks them as she descends into the foreground and goes
+up the steps leading to her apartment. The women watch her and bow
+reverently as she stops on the threshold to look at them before
+entering the room. Fatoum is waiting for her. The music stops when
+they enter.]
+
+DOÑA FABIA. (At the left with Doña Rufina and Doña Syrena, after
+Joana disappears) She is pale, the dear!
+
+DOÑA RUFINA. (Giggling) With emotion!
+
+DOÑA SYRENA. They create such false ideas about a moment like that!
+
+DOÑA RUFINA. And exaggerate them so!
+
+[They group themselves, seated, near the right column. After the
+procession has passed, Cleofas descends at the right, talking with
+Ramiro and Cristobol. The guests disperse in the patio, sitting or
+standing. There is a murmur of confused voices.]
+
+CLEOFAS. Whew!--it is warm in that chamber!
+
+DOÑA SYRENA. (To Doña Fabia in a low voice) Especially after they
+have emptied all the flagons!
+
+DOÑA RUFINA. (To Cleofas) Cleofas would have done well had he given
+the bride some comforting elixir.
+
+CLEOFAS. (Gaily) Oh, yes! Those nuns have pictured marriage to her as
+something horrible!
+
+DOÑA RUFINA. The poor little child has had no one to give her a
+mother's care.
+
+RAMIRO. Oh, yes!--there is Fatoum, the convert, who has brought her
+up.
+
+DON AMBROSIO. And, speaking of converts, Master Cleofas, the Very
+Holy Inquisition, of which you are the physician, seems to me to be
+enjoying a very long moment of leisure.
+
+CLEOFAS. (With satisfaction) Oh, oh! the Tribunal is not out of work.
+And, after a short time, I believe that I may promise these ladies a
+very jolly bonfire.
+
+[Murmurs of satisfaction.]
+
+DOÑA SYRENA. Of heretics?
+
+CLEOFAS. Of heretics. Moors, Jews, renegades and backsliders--a sample
+of each.
+
+DOÑA RUFINA. And of sorcerers?
+
+CLEOFAS. Of sorcerers and sorceresses, also--but fewer in number than
+is desirable.
+
+CARDENOS. (To Cleofas in a low voice) Master Cleofas, I should like to
+say two words to you in that regard.
+
+CLEOFAS. At Your Grace's disposition!
+
+[He goes to the left of the scene, followed by Cristobol, Rioubos and
+Ramiro, who surround him.]
+
+CARDENOS. You have not forgotten an Arabian physician named
+Abou-Abassa?
+
+CLEOFAS. A physician!--said to be a charlatan, who resided on the
+left bank of the river in a house on the hillside, where his daughter
+now lives.
+
+CARDENOS. Zoraya!
+
+CLEOFAS. Oh, yes! I knew him!--I was enraged to see Bishop Talavera
+honor and protect a Moor, who had, they say, healed a sprain with
+friction--in reality, Cardenos, by means of mystic signs and magic
+incantations.
+
+CARDENOS. Then you are sure that man was----
+
+CLEOFAS. A necromancer! And worse than that! Listen and judge, friend
+Cardenos! (He seats himself) One day I was riding my mule on the road
+leading to the bridge of San Martino. They called to me to examine a
+child which had been taken from the river apparently dead. "Have
+you," I asked, dismounting, "suspended it by the feet in order to
+expel the water from the body? 'Yes, lord'--And that has not resulted
+in resuscitation?--'No, lord'--Then, there is nothing more to do.
+Good evening!"--And I passed on--The child was dead, was it not?
+
+CARDENOS AND THE YOUNG MEN. Yes!
+
+CLEOFAS. Eight days later I re-passed the same place and whom do you
+think I saw playing on the rocks with a gang of ragamuffins?--Who?--My
+drowned child!
+
+ALL. Oh!
+
+CLEOFAS. Astounded, I questioned the child and found that after I
+left they had recourse to that quack, Abou-Abassa, who had breathed
+in the child's mouth, made strange motions with its arms and
+succeeded in reanimating him after an hour and one half!--The magic
+was shown in the breathing and gestures and in this diabolical
+resurrection, which was an ignoble parody on the miracles in the
+Scriptures!
+
+CARDENOS. It is the same evidence.
+
+CLEOFAS. The wretch is dead!--But, his daughter, who has been devoted
+to the works of the devil since her birth, interferes just as he did
+with the treatment of my patients: even with my own governor,
+Pétronille, whom I attended after fainting spells. I gave him
+hartshorn, which, you know, is the best cure for such illnesses, as
+is also the oil of ants and the salt of wood-lice--what is it they
+call this Olivera--whom they have given me for a colleague in the
+Tribunal?
+
+CARDENOS. The surgeon?
+
+CLEOFAS. Yes, this ignoramus goes so far as to make sport of the
+inclusion of pearls and precious stones in our remedies; as if it
+were not proved every day that sapphires are the principal cures for
+ulcers, and emeralds infallible preventatives of pests!
+
+[He rises.]
+
+CARDENOS. Assuredly!
+
+CLEOFAS. Between us, this Olivera is to be watched, Cardenos--I am
+sure he believes more in the devil and witches than he does in
+medicine.
+
+CARDENOS. What is your reason?
+
+CLEOFAS. Oh! nothing--He smells of it and I advise you to watch
+him--I said then--where was I?
+
+CARDENOS. You spoke of Pétronille.
+
+CLEOFAS. Ah! yes, my governor! Do you believe that this wretch would,
+without consulting me, let himself be conducted to Zoraya's home?
+Seeing him lively and apparently cured, I said: "Ha, my hartshorn
+powders?"--"No such thing!" he replied. "It was not your powders--it
+was a remedy which the Moorish woman gave me!--Swindler! pick up your
+packets and leave at once."--It is better for me to work myself to
+death giving my own remedies than to deceive patients with the kinds
+which she uses!
+
+CARDENOS. Certainly!--if it is magic----
+
+CLEOFAS. It is magic, Cardenos, do not doubt it. This sorceress is
+competing with me dishonestly. This is not all--she takes no pay from
+the poor for her attention or her medicines. And will you believe me
+when I tell you that she sends them away with their hands full of
+gold?--We shall have to struggle now!--Our practise is being ruined.
+
+CARDENOS. Your Honor may be reassured--they have an eye on her.
+
+[An agent of the Inquisition, dressed in black, enters from the
+street.]
+
+THE AGENT. (Going to them) Lord Cardenos, His Eminence prays you to
+come without delay, for urgent business.
+
+CARDENOS. I shall come at once!--This, Master Cleofas, may have
+something to do with your Mooress.
+
+CLEOFAS. Good! Good!
+
+[Cardenos and the man go into the street. They play a saraband in
+the banquet hall.]
+
+
+Scene Four
+
+[The same, Don Enrique, Lopez de Padilla, guests, men and women,
+etc.]
+
+[Don Enrique, accompanied by Lopez de Padilla and other cavaliers
+and gentlemen, descends from the banquet chamber in the midst of an
+uproar of congratulations and salutations, the cavaliers kissing the
+hands of the women. The guests begin to disperse. Most of them go out
+of the door into the street; others go out at the left. There is
+laughter as they go away.]
+
+DOÑA RUFINA, DOÑA FABIA AND DOÑA SYRENA. (To Enrique, laughing and
+making courtesies) Good night, my lord.
+
+[He conducts them to the door opening on the street. Returning, he
+finds Padilla and some friends. Meanwhile the servants put out the
+lanterns and the patio is lighted only by the moon.]
+
+PADILLA. (Surrounded by the men, to Enrique) The only thing which
+marred this feast, Don Enrique, was the absence of your father, whom
+we needed.
+
+ENRIQUE. It was the fulfillment of his dearest wish and I thank Your
+Excellency.
+
+PADILLA. I have bestowed upon you, my child, all of the esteem and
+affection which I had for the dear companion-in-arms of my youth. I
+have placed in your care what is dearest to me in this world with the
+assurance that you will be a tender husband to my adored daughter.
+
+ENRIQUE. And to you, my lord (he kisses his hand) a most respectful
+son.
+
+PADILLA. (To the others) Then, gentlemen, it is time for such
+graybeards as we to leave this impatient youth.--Until tomorrow, my
+child!
+
+ENRIQUE. Until tomorrow, my father!
+
+[While the valets are closing the street door on the last departing
+guests, Padilla and the other gentlemen go towards the left door,
+accompanied to the threshold by Enrique. Joana's women attendants
+descend the stairway, cross the patio and leave by the door at
+the right. They meet Enrique coming up. He descends and receives
+their salutes as they pass, turning toward the stairway to re-ascend
+after they have disappeared. At that moment all is dark, except the
+vestibule, the landing-place and the right window. While the women
+are going out, Zoraya comes out of the vestibule, stops on the
+landing-place to assure herself that the patio is vacant and
+motionless awaits Enrique.]
+
+
+Scene Five
+
+[Zoraya, Enrique]
+
+[This scene follows the last sounds of laughter, conversation and
+music.]
+
+ENRIQUE. (Stopping at the foot of the stairway on seeing Zoraya
+veiled) Who are you, woman, and why do you not leave with the others?
+(Zoraya is silent.) Do you not hear me?--Who are you?
+
+ZORAYA. (Raising her veil) I am the sorrow and you are the traitor!
+
+ENRIQUE. (Recoiling) Zoraya!
+
+ZORAYA. You have forgotten, have you not, to invite me to this feast?
+
+ENRIQUE. (Looking about uneasily) You! here--in this house!
+
+ZORAYA. In your wife's home, yes.
+
+ENRIQUE. To tell her----
+
+ZORAYA. (Sorrowfully) Ah! you wretch! Your only thought is for her.
+My despair does not move you so much as the fear that she will not
+accept the lover of a Saracen!
+
+ENRIQUE. (Uneasily) Lower! Speak lower! I beg of you!
+
+ZORAYA. (Without listening) You are not so innocent as you were on
+the steps of the church----
+
+ENRIQUE. You were there!
+
+ZORAYA. It was to the entire city that I failed to cry: "That
+Christian is my lover!" But that cry would have sent you to the
+King's galleys. My heart failed me and coward that I am, I was ready
+to flee, weeping.
+
+ENRIQUE. Do not condemn me without hearing me!
+
+ZORAYA. Oh, God!--you, you, who this morning--Oh, God! God! Is it
+possible?
+
+[She falls seated at the foot of the column.]
+
+ENRIQUE. My Zoraya, my mistake, mine alone for not telling you the
+first day----
+
+ZORAYA. Do you love this girl?
+
+ENRIQUE. Ah! certainly, no!--I was forced----
+
+ZORAYA. You betrayed me for her?
+
+ENRIQUE. It is she whom I have betrayed for you!--I have known you
+only three months. She and I were betrothed years ago!--But I was so
+sure she would take the veil and remain in the convent. After this
+marriage was arranged contrary to her wish and my own, I found so
+many pretexts for postponing it that further delay would have roused
+suspicion. They would have searched for the reason and found it,
+perhaps. Then!--then, during the last two days when I did not see
+you, I resolved to confess all to you.--This morning I attempted to
+tell you--But I saw you so roused over a single thought of another
+woman that I did not have the courage to cause a scene and withstand
+your reproaches, which would have been needless, as I could not let
+your tears cause me to forget my solemn obligations as a Christian,
+my word as a gentleman and my most sacred duties.
+
+ZORAYA. Yes! All of your duties are sacred except those towards
+me!--and you hope, do you not, that I have considered them as
+fulfilled?
+
+ENRIQUE. Yes!
+
+ZORAYA. That I shall receive your return to me with open arms?
+
+ENRIQUE. That you will pardon me, at least, and join me in returning
+faithfully to our love.
+
+ZORAYA. Oh, indeed!--More in love than ever! The contrast of the Moor
+and the Spaniard! A variety of pleasures always prevents one's taste
+from becoming stale!
+
+ENRIQUE. (Seating himself near her) But I do not love this child!--I
+do not love her!
+
+ZORAYA. (Rising, going to the left) Yes, this is the cry of the
+brutal, egotistical male!--You do not love her!--But it is to her
+that you sacrifice me.--You do not love her, but I stop you on the
+threshold of her room!--A few paces from her bed!--I should scorn
+myself as a woman of the street if I could discover in my mind a
+single thought which is not for you!--I should curse my eyes if they
+gazed for an instant on any other face but yours!--Where could I
+wash away the stain if any other lips than yours touched mine?--And
+it appears natural for you to be at the same time the husband of your
+wife and the lover of your mistress--to run from one to the other and
+to bring to me smiling the dessert of your nuptial night!--And it is
+you who say to me: "Believe nothing, nothing in the world but my love
+for you!" Ah, coward!--coward! liar!--Here is your love!--Here it is!
+
+ENRIQUE. (Standing) My dear Zoraya!
+
+ZORAYA. (Quickly, restraining her tears) Oh, leave me! Wretch! Leave
+me! I hate you!
+
+[She leans sobbing against a pillar at the left.]
+
+ENRIQUE. Lower! Speak lower!--I beg of you!--If they should hear us!
+
+ZORAYA. Oh! If only they would hear!--Let them come! and let them
+kill me!--It is all the same to me if it happens now!
+
+[They hear the night watchman's halbert striking the pavement stones.]
+
+ENRIQUE. (Frightened and pointing to the street) Be quiet!--There is
+some one there!
+
+THE WATCHMAN. (Outside, passing the door and chanting) Ave, Maria!----
+
+ENRIQUE. (In a low voice) It is the watchman.
+
+THE WATCHMAN. It is the sixth hour!--I am the watchman!
+
+[He passes.]
+
+ENRIQUE. He has passed! (He goes to the steps and listens) But here,
+these windows!--the valets!--(Scrutinizing the right vestibule) And
+Joana!
+
+ZORAYA. Your wife!--It is not she who can hear us!
+
+ENRIQUE. (Frightened) What did you say?
+
+ZORAYA. (Standing motionless) Go, and find out for yourself.
+
+[Enrique goes up the steps and enters the room.]
+
+THE WATCHMAN. (In the distance) Ave, Maria!
+
+ENRIQUE. (In the chamber) Joana! Joana!
+
+THE WATCHMAN. (Farther away) It is the sixth hour.
+
+ENRIQUE. (With the same voice) Joana!
+
+THE WATCHMAN. (Faintly in the distance) I am the watchman!
+
+ENRIQUE. (Coming out of the room and standing frightened at the end of
+the stairway) Ah, wretch!--It is you who did it?
+
+ZORAYA. Yes! It is I!
+
+ENRIQUE. (Descending the stairs rapidly) You have killed her?
+
+ZORAYA. Poor child!--She is asleep!
+
+ENRIQUE. (Going to Zoraya) I spoke to her--she heard nothing. I raised
+her--she fell back cold.
+
+ZORAYA. She is asleep, I tell you.
+
+ENRIQUE. What power do you possess which will produce a sleep like
+death?
+
+ZORAYA. What does it matter so long as this is only the appearance of
+death!--She will sleep until the hour which I have set for her to
+awaken.--And this is your punishment: when she awakens she will be
+deaf to your voice, also distant and cold in your arms!--You will
+then understand that your true wife was not this angelic creature who
+wanted no other spouse than God, but the Moor, who gave you more love
+in a single clasp of her hand than this nun in the entire abandonment
+of her nerveless body, revolting at your caresses.
+
+ENRIQUE. (At her feet) What does it matter to me?--I shall not
+dispute with that virgin over her celestial spouse. And I shall be
+free for you, for you alone, without causing her grief, or me remorse.
+
+ZORAYA. (Drawing away) I do not care to put you to the test!
+
+ENRIQUE. You intend to leave?
+
+ZORAYA. Yes.
+
+ENRIQUE. Alone--tonight?
+
+ZORAYA. I intend to leave Toledo before dawn.
+
+ENRIQUE. To leave Toledo?
+
+ZORAYA. Ah! God, yes!--this accursed city which has nothing but
+sorrow and peril for me!
+
+ENRIQUE. (Barring her exit at the door) What! It is absurd--you shall
+not go!
+
+ZORAYA. You would prefer to deliver me to the Inquisition?
+
+ENRIQUE. Ah! How unworthy!
+
+ZORAYA. They are seeking for me--tonight, perhaps.
+
+ENRIQUE. And where are you going, poor child?
+
+ZORAYA. Into the Sierra, by paths known only to us, to the homes of
+the rebels. Later I shall go to Africa and find refuge in my father's
+brother's home in Tangier.
+
+ENRIQUE. And there will be between us the mountains, the rivers and
+the sea!--And shall we always be apart, the one from the other?
+
+ZORAYA. You are the one who wishes it.
+
+ENRIQUE. No, I do not wish it--Give up your home!--It is wise--But
+Toledo!--I know where I can find a refuge for you, which is free from
+danger.
+
+ZORAYA. For instance, your wife's home!
+
+ENRIQUE. Ah! always she!
+
+ZORAYA. Yes! always she between us!--Always, always she!
+
+ENRIQUE. Neither she nor any person--No one in this world!
+
+ZORAYA. Do you say so truly?
+
+ENRIQUE. Before God!
+
+ZORAYA. You love so much as that?
+
+ENRIQUE. Yes!
+
+ZORAYA. You will sacrifice all for me!----
+
+ENRIQUE. Yes!
+
+ZORAYA. (In his arms) Then! Come with me?
+
+ENRIQUE. (Thrilled) To the home of your kindred?
+
+ZORAYA. They will receive you as a brother!
+
+ENRIQUE. Me? A Spaniard--an enemy?
+
+ZORAYA. As my lover!
+
+ENRIQUE. With the rebels, me, a soldier?--Disclaim my king?
+
+ZORAYA. A tyrant!
+
+ENRIQUE. My God?
+
+ZORAYA. He is for every one.
+
+ENRIQUE. And an exile--forever an exile from my country?
+
+ZORAYA. My own country is the country where we may love.
+
+ENRIQUE. No, do not say so! It is a crime to listen to your words.
+
+ZORAYA. My adored Enrique!
+
+ENRIQUE. Deserter! renegade! perjurer. Traitor to all my duties for
+all time! Never! even for you! Never! Never!
+
+ZORAYA. Stay then, coward, who has caused me to lose everything!
+
+ENRIQUE. Zoraya!
+
+ZORAYA. Go--return to your wife!
+
+[She opens the street door quickly to go out and recoils on seeing
+Cardenos standing motionless on the threshold.]
+
+
+Scene Six
+
+[The same persons, Cardenos]
+
+ZORAYA. (Frightened) Cardenos!
+
+[She goes to the left.]
+
+ENRIQUE. Cardenos here!--at this hour!
+
+CARDENOS. (Entering) I am not more surprised to see you myself, Don
+Enrique, than to find you in such company.
+
+ENRIQUE. (Who places himself quickly between Cardenos and the door,
+which he fastens) Is that advice, or a threat?
+
+CARDENOS. (Coldly) Neither one nor the other!--I am here by order of
+the Holy-Office to arrest this woman (movement by Enrique to rejoin
+and protect Zoraya) who practises sorcery.
+
+ZORAYA. That is false!
+
+ENRIQUE. Foolishness!
+
+CARDENOS. You seem to have forgotten the punishment in store for a
+crime like yours.
+
+ENRIQUE. You are presumptuous!
+
+CARDENOS. (Continuing coldly) His Eminence, knowing that this woman
+was seen to enter this house without coming out, entrusted me with
+the task of watching at this door to arrest her without noise when
+she came out and at the same time unknown to you.
+
+ENRIQUE. His Eminence had foreseen that I would not let you do it!
+
+CARDENOS. He has only foreseen your submission and confession for the
+care which he has taken--out of regard for your name, your rank, and
+your young wife, his pupil--to separate your case from that of your
+accomplice, and inflict upon you only a penance which will reconcile
+you with the Church!
+
+ZORAYA. (Quickly) Ah! if that is so, good--I will go with you!
+
+ENRIQUE. (Violently obstructing her passage) Are you foolish? (To
+Cardenos.) Go tell Ximénès that he has no right to my confession
+unless he provides the same indulgence for her whom he calls my
+accomplice.
+
+CARDENOS. You shall say it to him yourself, Señor Enrique. (To
+Zoraya) Come, you!--Follow me!
+
+ENRIQUE. (Stopping Zoraya) By God! This is insolence!
+
+ZORAYA. Enrique!
+
+ENRIQUE. Silence! (To Cardenos) And you--get out of here!
+
+CARDENOS. Be careful that you do not render indulgence for yourself
+impossible!
+
+ENRIQUE. That is my own affair!
+
+CARDENOS. And you would lose it for nothing!
+
+ZORAYA. He has a reason!--Let me go!
+
+ENRIQUE. (Sharply to Cardenos) Are you not going?
+
+CARDENOS. I beg of you, my lord, to listen to the prayer of a man
+as old as your father, and who has known you since you were a child.
+
+ENRIQUE. During that time you should have learned a better
+profession than the one you are now engaged in.
+
+CARDENOS. He would say the same to you.
+
+ENRIQUE. He can blaspheme me if I have the infamy to deliver up the
+woman whom I love.--And I would deserve the insults of all the
+scullions of the city!
+
+ZORAYA. No! No! (To Cardenos) Do not listen to him. Take me away.
+
+[Cardenos places his hand on her.]
+
+ENRIQUE. (Stepping between them) Scoundrel! Do not touch this woman!
+
+CARDENOS. Do you refuse to let her go?
+
+ENRIQUE. I dare to say yes.
+
+CARDENOS. If there is a disturbance and a scandal it will be only
+because you have wanted it!
+
+[He turns to go out. Enrique steps forward between him and the door,
+putting his hand on his shoulder.]
+
+ENRIQUE. Where are you going?
+
+CARDENOS. Where I please.
+
+ENRIQUE. To bring your men?
+
+CARDENOS. You compel me to do so.
+
+ENRIQUE. You shall not go!--You shall not call them!
+
+ZORAYA. Ah! My God!
+
+CARDENOS. (Withdrawing to the center of the patio) Then, there are
+our special valets who shall help me!
+
+ENRIQUE. (The same) You venturesome ruffian!
+
+CARDENOS. Let me go!
+
+ENRIQUE. No!
+
+CARDENOS. I shall call my men!
+
+ENRIQUE. I defy you to do so!
+
+CARDENOS. Help!
+
+ENRIQUE. (Leaping upon him) Silence!
+
+CARDENOS. (Drawing his dagger) Help!
+
+ENRIQUE. (Snatching it from him. He seizes Cardenos by the wrists and
+throws him to the ground) Silence! Silence!
+
+CARDENOS. Help!
+
+ENRIQUE. (Seizing his throat) You will be silent, demon!
+
+[Cardenos, suffocated, beats the air with his hands, then falls
+strangled at the right of the steps.]
+
+ZORAYA. (Leaping towards him) Ah! unfortunate man! What have you done?
+
+ENRIQUE. (Infuriated, stoops over Cardenos) What?--What have I done to
+him?
+
+ZORAYA. (Raising his head) He is dead!
+
+ENRIQUE. (Frightened) No!
+
+ZORAYA. See! He is dead, I tell you! See! He is dead! He is dead!
+
+[She lets Cardenos' arms fall back.]
+
+ENRIQUE. Is it possible!
+
+ZORAYA. (Turning her eyes to the foot of the stage) Be quiet!
+
+[They see a lantern passing from one window to another, followed by
+the sound of the opening of the middle window. Frightened, Zoraya
+and Enrique seek refuge on the little stairway, hiding behind a
+column and clumps of flowers.]
+
+RAMIRO. (Half-clad at the window, leaning in) Hello! Some one
+called!--Who is there? (They hear another window opened opposite the
+first one) Is that you, Ginès?
+
+GINÈS. (Invisible) Yes, master!
+
+RAMIRO. Did you hear that disturbance--those shouts?
+
+GINÈS. Yes!--They were calls for aid!
+
+RAMIRO. Was it in this house?
+
+GINÈS. More likely in the street--those belated drunkards!
+
+RAMIRO. Dress yourself, awaken Padillo.--We shall see!
+
+[He disappears, fastening the window.]
+
+ZORAYA. (Frightened, rising suddenly, in a low voice) They have gone!
+
+ENRIQUE. Except you, no one has seen me and none can accuse me!
+
+ZORAYA. That is folly!--A man comes to arrest me--who should kill him
+but you?
+
+ENRIQUE. It is true!--Ah! God, God! Assassin!--Me! me!
+
+ZORAYA. Do not become excited or lament. What is done is done. We
+shall not await them, shall we?
+
+ENRIQUE. Go then!
+
+ZORAYA. Alone?
+
+ENRIQUE. Go, Zoraya.
+
+ZORAYA. Without you--No!
+
+ENRIQUE. Merciful Heaven! What course shall we take?
+
+ZORAYA. Flight!
+
+ENRIQUE. And where shall we fly to?
+
+ZORAYA. Where I told you!
+
+ENRIQUE. It is dishonorable and my life will be lost!
+
+ZORAYA. Remain! Then you will lose it more quickly!--Come! Come
+on!--Come!--Come! (She runs to the street door and opens it. They
+hear sounds of voices outside and the scraping of guitars. She
+quickly fastens the door.) The musicians!
+
+ENRIQUE. In the street?
+
+ZORAYA. (Despairingly) If they have come to give the morning serenade,
+it is for us.
+
+[They listen anxiously. The musicians draw near, conversing and
+laughing, while thumbing their strings.]
+
+A MUSICIAN. Shall we serenade Don Enrique Palacios?
+
+[Zoraya makes a movement of fright.]
+
+ANOTHER. Simpleton!--He cares much for your music at this moment!
+
+[Laughter.]
+
+ANOTHER. Besides, they did not pay us for serenading him!
+
+[Approbations. Enrique anxiously watches the house from the foot.]
+
+THE OTHER. (Farther away) Come, then! Laggards!--Not there, but in
+the other street.
+
+ALL. Yes! Coming, coming!
+
+[They go away making the same sounds with which they came. Enrique
+goes toward the foot listening for the valets' return.]
+
+ZORAYA. (Opening the door cautiously and looking into the street) They
+are going farther away.--They have gone round the corner of the house.
+(Shortly afterward they hear the distant serenade, a voice singing:)
+
+  Oh! Love is the conqueror
+  Whose flames devour me!
+  Open thy heart,
+  Thy lover implores thee!
+
+(Zoraya opens the door and looks relieved) The street is clear. Come
+quickly! (Seeing Enrique, who is searching for something on the floor)
+Good God! what are you searching for?
+
+ENRIQUE. His dagger, which he dropped.
+
+[He picks it up and runs to the door.]
+
+ZORAYA. (Taking him in her arms) Ah! yes, yes!--Should they arrest us,
+you will kill me!
+
+ENRIQUE. Yes, and myself afterward!
+
+ZORAYA. (Seeing a light at the door of the ground floor, at the foot)
+Their voices! Quickly, come quickly!
+
+[She and Enrique hurry out. At the same time the door opens and Ramiro
+quickly enters with two valets, one of whom carries a lantern. Ramiro
+sees the body of Cardenos, snatches the lantern from the valets hands
+and looks at the dead mans face.]
+
+ALL THE THREE. Cardenos!
+
+[One of the valets, seeing the street door open, runs to it and looks
+into the street. The other joins him and they spring out, running
+away and shouting: "Stop those assassins! Stop them! Arrest them!"
+During this part of the scene, which is very rapid, the serenade
+continues.]
+
+(Curtain)
+
+
+ACT FOUR
+
+Scene.--The meeting place of the Tribunal of the Inquisition. It is
+a low-vaulted chamber with ogive arches, lighted with candles. On the
+walls are religious paintings. At the foot of the scene is a narrow
+glazed window. At the right is a large high gate closing the entrance
+of a corridor leading to the Episcopal palace. On the same side, in
+the foreground, are seats of the Tribunal. Facing the left are an
+altar and a wooden Calvary. On the other side of them are an iron
+door and an arch leading to the jail. Seats and stools are scattered
+about. It is three o'clock in the morning. At the end of the act dawn
+begins to light the windows.
+
+
+Scene One
+
+[The Members of the Tribunal, Fray Eugenio Calabazas, and Fray
+Teofilo Ibarra, Dominicans, later Cleofas, Oliveira, Fray Miguel
+Molina and Fray Hernando Albornos, Franciscans. An Usher of the
+Tribunal, at the foot of the stage.]
+
+[As the curtain rises, Calabazas, seated, and Ibarra, at the left
+outside, are discovered talking in a low voice. Cleofas and Fray
+Hernando Albornos enter at the right.]
+
+CLEOFAS. (Advancing into the scene) I have slept so well after that
+excellent feast! Nothing is more injurious to the health than being
+startlingly awakened during one's first sleep.
+
+ALBORNOS. What business is so urgent that we must convene before
+daybreak?
+
+CLEOFAS. (Joining the group at the left) You Excellencies should have
+the goodness to tell us.
+
+CALABAZAS. We know no more about it than you.
+
+IBARRA. We were greatly surprised at the morning visit of the agent
+of the Tribunal. We are here at the special request of His Eminence
+to consider a pressing and serious matter.
+
+ALBORNOS. Then you have no idea what it is?
+
+IBARRA AND CALABAZAS. None.
+
+CLEOFAS. (To Molina, who enters at right) And you, my reverend father?
+
+MOLINA. No more than you.
+
+CALABAZAS. In any case, I think, without question, that the two women
+whom we again examined after vespers are guilty of sorcery.
+
+MOLINA. Moreover, they confessed.
+
+IBARRA. That will simplify the task.
+
+CLEOFAS. (Seeing Oliveira, who enters at the left) Is it not the
+opinion of my excellent colleague. Master Oliveira, that there is not
+sufficient evidence to condemn them?
+
+[All turn toward Oliveira with questioning looks.]
+
+OLIVEIRA. Since my very venerable colleague has obliged me to give my
+humble opinion, I must confess that one of the two women, the one
+called Afrida, appears to me to be an old fool, who after having been
+forced to listen to sorcery and witchcraft, is possessed with the
+idea that she is on intimate terms with a demon. She accepts her
+dreams and nightmares as realities and every woman and girl whom she
+knows she accuses of having attended a witches' revel. A dozen of
+these unfortunates have been placed in our dungeons since yesterday.
+If we listened to that vixen all of the women of Toledo would be
+sorceresses--especially the young ones!
+
+CALABAZAS. Has she not a reason for accusing them if she has seen
+them at these revels?
+
+[Murmurs of discreet approbation.]
+
+OLIVEIRA. For her to have seen them, my father, it would have been
+necessary for her to have gone there herself.
+
+IBARRA. She partook in them.
+
+MOLINA. And you doubt that?
+
+OLIVEIRA. For a good reason!--As she pretended, in spite of the
+confining walls of her dungeons, to be able to attend the revels
+again, I determined to see for myself whether she was telling the
+truth. Three times during the night I found her sleeping deeply on
+the pallet in her cell in the prison. When she awoke she told me all
+that she thought she had seen at the home of the devil!
+
+ALBORNOS. If you were more experienced in these matters. Master
+Oliveira, you would know that these sorceresses can leave their
+bodies lying in their beds and at the same time attend these
+Satanic love-feasts.
+
+[Murmurs of approbation.]
+
+CLEOFAS. And that in the same body the devil can place one of his
+imps, who will not change its appearance.
+
+[Renewed approbation.]
+
+CALABAZAS. And the other sorceress?--This young peasant woman from
+Torrijos, whom they found in a wood at dawn stretched naked on ground
+which had been trampled by infernal dances and which was still
+littered with the remains of an infernal feast and firebrands and
+ashes--Master Oliveira, do you believe she too is innocent?
+
+OLIVEIRA. I have good cause to believe it!--She is a poor girl from
+the fields who was seduced by her master, who abandoned her and her
+child and left them in deep misery. A passing vagrant invited her to
+go to a witches' meeting where Satan would provide her with plenty
+of gold. He took her to a nocturnal gathering of beggars and
+ragamuffins, who with the aid of some rogue put her into a sleep,
+from which she awakened at dawn with the vague memory of horrible
+debauchery!--An orgie! Yes! But witches' meeting?--Who will prove
+it?----
+
+CLEOFAS. The sigillum or stigma Diaboli, Master Oliveira! That mark
+which the devil makes with his pitchfork, or the horny spots on the
+bodies of his creatures, such as we have found, you and I, in two
+places on this girl's skin. Our needles penetrated them without
+drawing blood and they were not felt.
+
+[Murmurs of approval.]
+
+OLIVEIRA. I found three on the body of the Superior of the
+Incarnation, who afterward died in unquestioned sainthood!
+
+[He walks toward the foot of the stage, followed by the eyes of the
+displeased Inquisitors.]
+
+CALABAZAS. (In a low voice) This surgeon is too much of a reasoner!
+
+CLEOFAS. You need say nothing to me about it!--If they listened to
+him they would burn no one!
+
+
+Scene Two
+
+[The same persons, then Padilla, followed by D'Aguilar, notary of the
+tribunal.]
+
+[Padilla, pale and agitated, quickly enters at the left.]
+
+THE USHER. (Announcing) His Excellency, the Governor.
+
+[All salute Padilla, who looks about for Ximénès and stops.]
+
+PADILLA. His Eminence is not here?
+
+ALBORNOS. Not yet, Lord Padilla.
+
+PADILLA. I want to see him!--I must speak to him!
+
+[He makes a movement to leave.]
+
+CALABAZAS. Be pleased to wait for him with us.
+
+PADILLA. Yes! yes! (To Calabazas) Ah! my father, do you believe it!
+A gentleman, a soldier! my son----
+
+[He goes toward the iron door and waits for Ximénès. The Inquisitors
+surround D'Aguilar in the foreground.]
+
+MOLINA. (To D'Aguilar in a low voice) Some misfortune has befallen
+His Excellency?
+
+D'AGUILAR. (In a low voice) Your lordships, then, do not know why you
+are called to meet at this hour?
+
+ALL. (With low voices) No!--Why? What is it?--We know nothing about
+it!
+
+D'AGUILAR. (The same) Lord Palacios has been arrested.
+
+ALL. Arrested!
+
+CALABAZAS. Don Enrique?
+
+D'AGUILAR. For assassinating Cardenos!----
+
+ALL. Good God!--Is it possible! Our Agent!
+
+D'AGUILAR. With the assistance of a woman!--Both were fleeing towards
+the river when stopped by pedestrians, who heard shouts in the
+distance. The fugitives were flung to the earth at the entrance of an
+alley. The woman cried to Don Enrique desperately and in vain: "Kill
+me! Kill me!"
+
+CLEOFAS. A Mooress?
+
+D'AGUILAR. Yes.
+
+CLEOFAS. It is Zoraya!
+
+THE USHER. His Eminence!
+
+[All turn to the right to salute the Cardinal.]
+
+
+Scene Three
+
+[The same persons, Ximénès, Gil Andrès, Keeper of the Jail, two
+monks, two aides to Gil Andrès stand at the entrance of the iron
+door at the left. Two Franciscan monks watch at the foot of the stage
+during the act.]
+
+XIMÉNÈS. (To Padilla) God has summoned you to a cruel ordeal,
+Padilla! I had given to Cardenos orders with the object of sparing
+you. Who had foreseen this at the hour when I blessed the young
+couple in the cathedral--your unfortunate daughter?
+
+PADILLA. She has heard nothing about it. I found her in a deep sleep
+and I ordered them not to awaken her. I would always be too soon to
+tell her the truth. May God will that at the same time she shall
+learn that Don Enrique is innocent of the crime with which he is
+accused!
+
+XIMÉNÈS. No!--He confesses it!
+
+[All start.]
+
+PADILLA. The assassination?
+
+XIMÉNÈS. Yes!--The assassination, his infamous relation with the
+Saracen woman and his plan of fleeing to African soil.
+
+[All are indignant.]
+
+PADILLA. (After a gesture of despair) The more monstrous the crime
+the stronger is the proof that he has lost his reason!
+
+XIMÉNÈS. It is for this, Governor, that I have called this hasty
+convocation of the Tribunal before the scandal bursts forth--Toledo
+must not know at its awakening that a member of the Council of
+Castile, one honored with royal favor, commander of the archers and
+crossbowmen of the city, son of a long line of Christians, brave
+soldier and your son-in-law, has committed such crimes without
+knowing that he had a right to some explanation--being under the
+spell of this woman's sorcery--And that is what all say! Where is
+Gil Andrès?
+
+OLIVEIRA. (Pointing at Gil Andrès at the foot) Here, Eminence!
+
+XIMÉNÈS. (To Gil Andrès) Has she spoken some word of confession?
+
+GIL ANDRÈS. None, Eminence. She has said nothing since she asked
+about Don Enrique. She appeared to care less about her own delivery
+than about his.
+
+XIMÉNÈS. Is she there?
+
+GIL ANDRÈS. Yes, Your Eminence.
+
+XIMÉNÈS. Go get her! (Gil Andrès goes out at left with his two aides.
+To Padilla) Your Excellency may sit down. The Tribunal authorizes you
+to assist in questioning. (Padilla bows. The Tribunal is installed.
+Ximénès sits on a chair before the other judges. Padilla is seated at
+the right on a stool lower than the platform. The notary sits at a
+little table behind him. The two physicians are seated on stools at
+the side of the platform near the iron door at the right. All wait.)
+My brothers, never more than at this hour had we a better reason for
+addressing God with our usual prayer: Dominie, auxilium, in reperienda
+veritate, sit nobis. Spiritus Sanctus, ad majorem Fidei gloriam.
+
+ALL. Amen!
+
+XIMÉNÈS. Exaudi nos, Domini.
+
+ALL. Amen!
+
+[They seat themselves, Gil Andrès opens the iron door at the left.]
+
+XIMÉNÈS. (To Gil Andrès) Bring in the Mooress!
+
+[Zoraya is brought in through the iron door. With a gesture Gil Andrès
+compels her to advance into the middle of the scene where she stops
+and waits.]
+
+
+Scene Four
+
+[The same persons, Zoraya]
+
+XIMÉNÈS. (To Cleofas, who rises and salutes) Do you wish to speak,
+Master Cleofas?
+
+CLEOFAS. With the permission of Your Eminence, before the accused
+is questioned, I should like to inform the Tribunal that, contrary to
+the royal edict, she has persisted in continuing the damnable Arabian
+custom of painting her eyelashes, eyelids and eyebrows; and I will
+wager that her heels and toenails are gilded.
+
+XIMÉNÈS. (To Zoraya) Is this true?
+
+ZORAYA. Yes, Your Eminence.
+
+[Cleofas seats himself.]
+
+XIMÉNÈS. Let that pass--And, Rain of Heaven, if she has not greater
+crimes to expiate! (To Zoraya) Your name?
+
+ZORAYA. Zoraya, daughter of the scholar and physician, Abou-Abassa.
+
+[Ironical gesture from Cleofas at the name physician.]
+
+XIMÉNÈS. Your father, it appears, was a genuine necromancer?
+
+ZORAYA. That is the calumnious assertion of ignoramuses, who interpret
+as diabolical everything which surpasses their own knowledge.
+
+XIMÉNÈS. He left you the knowledge of his art of healing?
+
+ZORAYA. Yes, Your Eminence.
+
+XIMÉNÈS. Without magic?
+
+ZORAYA. Yes, without magic.
+
+XIMÉNÈS. You are accused of improper relations with Don Enrique
+Palacios. The charge is not doubted, as your accomplice has confessed.
+
+ZORAYA. Neither do I deny it.
+
+XIMÉNÈS. You know, of course, that for you awaits the dungeon and for
+him the galleys!
+
+ZORAYA. Love is stronger than fear!
+
+[The Governor rises and salutes Ximénès.]
+
+XIMÉNÈS. You may speak, Governor.
+
+PADILLA. Ramiro has told me about the first meeting of Don Enrique and
+this woman, who had stolen the body of Kalem. He came to me and
+confessed something which he had always kept secret out of affection
+for his master--that Don Enrique was compelled to release this wretch
+while visibly fascinated by her looks and magic words, which she used
+to obtain her liberty.
+
+XIMÉNÈS. (To Zoraya) Do you hear that?
+
+[The Governor sits down.]
+
+ZORAYA. I had recourse to nothing but the usual attractions of all
+women.
+
+XIMÉNÈS. And you have not made him mad with love for you with the use
+of incantations, philters, evil methods?
+
+ZORAYA. With no other philter than my ardent love for him!
+
+XIMÉNÈS. Briefly, you deny being a sorceress?
+
+ZORAYA. If I were one, I should be far from here!
+
+XIMÉNÈS. The Evil One enjoys abandoning his followers during their
+time of peril. And you are suspected of sorcery for good reasons,
+being the daughter of a man accused of magic and an unconverted
+Mussulman--Why have you not renounced Mahomet for Christ?
+
+ZORAYA. I saw that the Christians were no better than we.
+
+[Movements among the members of the Tribunal.]
+
+XIMÉNÈS. And, naturally, you deny being at a witches' revel?
+
+ZORAYA. Ah! certainly, yes, I deny it! Yes, I deny it!
+
+XIMÉNÈS. You are not, then, afraid to have it proved to you--you
+defend yourself with such warmth?
+
+ZORAYA. How can I prove my innocence if my denials are taken as
+confessions?
+
+XIMÉNÈS. We shall see what they are worth. (To Gil Andrès) Bring in
+the two women who are there. (To Zoraya) You may be seated.
+
+[Zoraya sits down at the left on a seat next to that occupied by
+Calabazas.]
+
+
+Scene Five
+
+[The same persons, Manuela, Afrida]
+
+[Gil Andrès makes both women enter at the left at the same time. The
+younger one remains at the foot of the stage between the two aides,
+while Gil Andrès pushes before him old Afrida, whom Zoraya regards
+with surprise and disgust.]
+
+XIMÉNÈS. (To Afrida) Come forward! (Gil Andrès, with a blow, forces
+Afrida to go forward. To D'Aguilar) Write: "Afrida." (To Afrida) You
+confessed the other day--(Afrida, without looking at him, makes a
+sign to him with her left hand to keep silent; with her right hand
+she makes a trumpet to her ear for listening) What is this?--Are you
+mocking us?
+
+GIL ANDRÈS. With your permission. Your Eminence, she is thus
+frequently seen holding her ear to listen to her favorite demon, whom
+she calls Verdelet.
+
+XIMÉNÈS. That demon there is very bold to face us in our home! Hello
+there! woman, dismiss this bad gallant and answer this Tribunal,
+which was not called for his attendance.
+
+[Afrida smiles like an idiot and makes a sign with her hand.]
+
+AFRIDA. Patience!--patience!--There he goes!
+
+[She laughs stupidly.]
+
+XIMÉNÈS. What are you laughing at, old ribald?
+
+AFRIDA. (Looking the same) At the face he made when he went out.
+
+XIMÉNÈS. Take care that you are not seated on a wooden horse! (She
+attempts to speak) Enough of those mummeries. You confessed the other
+day of practising evil acts upon your neighbors, causing their
+children and fowls to die, of setting fire to their roofs and sending
+hail upon their fields.
+
+AFRIDA. To avenge myself upon those who were happier than I.
+
+XIMÉNÈS. You confessed to being at a nocturnal revelry attended by
+witches, did you not?
+
+AFRIDA. Oh! I have often been (counting on her fingers) more than
+thirty times.
+
+XIMÉNÈS. By what power do you go?
+
+AFRIDA. The black sheep or the large red cat, which come to take me
+from my bed while I sleep--And then. Gee-up! gee-up! across the
+fields, accompanied by the sound of bells to where they are
+assembling. There the great devil Astaroth, on seeing me, says: "Ah!
+here is my little Afrida! Come, mignon, come here that I may pet
+you!" For she loves me above all and always says: "Go, fear nothing,
+my little chicken. If they want to burn you, I shall drag away the
+wood before all the world. And we shall laugh then. Oh! we shall
+laugh well! Ah! how we shall laugh then!"
+
+[She writhes and chokes with laughter, after being seated on a step
+at the foot of Ximénès.
+
+XIMÉNÈS. Yes, yes! we laugh! That is admitted!--And those whom you
+accuse of having been at the revel with you--will Astaroth also save
+them from the fire?
+
+AFRIDA. (Hatefully) Oh! those who have treated me like an old fool,
+those who are young and togged out, I shall surely let them burn on
+your fire, while Astaroth carries me away!
+
+XIMÉNÈS. Turn your eyes a little to that side (indicating to her
+Zoraya) and look at that woman. (She rises, pointing to Zoraya) Yes,
+she there!--Does she not remind you of something?
+
+AFRIDA. (Approaching Zoraya and leaning over her) Yes!--I have seen
+that nose there somewhere! Raise your eyes a little, beautiful! What
+makes you dislike to see me--(Suddenly) Yes! yes! I remember
+her!--Here is one of them!----
+
+XIMÉNÈS. One of whom?
+
+AFRIDA. One of those from below, there!--One of those who danced at
+the witches' revel!
+
+ZORAYA. (Indignant, rising) Me? Me?
+
+AFRIDA. Yes, you! Do not now become a straight-laced prude; I have
+seen you as clearly as I see you now--carousing with us!----
+
+ZORAYA. But, you lie, you wretch!--You lie!--Do not believe such
+execrable foolishness!
+
+AFRIDA. (Furious) Foolishness!--Ah! you treat me as a fool,
+also!--Yes, my lords, yes, I have seen her, I tell you; I have seen
+her enraptured in the arms of a goat-headed devil!
+
+ZORAYA. Oh! it is false! It is false!
+
+AFRIDA. (Following her in the scene and walking round her) Go! go!
+You were given by the Evil One to be rich and beautiful! You will be
+roasted, my girl! (Laughing) Roasted, those beautiful eyes so
+fiery!--roasted your skin so white, which all the men want to cling
+to--roasted all that, roasted, roasted!
+
+[At a motion from Ximénès, she goes out, crying, following by Gil
+Andrès.]
+
+
+Scene Six
+
+[The same, without Afrida]
+
+ZORAYA. Ah! the horrible old woman!----
+
+XIMÉNÈS. An insult is not a reply!--She affirms; you deny. The
+accusation stands. And the Tribunal judges. (To Gil Andrès) Bring the
+other. (They make come forward Manuela, who is weak and trembling
+with fright) You, also, you have confessed it!--You have gone to the
+witches' revels?
+
+MANUELA. Only once, Your Eminence--Only once! Mercy!
+
+XIMÉNÈS. That is once too often!
+
+MANUELA. I was so unfortunate!--My employer drove me from his home
+when he discovered that I was to become a mother--for he was the
+father of the child. I was too weak to work in the fields and no one
+would keep me because my poor baby, which I nourished with my thin
+milk, was so hungry that It cried all of the time!--Ah! I have never
+known anything but shame and misery!--I have prayed fervently to
+God--He has done nothing for me--Then--Ah! my benevolent lords!--(She
+falls upon her knees on the steps before Ximénès and weeps) Have
+pity!--I have harmed no one!--And I am punished enough now!
+
+XIMÉNÈS. (Severely) What else?
+
+MANUELA. Then--a gypsy woman, who saw me on my knees before a cross
+on the road where I had been begging, said to me: "You are foolish
+enough to address that object, which helps only the happy ones of
+this world! Charity for the poor comes only from the Other One!--Come!
+go home with me and you will see for yourself. He loves the jolly
+girls and will give you an apron full of gold!"
+
+XIMÉNÈS. And you went to the home of the Other One?
+
+MANUELA. That night--after having left my child with a woman as poor
+as myself--the gypsy woman conducted me into a wood where many men
+and bad women were feasting round a fire!--They gave me food and
+drink and more and more of--I know not what kind of liquor--until I
+became like a fool!--And after!--Ah! God, no, oh! no, I cannot
+relate that!--In the morning I lay asleep on the ground, poorer than
+before, for my miserable, ragged clothes were gone! The archers threw
+me into a dungeon, where I have done nothing but shed tears day and
+night, thinking of my poor little baby! I do not know what has become
+of that! They will not tell me! (Sobbing) Ah! my good lords, do not
+make me more miserable! If they intend to burn me, why should I not
+be the first one selected from those doomed to die?
+
+XIMÉNÈS. Raise your head--and look at this woman. (Manuela obeys) Do
+you recognize her as one of those who attended the witches' revel?
+
+MANUELA. (After looking at Zoraya) No, no, Your Eminence.
+
+XIMÉNÈS. Look at her carefully. And remember that you will receive
+some consideration if you answer frankly.
+
+ZORAYA. (Going to her) Yes, look at me.
+
+MANUELA. (Tremblings after looking at Zoraya) They made me drunk--I
+had no reason left--I do not remember clearly!----
+
+XIMÉNÈS. Are you afraid that she will avenge herself?--She cannot
+harm you!--Then, confess that you saw her at this diabolical feast!
+
+MANUELA. (With the same voice) I cannot remember!
+
+XIMÉNÈS. Take care, for we have sure methods for refreshing your
+memory.
+
+MANUELA. Have mercy, my lord!--I am telling the truth!
+
+XIMÉNÈS. No!--You recognize her, but will not admit it!
+
+MANUELA. Should I accuse an innocent one!--condemn her without being
+certain?--I shall lose my soul!
+
+XIMÉNÈS. The safety of your soul depends upon us--as does that of
+your body!--Then, you have seen her, have you not?
+
+MANUELA. I am not certain!--
+
+XIMÉNÈS. (With the same voice) Andrès!
+
+MANUELA. (Frightened, between his knees) No, no! Have mercy!--mercy!
+Do nothing more to me!
+
+XIMÉNÈS. (Very sternly) Do you recognize her?
+
+MANUELA. (In tears) Yes, yes! I know her!--I recognize her! (Falling
+on her knees at Zoraya's feet) Ah! pardon, pardon me!--I am too weak!
+
+ZORAYA. (Very much moved) Yes, poor girl, yes! I pardon you!
+
+XIMÉNÈS. (To Gil Andrès) Take her away!
+
+[Gil Andrès raises Manuela and leads her away, sobbing.]
+
+
+Scene Seven
+
+[The same persons, without Manuela]
+
+XIMÉNÈS. (To Zoraya) Here is more testimony against you.
+
+ZORAYA. (Indignant) Testimony!--of that unfortunate girl!
+
+XIMÉNÈS. According to her own confessions!--
+
+ZORAYA. Ah! her confessions!--made under the threats of your
+tortures! (Movements among the members of the Tribunal) You can find
+whatever pleases you with the aid of him, there. (She points to Gil
+Andrès) You can convict with false testimony and you can make
+innocent ones confess crimes which they never committed. You,
+yourself, Bishop, under torture would admit going to a witches'
+meeting!
+
+[The Inquisitors make movements of astonishment.]
+
+XIMÉNÈS. (Calmly) It is not likely that I shall have occasion to
+submit to such a trial!--Prove to us that these women have lied!
+
+ZORAYA. And how do you want me to prove it?--Is It possible for me
+to do so?--You, can you prove to me that these women are telling
+the truth?
+
+XIMÉNÈS. That is the opinion of the Tribunal.
+
+ZORAYA. Then all of them say that I must be found guilty at any
+price. That could be done in a quicker and less cowardly manner.
+
+[Murmurs of indignation from the Inquisitors.]
+
+XIMÉNÈS. Do you mean to defy us?
+
+ZORAYA. Yes, I defy all of you! If I am to be condemned before I have
+an opportunity to defend myself, I shall have, at least, the pleasure
+of shouting my hatred to this Tribunal of the Church, which instead
+of being more human than those who believe in other religions, is
+more ferocious!
+
+[Exclamations from the Tribunal.]
+
+CALABAZAS. Your hatred, villainous Mooress!
+
+ZORAYA. Yes, my hatred!--Yes, I abhor you!--I abhor you!--Priests!--
+who set upon a vanquished people like jackals upon the bodies of the
+dead after the battle!
+
+[Protestations from the Tribunal.]
+
+XIMÉNÈS. Let her alone!--her lips are betraying the disease from which
+she is suffering.
+
+ZORAYA. All the humiliations and sorrows of defeat--we have known
+them. They have changed our mosques into churches, our courts into
+kennels, our schools into stables! They have broken our aqueducts,
+drained our fish-ponds, burned our mills and wine-presses, cut down
+our orchards and made such a desert of the flowery plain of Granada
+that a bee cannot gather honey upon it! But that was not enough for
+us--we must have misery, famine and the brutality of soldiers! There
+must be refined cruelty at least, so you invented the Inquisition.--
+Thanks to that, you can assure yourselves with joyful hearts that we
+are punished like hardened heathens, that we perish in your
+oubliettes and that we are burned alive in the name of your Savior,
+who taught only mercy and goodness! (Pointing to the Calvary) And,
+that prophet--your God!--crucified by the Inquisitors of his time!--A
+martyr, whom you make an executioner! (There is a movement of protest
+among the Inquisitors, two of whom rise indignantly. Zoraya turns
+toward the Christ on the Calvary and addresses it) God of the
+Christians!--They have nailed thy feet and thy hands, so that thou
+canst not come to the aid of the unfortunate! But, if thou canst not
+tear thyself from the cross, cry at least unto these infamous judges
+that they need not look elsewhere for Hell and the gathering of
+witches--Here is the Hell where they sacrifice human creatures, where
+they offer to thee as hymns the lamentations of the tortured, and as
+incense the smell of burning flesh! Here is Hell, Hell with its
+furnaces, Hell with its damned, Hell! Hell! with its demons!
+
+[She falls choking and weeping upon the seat at left. The
+Inquisitors, protesting, rise and advance into the middle of the
+scene, all speaking at the same time.]
+
+ALL. Blasphemy!--Blasphemy!
+
+ALBORNOS. Shall we let this Saracen continue to insult the Tribunal?
+
+CALABAZAS. And the Church!
+
+IBARRA. The sentence!--Eminence! the sentence!
+
+XIMÉNÈS. (Who remains seated) Be calm!--She is not alone a blasphemer
+to the Governor and me.--She is a sorceress!
+
+ALBORNOS. That has been proven!
+
+XIMÉNÈS. Not yet. I must have more testimony in the form of a
+confession.
+
+PADILLA. Then torture her!
+
+XIMÉNÈS. This woman?--All of our torments would not wrest one word
+from her.
+
+ALL. What other means will you use, Eminence?
+
+XIMÉNÈS. (Rising) Then!--(Loud enough for Zoraya to hear him) We
+shall question her accomplice (Zoraya starts) and ask him to explain
+the reason for the murder of Cardenos, which he confesses, and (Zoraya
+again starts) why this woman was in his house on such a night.
+
+ZORAYA. In spite of that he!---- (She rises quickly.)
+
+XIMÉNÈS. It is not for you to plead his case!----
+
+ZORAYA. (Quickly, going to Ximénès) Yes, yes! it is I! (Ximénès makes
+a sign to Gil Andrès.) Wait!--Oh! wait, wait, then! (Andrès stops.)
+It is only I who can explain for him!--He was maddened by my tears,
+my reproaches, my furious jealousy!--The other arrived and insulted
+me--then, in the height of his rage!--Ah!--that crime--I am more
+guilty than he! Would he have killed him, had I not been there?
+
+[All of the Inquisitors advance and group themselves at her left.]
+
+XIMÉNÈS. (Quickly going to her) Then you wish to convince us that
+this murder is your work?
+
+ZORAYA. Yes, it is my work!
+
+XIMÉNÈS. It is you who caused this unfortunate man to become an
+assassin?
+
+ZORAYA. It is I!--It is I!
+
+XIMÉNÈS. And by his flight, a deserter and a renegade?
+
+ZORAYA. Yes! yes!--It is I!--It is I!
+
+XIMÉNÈS. And is that not enough, wretched woman! It must be that you
+are bent upon his utter ruin!
+
+ZORAYA. I?
+
+XIMÉNÈS. For you have condemned him to death!
+
+PADILLA. Without pity, too!
+
+ZORAYA. (Going to Padilla. Ximénès is at her right, Padilla at her
+left, Albornos and Ibarra stand behind her.) Oh! how horrible! I
+would give my flesh and blood to save him!
+
+XIMÉNÈS. No!--You can do that with one word!--And you are too
+obstinate to speak it!
+
+ZORAYA. One word?
+
+PADILLA. Tell the truth!
+
+ZORAYA. But, I told it!--I told the truth!
+
+XIMÉNÈS. (Whispering in her ear) No!--there is one thing which you
+have not admitted--one thing, alone--which will make him innocent of
+all crime!
+
+PADILLA. And save him from all punishment!
+
+XIMÉNÈS. The cause of his madness!
+
+PADILLA. Madness due to your witchcraft!
+
+ALBORNOS. And your philters!
+
+XIMÉNÈS. And your poisons!
+
+[All are silent for an instant, during which Zoraya looks at them
+stupefied.]
+
+ZORAYA. Ah! I understand!--I understand! (The Inquisitors are silent)
+You want me to save him? Yes, it is true! It is true! If I have made
+him mad with some kind of a philter, he is unconscious of his acts!
+He is not guilty! He is more my accomplice! He is my victim! That is
+what you want, is it not?--Is it not?
+
+XIMÉNÈS. And he escapes execution.
+
+PADILLA. He will be sent to the galleys!
+
+XIMÉNÈS. To prison!
+
+ZORAYA. (Quickly) He is free?
+
+XIMÉNÈS AND PADILLA. Yes.
+
+ZORAYA. Ah! say so, then!--say it, then! On that condition, yes! on
+that condition! I will confess to whatever you wish!--(Movement of
+satisfaction among the Inquisitors.) But, when will you set him at
+liberty?
+
+XIMÉNÈS AND PADILLA. On the spot!
+
+ZORAYA. Then! Quickly! quickly!--Tell me what I must say!
+
+[Ximénès returns quickly to his seat. Between two guards, Enrique
+appears at the iron door. Padilla makes him advance to the left out
+of sight of Zoraya, whom the Inquisitors surround, seated and
+standing. The clerk writes. All this takes place rapidly.]
+
+XIMÉNÈS. (Leaning toward Zoraya) You confess of your own free will
+and with repentance that you compelled Enrique Palacios to love you
+madly----
+
+PADILLA. (To Enrique, in a low voice) Do you hear that?
+
+XIMÉNÈS. And that while infatuated he was guilty of crimes of which
+he had no knowledge, that his conduct was caused by philters you had
+given him and by enchantments and other tricks of the black art!
+
+ZORAYA. (Quickly) Yes! yes! I confess it!
+
+XIMÉNÈS. You confess?
+
+ZORAYA. Oh! is not that enough?
+
+XIMÉNÈS. And that you went to the witches' dance?
+
+ZORAYA. Yes! yes! I confess.
+
+[Padilla restrains Enrique from moving forward.]
+
+XIMÉNÈS. That you have taken part in diabolical feasts and obscene
+dances?
+
+ZORAYA. Yes!
+
+[Enrique again attempts to go forward.]
+
+XIMÉNÈS. And that you gave up your body to the lusts of all present,
+sorcerers and demons?
+
+ZORAYA. Yes! yes!
+
+ENRIQUE. (Restrained by Padilla and Gil Andrès) Ah! accursed one!
+
+ZORAYA. (Turning) Him! Oh! (She attempts to rush to him, but others
+prevent her.) No! Do not believe that! My Enrique! Not that! not
+that!--Do not believe it!
+
+ENRIQUE. Away from me, prostitute of Hell!
+
+[Padilla pushes him to the door.]
+
+ZORAYA. I have lied!--It is false! It is false!
+
+XIMÉNÈS. (Sternly) It is false! Detain that man! (The guards step
+before Enrique. To Zoraya.) Is it false?
+
+ZORAYA. No! no!--It is true!--I confess! I confess! It is true!
+
+[She falls upon the steps exhausted. Padilla drags Enrique out of the
+door at right.]
+
+XIMÉNÈS. We shall burn her after vespers!
+
+(Curtain)
+
+
+ACT FIVE
+
+Scene--Before the Door of the Lions of the Cathedral of Toledo. At the
+right, the portal in front of which are a number of steps. In the
+foreground, an alley. There are two other alleys: one very narrow, but
+passable, leads obliquely past the church; the other, at the left,
+faces the scene, is wider and sloping. At the left, in the foreground,
+is a house beyond which is a street and a pyre for burning victims. It
+is near the close of day and the heavens are red with the glow of the
+setting sun. Two archers guard the pyre. Two others stand at the
+entrances of the alleys at the foot of the stage.
+
+
+Scene One
+
+[Doña Rufina, Doña Syrena, Ramiro, Rioubos, Velasco, Ambrosio,
+Cristobol, Torillo, later Cleofas, people, monks, soldiers, women and
+children.]
+
+[There are few persons in the scene, with the exception of some men
+conversing near the doors. A group of gentlemen, among them Cristobol,
+Velasco and Rioubos, enter from the alley at the foot of the scene and
+stop to look at the pyre. Doña Serafina, Doña Rufina and Doña Syrena,
+preceded by Ramiro, enter from the other alley at the same time that
+Don Ambrosio and Doña Fabia come out of the house at the left. Men,
+women and children are coming out of the Cathedral.]
+
+RAMIRO. Here is the pyre!
+
+DOÑA RUFINA. They intend to burn her tonight, do they not?
+
+RAMIRO. In a short time, Señoras--have patience. I have seen them come
+out of the prison.
+
+[After examining the pyre, they join Fabia and Ambrosio in front of
+the house.]
+
+DOÑA SYRENA. (To Ramiro) Is there anything new concerning Don Enrique?
+
+RAMIRO. Yes, good news!--His Lordship is free!
+
+DOÑA RUFINA AND DOÑA SYRENA. Ah! so much the better!
+
+RAMIRO. His Eminence has gone to carry the news to the king, leaving,
+as always, his business in secular hands--that is to say, leaving His
+Excellency, the Governor, the task of fulfilling the sentence:--for
+the Church will not spill blood!
+
+DOÑA SYRENA. Where is Don Enrique?
+
+RAMIRO. At this moment, I do not know. (Cleofas comes out of the
+church with two persons, who salute him and bow.) Here is Cleofas
+coming out of the church. He will tell you. (He calls.) Master
+Cleofas!
+
+CLEOFAS. Ah! at your service! (He approaches.) Charming ladies!----
+
+DOÑA RUFINA. We were speaking of Don Enrique.
+
+DOÑA SYRENA. Saved, by the grace of God!
+
+AMBROSIO. Was he released without punishment?
+
+[The young men form in groups round Cleofas and the others in the
+foreground at the left.]
+
+CLEOFAS. Pardoned!--This evening he will enter the Franciscan
+cloisters to do penance for three months. He will live on bread and
+water, wear hair-cloth and sleep on cinders.
+
+DOÑA RUFINA. That is a jolly honeymoon!
+
+DOÑA FABIA. And what does his young wife say?
+
+CLEOFAS. Doña Joana?
+
+DOÑA FABIA AND DOÑA RUFINA. Yes.
+
+CLEOFAS. She says nothing! Since yesterday she has been in such a
+deep sleep that they cannot awaken her.
+
+ALL. (Turning) Since yesterday! Is that possible!
+
+CLEOFAS. His Excellency, the Governor, was rejoicing this morning
+because his daughter knew nothing of what had happened during the
+night. But they are now very much concerned. She had these sleeps
+in the convent. But this is a longer sleep than the others, they
+say. Cleofas is the only one to work over her.
+
+ALL. Naturally.
+
+CLEOFAS. Naturally!--I cannot make her show a sign of awakening.
+
+ALL. Ah!
+
+CLEOFAS. Pinchings, prickings! I have tried everything except the
+red-hot iron, to which His Excellency objects! Pain has vanished! As
+the Mooress has bewitched the poor child, my art is ineffective. I
+have advised the only effective remedy: exorcism in the same church,
+before the highest altar. (They hear the chants of young girls.) His
+Excellency and Don Enrique have had the patient carried into it--and
+they are praying that the demon which possesses her will be chased
+away. Master Oliveira, whom I left there, will be likely to profit
+and become an exorciser himself.
+
+[He salutes and takes leave.]
+
+DOÑA RUFINA. And you are going?
+
+DOÑA SYRENA. Without seeing them burn the Sorceress?
+
+CLEOFAS. Pooh! I have seen such things as those so often that I no
+longer find them tasteful.
+
+[He leaves by the alley at the right. The others, grouped at the
+left, look at Don Enrique, who comes out of the church and slowly
+descends the steps.]
+
+
+Scene Two
+
+[The same, without Cleofas. Don Enrique, Ramiro, Torillo]
+
+ENRIQUE. (Calling Ramiro, who is giving some orders to his archers)
+Ramiro!
+
+RAMIRO. (Turning and quickly going to him) Ah! my lord! What a relief
+your deliverance is to those who love you! (He kisses his hand.) And
+what joy you, yourself, must feel!
+
+ENRIQUE. I am very sad, Ramiro, at the sight of the pyre.
+
+RAMIRO. Has Your Honor not come to await the arrival of this creature?
+
+ENRIQUE. Guilty as she is, I have loved her too well not to pity her.
+Tell Torillo to come here and consult with me. (Ramiro speaks in a
+low tone to Torillo. The songs in the church cease, Ramiro goes to the
+archers. Torilla goes to Enrique in the foreground.) Are you the
+person who compels the condemned ones to mount the pyres?
+
+TORILLO. Yes, my lord, and I also light the fires.
+
+ENRIQUE. How can you sleep after doing such work?
+
+TORILLO. From habit.
+
+ENRIQUE. You often save the victims from the horror of being burned
+alive, do you not?
+
+TORILLO. Yes, when the Holy Tribunal gives orders to strangle them
+and attach them to the stake!
+
+ENRIQUE. You have not received such an order for her?
+
+TORILLO. No, my lord.
+
+ENRIQUE. They tell me that the parents or friends of the condemned
+frequently ask such a favor of you?
+
+TORILLO. It is true, my lord.
+
+ENRIQUE. And do you consent to give it?
+
+TORILLO. For charity.
+
+ENRIQUE. And for your own advantage, also?
+
+TORILLO. Those are my little profits.
+
+ENRIQUE. That must be done for her.--What price have you set upon
+such concessions?
+
+TORILLO. I shall leave that to the judgment of Your Grace. But, being
+an honest man, I must tell you that a similar request has been made.
+
+ENRIQUE. By whom?
+
+TORILLO. By a woman-servant, she told me, in the service of the
+condemned.
+
+ENRIQUE. Aisha?
+
+TORILLO. I do not know.
+
+ENRIQUE. Has she paid you?
+
+TORILLO. She has given me ten ducats for agreeing to give to the
+Mooress a little waxen pill the instant that I untie her hands for
+public penance.
+
+ENRIQUE. Yes! yes! I understand!--You have consented?
+
+TORILLO. I promised without fully deciding to do so! But, now that
+Your Grace desires it also----
+
+ENRIQUE. Ah! God, yes!--and you shall have a thousand ducats tomorrow!
+
+TORILLO. The bargain is concluded, señor.
+
+[He turns to go.]
+
+ENRIQUE. (Detaining him with a gesture) But how can you prove to me
+that you will keep your promise?
+
+TORILLO. Because the victim will not utter a cry when I set fire to
+the pyre; if she restrains then she is dead.
+
+ENRIQUE. If she is unable to utter a cry, or a groan, I will double
+the sum.
+
+TORILLO. The bargain is settled, my lord.
+
+[He salutes and goes away. Enrique turns to enter the church. Bells
+begin to toll. The assistants go to the foot of the stage to await
+the arrival of the procession. In the distance are heard sounds of
+the mob preceding the condemned.]
+
+ENRIQUE. (With eyes turned toward the upper street) Is that you,
+Oliveira?--Doña Joana?
+
+OLIVEIRA. The same all of the time. (The distant noises are
+approaching.) Here comes that unfortunate woman.
+
+ENRIQUE. Yes! it is she!--Ah, Oliveira, who could believe, if she had
+not confessed it herself, that this exquisite creature is a detestable
+magician?
+
+Oliviera. (In a low voice) Oh! her confessions! (Enrique, surprised,
+turns and looks at him.) Don Enrique, you are a man who can rely on
+himself. When night comes, I shall leave Toledo for I have much to
+fear because I have expressed myself too frankly concerning this poor
+woman, who is no more a sorceress than we are magicians, you and me!
+
+ENRIQUE. (Troubled) Is it possible!--But her confessions, her
+confessions?
+
+OLIVEIRA. They wrung them from her when they promised your freedom,
+her sorcery giving you an excuse.
+
+ENRIQUE. And when she cried to me: "It is false! It is false!"----
+
+[The sounds come nearer.]
+
+OLIVEIRA. She, you see, had condemned herself to the stake!
+
+ENRIQUE. Oh! brute that I am!--I have not understood!
+
+OLIVEIRA. (Trying to calm him) Be careful! Enrique. Must I be a
+coward!--I could hack myself into pieces!
+
+OLIVEIRA. (Holding him) In God's name, do nothing foolish! There
+remains one more chance for you.
+
+ENRIQUE. (Quickly) Joana?
+
+OLIVEIRA. Yes!--Be careful, or they will hear us!
+
+[At this instant the mob invades the place from all sides. The people
+are impatient and unruly and the archers rush in from the upper
+street, shouting, and restrain them. The cathedral door opens wide.
+Calabazas, Albornos, Ibarra and Molina come out, followed by other
+Franciscan and Dominican monks, who group themselves under the portal,
+while a funeral march is played on the organ. The bells continue to
+toll. Oliveira quickly leaves by one of the streets. Enrique crosses
+the scene and disappears in the crowd. The archers have great
+difficulty in keeping open a passage for the procession, which slowly
+enters from the upper street. The clamors of the mob are redoubled.
+Six archers of the Inquisition, dressed in black, lead the cortége,
+followed by six Franciscan monks carrying candles and murmuring
+prayers. Then appear two lantern-bearers, followed by a porter
+carrying a figure of Christ shaded by a small black dais, and Zoraya
+with hands tied and dressed in san-benito. Gil Andrès and his two
+assistants follow. Behind them come four Franciscan monks carrying
+torches. The archers and the monks arrange themselves at the left in
+the foreground. The lantern-bearers and the porter carrying the
+crucifix stop before the pyre. Zoraya, escorted by Gil Andrès and his
+aides, halts in front of the portal. While the procession is marching,
+the bells ring, the organ plays and the mob hurls insults at the
+condemned woman.]
+
+
+Scene Three
+
+[The same persons, Zoraya, Calabazas, Albornos, Ibarra, Molina,
+afterward Padilla.]
+
+[At a gesture from Calabazas, Zoraya stops, the bells stop ringing,
+the mob becomes quiet. Indistinct organ music is heard.]
+
+CALABAZAS. (Standing at the head of the steps) Woman, the Inquisition
+has delivered you over for punishment to Toledo. Before you are
+purified by fire, make a public penance on your knees, torch in hand.
+(Torilla unties Zoraya's hand.) And ask pardon for your crimes from
+God, from the Church and from the King.
+
+[Gil Andrès presents the torch to Zoraya.]
+
+ZORAYA. (Spurning the torch) Ask pardon yourself, priest, for the
+crime which you are about to commit.
+
+[Murmurs from the crowd and the priests.]
+
+CALABAZAS. (To Gil Andrès) Do your duty!
+
+[When Gil Andrès and his men attempt to lead Zoraya away Enrique
+rushes into the scene. All stop instantly when Padilla, in the church,
+cries "Wait!" He enters.]
+
+
+Scene Four
+
+[The same persons, Padilla, Enrique]
+
+PADILLA. (Coming quickly out of the church with Enrique) Stop! (The
+organ ceases to play. Songs of young girls are heard in the church.)
+Is it you, sorceress, who have plunged my daughter into this awful
+sleep from which even the prayers of the church cannot rouse her?
+
+ZORAYA. It is I! (Exclamations from the crowd.) And I alone can bring
+her out of it.
+
+[More exclamations from the crowd.]
+
+PADILLA. Do it then, demon!
+
+ZORAYA. Obey you?--No!
+
+PADILLA. I will force you to do it!
+
+ZORAYA. You cannot burn me twice!
+
+PADILLA. Ah! wretch!
+
+ZORAYA. Like these monks you have had no pity for me! You added to
+my tortures by bringing my lover to hear me. Now, I will torture you
+by means of your daughter. Invoke these priests, ring your bells,
+swing your censers! Chant your canticles! She will awaken only at the
+sound of my voice! When my body is burned to ashes, she sleeps her
+last sleep.
+
+[Murmurs of indignation from the crowd. Zoraya makes a movement to go
+to the stake.]
+
+PADILLA. (Descending the steps furiously) Seize her! (The gaolers
+move toward her.) No! Wait! (He motions them back.) Wait! (To Zoraya.)
+Ah! Wretch, I am at your mercy!--Is it a pardon and freedom that you want?
+
+ZORAYA. No! life would be only full of sorrow for me! I prefer death,
+which will give me an opportunity for revenge!
+
+ENRIQUE. (Standing between Zoraya and the pyre) No! No! Do not use
+her for revenge. And, in exchange for the life, which you will save,
+I give you mine--give him his daughter!
+
+ZORAYA. Ah! poor man, who implores of me a favor for this official--if
+you could know----
+
+ENRIQUE. (In a low voice) I know all!----
+
+ZORAYA. (Looking into his eyes, trembling) Oh!
+
+ENRIQUE. (Tenderly) All!--And it is for the life of this innocent
+girl that I want your own--Zoraya!
+
+ZORAYA. (Moved by his accent) Ah! that word is enough!--This time I
+have recognized your voice!--Very well, if the governor promises to
+pardon me.
+
+PADILLA. Absolutely!
+
+ZORAYA. On your oath!
+
+[Mutterings from the crowd.]
+
+PADILLA. Before God!
+
+[Louder mutterings.]
+
+ZORAYA. I am ready!
+
+ENRIQUE. Come, then!
+
+[He turns to enter the church. The Inquisitors at the entrance bar his
+way.]
+
+CALABAZAS. The sorceress cannot cross the threshold of the church!
+
+PADILLA. Very well!--They can bring my child here!
+
+CALABAZAS AND THE INQUISITORS. Governor----
+
+PADILLA. I will be obeyed!
+
+[He starts for the doorway. Enrique rushes into the church. Calabazas
+and the other Inquisitors surround Padilla, while Zoraya removes her
+cloak.]
+
+CALABAZAS. Padilla!--Such a bargain with this woman!
+
+ALBORNOS. It is a compact with a demon!
+
+PADILLA. My daughter! I want my daughter!
+
+MOLINA. Do you want her before going to Hell, yourself?
+
+PADILLA. If that is the price!--Give her to me!
+
+IBARRA. There goes the salvation of your soul!
+
+PADILLA. The salvation of my daughter!
+
+CALABAZAS. It were better that she should die!
+
+PADILLA. Ah! priests, you have no children! But the King is a father,
+he--he will understand me!
+
+[Four girls from the convent of Mercy come out of the church followed
+by two nuns, Enrique and Fatoum, conducting lackeys wearing Padilla's
+livery, who carry a kind of easy chair in which Joana is sleeping
+under a mantle of rich material ornamented with white flowers. The
+chair is deposited at the foot of the steps. The crowd, murmuring with
+interest and curiosity, draws near. Far in the church women are
+singing a canticle. Profound silence follows. All the assistants go
+forward, stretching their necks to see the women of the first rank.
+The nuns, the young girls, and Fatoum and Padilla on their knees, are
+under the portal. To the right, at the entrance of the alley, are Aisha
+and Zaguir, who witnessed Zoraya's arrival. Zoraya stands on the steps
+behind Joana and raises her face to the crowd. They see the young girl
+pale as death, her eyes closed. Enrique stands at the left, apart from
+the others.]
+
+ZORAYA. (Putting her fingers on Joana's eyelids, then upon her head)
+Joana! Joana! (Joana moves. Zoraya breathes on her forehead.) Awaken!
+(With authority.) I want you to!--(Joana moves with effort and opens
+her eyes. Murmurs from the assistants.) Arise!
+
+[With Zoraya's aid Joana raises herself, puts her feet on the ground
+and stands. Clamors of admiration from the crowd. Joana looks about
+with surprise.]
+
+JOANA. Where am I? (She sees Zoraya.) The Mooress!--Fatoum!--My
+sisters!
+
+PADILLA. Joana!
+
+JOANA. My father!
+
+[She throws herself into his arms. Exclamations from the crowd.]
+
+THE PEOPLE. A miracle! A miracle!
+
+CALABAZAS. (Forcibly) Silence, people! (The crowd is intimidated.) No
+miracle is performed by Satan!
+
+PADILLA. (At the head of the steps) Go and thank God! (He places Joana
+in the hands of the nuns, who conduct her into the church. He turns to
+Zoraya.) Go in peace, Zoraya! And all of you let the Mooress depart.
+She is free! (To Ramiro.) Ramiro, see her safely home!
+
+[He enters the church followed by the Inquisitors. The organs intone
+the Te Deum. Enrique, under the portal, exchanges a look of farewell
+with Zoraya, who lingers, crossing to the alley. Before her, the crowd
+draws back in fright and spreads out at the entrance of the alley to
+let her pass. The monks quickly cross the scene and bar her egress.
+Zoraya turns to leave by the other street, but other monks quickly
+prevent her. All round her is a line of monks.]
+
+A MONK. Christians! are you going to let this daughter of Hell go
+free?
+
+ALL. No! No!
+
+[They crowd upon Zoraya, who retreats toward the church. Enrique, who
+has seen the movement and heard the words, steps between her and the
+monks.]
+
+ENRIQUE. Out of here, monks!--Make way!
+
+THE MONKS. No! No! Seize the sorceress!
+
+THE CROWD. Upon the sorceress!
+
+[The departing crowd, stopped by the movements of the monks, makes a
+threatening circle, which advances upon Enrique and Zoraya, who
+retreat toward the portal of the church.]
+
+ENRIQUE. You cowardly wretches!
+
+[He draws his sword, which checks them for an instant.]
+
+A MONK. Palacios! You will not go free a second time!
+
+ENRIQUE. Ramiro! Arias! My archers, help me!
+
+[Instead of responding to Enrique's call for assistance, Ramiro,
+Arias and the archers join the crowd and shout.]
+
+ALL. (Encouraged by this move) To the stake! To the stake with the
+sorceress!
+
+ZORAYA. (Taking refuge above the steps of the church, then under the
+portal) They will kill you--Save yourself!
+
+ENRIQUE. (Covering his retreat, sword in hand) Go into the
+church!--into the church!
+
+[Zoraya runs to the closed door, which she shakes in vain.]
+
+ZORAYA. Open! Open for us!
+
+[No response is heard except singing and organ music. The mob laughs.]
+
+THE CROWD. (Howling and drawing nearer) Death!--to the death!
+
+[Enrique meanwhile, facing his assailants, finds himself on the steps.
+Zoraya is behind him.]
+
+ENRIQUE. Ah! Infamous villains!
+
+RAMIRO. (Holding back the archers) My lord, we do not want to harm
+you, but give us that woman!
+
+ENRIQUE. No, ruffians!
+
+THE CROWD. To the death!
+
+A MAN IN THE CROWD. (To Torillo) Executioner, prepare your pyre. We
+shall burn the sorceress in spite of him!
+
+THE CROWD. Yes! Yes!
+
+[All turn to look at Torillo and the stake.]
+
+ZORAYA. (Seeing no one looking at her and Enrique) Here they will
+kill both of us--Will you not save yourself?
+
+ENRIQUE. To me life among such brutes would be horrible!
+
+ZORAYA. Then a last kiss!--Give me your lips!----
+
+[She puts between her teeth the wax pill. Their lips join. Torillo
+appears at the pyre, torch in hand, amid shouts of approval from the
+crowd, which turns menacingly towards Zoraya and Enrique. Suddenly
+Enrique falls and rolls down the steps of the church, causing the mob
+to recoil with exclamations of astonishment.]
+
+RAMIRO. (Seeing Zoraya, who has fallen, on her knees beside Enrique)
+To the stake with her! The sorceress still lives!
+
+[He starts toward her.]
+
+ZORAYA. (Partly rising) Too late, wild beast!
+
+[She falls and dies.]
+
+ALL. To the stake with her body! To the stake!
+
+(Curtain)
+
+
+
+
+
+End of the Project Gutenberg EBook of The Sorceress, by Victorien Sardou
+
+*** END OF THE PROJECT GUTENBERG EBOOK 54705 ***
