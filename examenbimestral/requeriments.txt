@@ -1,0 +1,8 @@
+kagglehub
+pandas
+sentence-transformers
+tqdm
+numpy
+scikit-learn
+matplotlib
+ipython
