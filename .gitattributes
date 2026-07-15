@@ -1,3 +1,0 @@
-examen2bim/arxiv_chroma_db_full/*.bin filter=lfs diff=lfs merge=lfs -text
-examen2bim/arxiv_chroma_db_full/*.sqlite3 filter=lfs diff=lfs merge=lfs -text
-examen2bim/arxiv_chroma_db_full/** filter=lfs diff=lfs merge=lfs -text
