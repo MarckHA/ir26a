@@ -17,22 +17,27 @@ st.title("🔎 Buscador de Papers Científicos (RAG)")
 @st.cache_resource
 def load_rag_system():
     persist_dir = "./arxiv_chroma_db_full"
-    zip_filename = 'base.zip'  # Definimos el nombre del archivo aquí
+    zip_filename = 'base.zip'
     
-    # Si la carpeta no existe, la descargamos
+    # 1. Lógica de descarga y extracción
     if not os.path.exists(persist_dir):
         st.info("Descargando base de datos desde la nube... esto solo pasará una vez.")
         file_id = os.environ.get("DRIVE_FILE_ID")
-        
-        # Descargar usando el ID del .env
         gdown.download(id=file_id, output=zip_filename, quiet=False)
         
-        # Descomprimir
         with zipfile.ZipFile(zip_filename, 'r') as zip_ref:
             zip_ref.extractall(".")
 
+    # 2. Cargar embeddings y base de datos con nombre de colección explícito
     embedding_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
-    vector_db = Chroma(persist_directory=persist_dir, embedding_function=embedding_model)
+    
+    # IMPORTANTE: Aquí especificamos 'arxiv_collection' para que coincida con tu notebook
+    vector_db = Chroma(
+        persist_directory=persist_dir, 
+        embedding_function=embedding_model,
+        collection_name="arxiv_collection" 
+    )
+    
     retriever = vector_db.as_retriever(search_kwargs={"k": 5})
 
     llm = ChatGroq(model_name="llama-3.1-8b-instant", temperature=0, api_key=os.environ.get("GROQ_API_KEY"))
