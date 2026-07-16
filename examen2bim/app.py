@@ -19,14 +19,21 @@ def load_rag_system():
     persist_dir = "./arxiv_chroma_db_full"
     zip_filename = 'base.zip'
     
-    # 1. Lógica de descarga y extracción
+    # Si la carpeta no existe, la descargamos
     if not os.path.exists(persist_dir):
-        st.info("Descargando base de datos desde la nube... esto solo pasará una vez.")
+        st.info("Descargando base de datos...")
         file_id = os.environ.get("DRIVE_FILE_ID")
-        gdown.download(id=file_id, output=zip_filename, quiet=False)
+        gdown.download(id=file_id, output='base.zip', quiet=False)
         
-        with zipfile.ZipFile(zip_filename, 'r') as zip_ref:
+        # Descomprimir en la raíz
+        with zipfile.ZipFile('base.zip', 'r') as zip_ref:
             zip_ref.extractall(".")
+            
+    # VALIDACIÓN: Si después de descargar, la carpeta sigue sin existir, 
+    # busca si se creó con otro nombre o en otra ruta
+    if not os.path.exists(persist_dir):
+        st.error(f"Error: La carpeta {persist_dir} no se creó tras la descarga. Verifica la estructura del ZIP.")
+        st.stop()
 
     # 2. Cargar embeddings y base de datos con nombre de colección explícito
     embedding_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
@@ -37,6 +44,13 @@ def load_rag_system():
         embedding_function=embedding_model,
         collection_name="arxiv_collection" 
     )
+
+    # Debug: ¿Cuántos documentos ve Chroma realmente?
+    try:
+        doc_count = vector_db._collection.count()
+        st.write(f"DEBUG: Documentos encontrados en la base: {doc_count}")
+    except Exception as e:
+        st.write(f"DEBUG: Error contando documentos: {e}")
     
     retriever = vector_db.as_retriever(search_kwargs={"k": 5})
 
